@@ -1,0 +1,178 @@
+#TITLE:The Magic Of The Wizard's Dreams
+#ARTIST:Rhapsody
+#MP3:Rhapsody - The Magic Of The Wizard's Dreams.mp3
+#COVER:Rhapsody - The Magic Of The Wizard's Dreams [CO].jpg
+#BACKGROUND:Rhapsody - The Magic Of The Wizard's Dreams [BG].jpg
+#EDITION:Ultrastar Metal
+#BPM:232,02
+#GAP:3000
+: 222 16 53 In
+: 238 16 58  those
+: 254 15 60  si
+: 269 11 61 lent
+: 286 26 60  shades
+: 312 6 58  of
+: 318 16 53  grey
+- 336
+: 352 13 53 I
+: 365 15 58  will
+: 380 23 60  find
+: 407 6 61  a
+: 417 30 61  place
+- 449
+: 478 16 53 to
+: 495 14 58  es
+: 509 17 60 cape
+: 526 17 61  the
+: 543 22 60  end
+: 565 9 58 less
+: 574 25 53  night
+- 601
+: 605 14 53 to
+: 619 20 58  find
+: 639 18 60  a
+: 662 4 61  new
+: 666 31 61  sun
+- 699
+: 992 13 60 moon
+: 1005 17 60 shine
+: 1032 6 60  in
+: 1038 9 61  this
+: 1047 8 63  et
+: 1055 15 66 er
+: 1070 16 65 nal
+: 1087 40 65  night
+- 1129
+: 1154 11 61 An
+: 1165 29 61 gels
+: 1199 15 63  are
+: 1214 17 65  call
+: 1231 25 65 ing
+- 1258
+: 1262 9 65 from
+: 1271 7 67  di
+: 1278 17 70 vine
+: 1295 25 68  lost
+: 1326 9 68  crys
+: 1335 7 67 tal
+: 1342 35 67  realms
+- 1379
+: 1415 9 61 rid
+: 1424 28 61 ing
+: 1455 14 63  from
+: 1469 18 65  hea
+: 1487 25 65 ven
+- 1514
+: 1520 7 65 for
+: 1527 8 67  the
+: 1535 16 70  mag
+: 1551 19 68 ic
+: 1582 9 68  of
+: 1591 8 70  the
+: 1600 23 73  Wiz
+: 1623 8 72 ars큦
+: 1631 24 72  dream
+- 1657
+: 1668 10 53 In
+: 1678 16 58  the
+: 1694 16 60  mis
+: 1710 14 61 ty
+: 1727 22 60  lights
+: 1750 8 58  of
+: 1758 16 53  dawn
+- 1767
+: 1792 13 53 be
+: 1805 16 58 tween
+: 1821 22 60  heart
+: 1847 6 61  and
+: 1853 26 61  soul
+- 1881
+: 1920 14 53 El
+: 1934 16 58 gard's
+: 1950 17 60  call
+: 1967 11 61 ing
+: 1982 20 60  for
+: 2003 11 58  new
+: 2014 24 53  hope
+- 2040
+: 2047 15 53 to
+: 2062 16 58  a
+: 2078 18 60 void
+: 2100 8 61  our
+: 2108 29 61  fall
+- 2139
+: 2432 12 60 moon
+: 2444 19 60 shine
+: 2472 6 60  in
+: 2478 9 61  this
+: 2488 7 63  et
+: 2495 14 66 er
+: 2509 17 65 nal
+: 2526 39 65  night
+- 2567
+: 2591 15 61 An
+: 2606 29 61 gels
+: 2638 16 63  are
+: 2654 17 65  call
+: 2671 27 65 ing
+- 2700
+: 2702 9 65 from
+: 2711 8 67  di
+: 2719 16 70 vine
+: 2735 27 68  lost
+: 2766 9 68  crys
+: 2775 7 67 tal
+: 2784 28 67  realms
+- 2814
+: 2850 13 61 rid
+: 2863 24 61 ing
+: 2894 15 63  from
+: 2909 18 65  heav
+: 2927 23 65 en
+- 2952
+: 2960 7 65 for
+: 2967 8 67  the
+: 2975 17 70  mag
+: 2992 19 68 ic
+: 3021 11 68  of
+: 3032 7 70  the
+: 3039 24 73  Wiz
+: 3063 8 72 ard큦
+: 3071 22 72  dream
+- 3095
+: 3103 15 61 An
+: 3118 27 61 gels
+: 3150 16 63  are
+: 3166 17 65  call
+: 3183 27 65 ing
+- 3212
+: 3215 8 65 from
+: 3223 8 67  di
+: 3231 15 70 vine
+: 3246 26 68  lost
+: 3278 9 68  crys
+: 3287 8 67 tal
+: 3295 33 67  realms
+- 3330
+: 3369 6 61 rid
+: 3375 29 61 ing
+: 3404 18 63  from
+: 3422 18 65  heav
+: 3440 24 65 en
+- 3466
+: 3471 8 65 for
+: 3479 8 67  the
+: 3487 17 70  mag
+: 3504 19 68 ic
+: 3536 8 68  of
+: 3544 7 70  the
+: 3551 24 73  Wiz
+: 3575 7 72 ard큦
+: 3582 20 72  dream
+- 3602
+: 3602 12 70 the
+: 3614 25 73  Wiz
+: 3639 8 75 ard큦
+: 3647 22 75  dream
+E
+

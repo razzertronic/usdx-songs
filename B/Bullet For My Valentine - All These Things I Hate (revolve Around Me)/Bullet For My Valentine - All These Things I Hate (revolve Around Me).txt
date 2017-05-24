@@ -1,0 +1,357 @@
+#TITLE:All These Things I Hate (revolve Around Me)
+#ARTIST:Bullet For My Valentine
+#MP3:Bullet For My Valentine - All These Things I Hate (revolve Around Me).mp3
+#COVER:Bullet For My Valentine - All These Things I Hate (revolve Around Me) [CO].jpg
+#BACKGROUND:Bullet For My Valentine - All These Things I Hate (revolve Around Me) [BG].jpg
+#EDITION:Ultrastar Metal
+#BPM:94
+#GAP:1366
+: 0 6 62 Once
+: 6 3 62  more
+: 9 1 64  I
+: 11 3 64  say
+: 15 4 62  good~
+: 19 8 64 bye
+- 28
+: 29 5 66 To
+: 34 6 67  you
+- 42
+: 43 5 67 Things
+: 48 4 64  happen
+: 52 2 64  but
+: 54 2 66  we
+: 56 4 66  don't
+: 60 5 64  really
+: 65 4 66  know
+: 69 9 68  why
+- 80
+: 92 1 66 If
+: 93 2 68  it's
+: 95 5 68  supposed
+: 100 1 60  to
+: 102 2 62  be
+: 104 3 66  like
+: 108 5 68  this
+- 114
+: 114 3 64 Why
+: 117 2 60  do
+: 120 4 60  most
+: 124 3 60  of
+: 127 2 62  us
+: 129 6 62  ignore
+: 135 2 62  the
+: 137 4 62  chance
+: 142 2 62  to
+: 144 8 62  miss?
+- 154
+: 156 5 64 Oh 
+: 161 4 66 ye
+: 165 3 64 ~~
+: 168 3 66 ah
+- 173
+: 188 2 62 Torn
+: 190 4 62  apart
+: 194 1 62  at
+: 195 1 62  the
+: 196 3 64  seam
+- 200
+: 201 1 62 and
+: 202 1 64  my
+: 203 3 64  dreams
+: 206 2 62  turn
+: 208 1 62  to
+: 209 3 64  tears
+- 213
+: 213 1 63 I'm
+: 214 2 63  not
+: 216 4 63  feeling
+: 220 2 63  this
+: 222 7 64  situ~
+: 229 6 64 ation
+- 236
+: 236 2 60 Run
+: 238 3 60  away
+: 241 2 62  try
+: 243 1 62  to
+: 244 3 62  find
+: 247 1 62  a
+: 248 3 62  safe
+: 251 3 62  place
+: 254 2 62  you
+: 256 2 62  can
+: 258 3 64  hide
+- 263
+: 263 1 64 It's
+: 264 1 62  the
+: 265 2 62  best
+: 267 2 62  place
+: 269 2 62  to
+: 271 1 62  be
+- 273
+: 273 1 62 when
+: 274 2 62  you're
+: 276 3 62  feeling
+: 279 2 62  like
+- 282
+: 282 7 62 me~ah!...(me!)
+- 291
+: 294 7 60 Yeah!...(yeah!)
+- 303
+: 306 3 62 All
+: 309 3 64  these
+: 312 3 62  things
+: 315 3 64  I
+: 318 3 62  hate
+: 321 5 64  revolve
+: 326 4 66  around
+: 330 7 66  me~ah
+- 339
+: 342 8 66 Yeah!...(yeah!)
+- 352
+: 354 3 63 Just
+: 357 3 60  back
+: 360 3 60  off
+: 363 6 60  before
+: 369 2 62  I
+: 371 3 62  sna~
+: 374 7 64 aap
+- 383
+: 408 6 58 Once
+: 414 3 56  more
+: 417 2 56  you
+: 419 4 56  tell
+: 423 3 56  those
+: 426 11 58  li~es
+- 438
+: 438 6 56 to
+: 444 4 58  me
+- 450
+: 452 3 65 Why
+: 455 3 63  can't
+: 458 2 63  you
+: 460 2 63  just
+: 462 3 63  be
+: 465 3 63  straight
+: 468 2 63  up
+: 470 3 63  with
+- 474
+: 474 3 65 honest
+: 477 12 66  ~~y?
+- 491
+: 500 2 62 When
+: 502 2 62  you
+: 504 2 64  say
+: 506 2 62  those
+: 508 2 62  things
+: 510 3 62  in
+: 513 3 62  my
+: 516 6 63  ear
+- 522
+: 522 3 64 Why
+: 525 2 62  do
+: 527 3 64  you
+: 530 7 62  always
+: 537 3 62  tell
+: 540 2 62  me
+- 542
+: 542 2 62 what
+: 544 2 62  you
+: 546 3 64  wanna
+: 549 11 64  hear?
+- 562
+: 567 3 64 Oh
+: 570 9 66  ye~
+: 579 13 68  ~ah
+- 594
+: 596 1 62 Wear
+: 597 2 62  your
+: 599 3 64  heart
+: 602 1 62  on
+: 603 2 62  your
+: 605 3 64  sleeve
+- 608
+: 608 2 62 make
+: 610 2 62  things
+: 612 2 62  hard
+: 614 1 62  to
+: 615 5 64  believe
+- 621
+: 621 1 63 I'm
+: 622 2 63  not
+: 624 4 63  feeling
+: 628 2 63  this
+: 630 12 64  situation
+- 643
+: 644 2 60 Run
+: 646 3 60  away
+: 649 3 62  try
+: 652 1 62  to
+: 653 3 62  find
+: 656 1 62  a
+: 657 2 62  safe
+: 659 3 62  place
+: 662 1 62  you
+: 663 2 62  can
+: 665 4 64  hide
+- 670
+: 670 1 64 It's
+: 671 1 62  the
+: 672 2 62  best
+: 674 2 62  place
+: 676 2 62  to
+: 678 2 62  be
+- 680
+: 680 2 62 when
+: 682 2 62  you're
+: 684 4 62  feeling
+: 688 2 62  like
+- 690
+: 690 7 60 Me~aaah
+- 699
+: 704 7 60 Yeah!!
+- 713
+: 714 3 62 All
+: 717 3 64  these
+: 720 3 62  things
+: 723 2 64  I
+: 725 2 62  hate
+: 727 6 64  revolve
+: 733 5 66  around
+: 738 7 66  me~ah
+- 747
+: 750 8 62 Yeah...(yeah!)
+- 760
+: 762 3 64 Just
+: 765 3 60  back
+: 768 3 60  off
+: 771 5 60  before
+: 776 3 62  I
+: 779 3 62  snap
+- 783
+: 783 1 62 and
+: 784 2 62  you'll
+: 786 7 64  see~ah!...(see!)
+- 795
+: 800 7 62 me~ah!...(me!)
+- 809
+: 811 2 62 All
+: 813 3 64  these
+: 816 3 62  things
+: 819 2 64  I
+: 821 3 62  hate
+: 824 6 64  revolve
+: 830 4 66  around
+: 834 7 66  me~ah
+- 838
+: 846 7 62 Yeah...(yeah!)
+- 858
+: 858 3 64 Just
+: 861 3 60  back
+: 864 3 60  off
+: 867 5 60  before
+: 872 2 62  I
+: 874 3 62  sna~
+: 877 7 64 aap
+- 886
+: 1023 3 62 Torn
+: 1026 4 62  apart
+: 1030 1 62  at
+: 1031 1 62  the
+: 1032 3 64  seam
+- 1036
+: 1036 1 62 and
+: 1037 1 64  my
+: 1038 4 64  dreams
+: 1042 2 62  turn
+: 1044 1 62  to
+: 1045 3 64  tears
+- 1049
+: 1049 1 63 I'm
+: 1050 2 63  not
+: 1052 4 63  feeling
+: 1056 2 63  this
+: 1058 13 64  situation
+- 1072
+: 1072 2 60 Run
+: 1074 4 60  away
+: 1078 2 62  try
+: 1080 1 62  to
+: 1081 3 62  find
+: 1084 1 62  a
+: 1085 3 62  safe
+: 1088 2 62  place
+: 1090 1 62  you
+: 1091 2 62  can
+: 1093 4 64  hide
+- 1098
+: 1098 2 64 It's
+: 1100 1 62  the
+: 1101 1 62  best
+: 1102 2 62  place
+: 1104 1 62  to
+: 1105 2 62  be
+- 1108
+: 1108 2 62 when
+: 1110 2 62  you're
+: 1112 4 62  feeling
+: 1116 2 62  like
+- 1118
+: 1118 30 60 Me~aaah
+- 1150
+: 1153 1 64 It's
+: 1154 1 62  the
+: 1155 2 62  best
+: 1157 2 62  place
+: 1159 1 62  to
+: 1160 2 62  be
+- 1162
+: 1162 2 62 when
+: 1164 2 62  you're
+: 1166 8 60  me~ah!
+- 1176
+: 1178 7 60 Yeah!
+- 1187
+: 1190 3 62 All
+: 1193 3 64  these
+: 1196 3 62  things
+: 1199 2 64  I
+: 1201 3 62  hate
+: 1204 5 64  revolve
+: 1209 5 66  around
+: 1214 7 60  me~ah
+- 1223
+: 1226 8 60 Yeah!...(yeah!)
+- 1236
+: 1238 3 64 Just
+: 1241 3 60  back
+: 1244 3 60  off
+: 1247 5 60  before
+: 1252 3 62  I
+: 1255 2 62  snap
+- 1258
+: 1259 1 62 and
+: 1260 2 62  you'll
+: 1262 9 64  see~ah!...(see!)
+- 1272
+: 1274 7 64 me~ah!...(me!)
+- 1283
+: 1286 3 62 All
+: 1289 3 64  these
+: 1292 3 62  things
+: 1295 2 64  I
+: 1297 3 62  hate
+: 1300 6 64  revolve
+: 1306 4 66  around
+: 1310 7 66  me~ah
+- 1319
+: 1321 8 60 Yeah...(yeah!)
+- 1331
+: 1334 3 64 Just
+: 1337 3 60  back
+: 1341 2 60  off
+: 1343 5 60  before
+: 1348 3 62  I
+: 1351 3 62  sna~
+: 1354 7 64 aap
+E
+

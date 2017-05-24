@@ -1,0 +1,320 @@
+#TITLE:Keine Lust
+#ARTIST:Rammstein
+#LANGUAGE:German
+#GENRE:Rock
+#YEAR:2004
+#MP3:Rammstein - Keine Lust.mp3
+#VIDEO:Rammstein - Keine Lust.mp4
+#VIDEOGAP:0
+#BPM:276,15
+#GAP:134500
+#AUTHOR:Flei44,Fepo
+F 0 1 0 Ich
+F 2 1 0  hab'
+F 4 1 0  kei
+F 6 1 0 ne
+F 9 8 0  Lust
+- 19
+F 32 1 0 Ich
+F 34 1 0  hab'
+F 36 1 0  kei
+F 38 1 0 ne
+F 41 8 0  Lust
+- 51
+F 64 1 0 Ich
+F 66 1 0  hab'
+F 68 1 0  kei
+F 70 1 0 ne
+F 73 8 0  Lust
+- 83
+F 96 1 0 Ich
+F 98 1 0  hab'
+F 100 1 0  kei
+F 102 1 0 ne
+F 105 8 0  Lust
+- 115
+F 120 2 0 Ich
+F 123 3 0  ha
+F 127 2 0 be
+F 130 3 0  kei
+F 134 2 0 ne
+F 137 6 0  Lust
+F 145 6 0  mich
+F 153 5 0  nicht
+F 161 3 0  zu
+F 166 4 0  has
+F 172 4 0 sen,
+- 178
+F 190 3 -1 Hab'
+F 194 3 -1  kei
+F 198 2 -1 ne
+F 201 4 -1  Lust
+F 209 5 0  mich
+F 217 5 0  an
+F 224 3 0 zu
+F 229 4 0 fas
+F 235 4 -2 sen.
+- 241
+F 253 2 0 Ich
+F 257 2 0  hät
+F 261 2 0 te
+F 265 6 0  Lust
+F 273 4 0  zu
+F 281 6 4  O
+F 289 3 0 na
+F 294 6 4 nie
+F 302 4 0 ren,
+- 308
+F 316 2 0 Hab'
+F 320 2 0  kei
+F 324 2 0 ne
+F 328 4 0  Lust
+F 336 4 0  es
+F 344 3 0  zu
+F 349 5 0  pro
+F 356 5 0 bie
+F 364 5 0 ren.
+- 371
+F 382 2 0 Ich
+F 386 2 0  hät
+F 390 2 0 te
+F 393 3 0  Lust
+F 400 5 0  mich
+F 408 6 0  aus
+F 416 3 0 zu
+F 421 12 0 zieh'n,
+- 435
+F 446 2 0 Hab'
+F 450 2 0  kei
+F 455 2 0 ne
+F 459 3 0  Lust
+F 465 5 0  mich
+F 472 5 0  nackt
+F 480 3 0  zu
+F 485 7 0  seh'n.
+- 494
+: 498 4 0 Ich
+: 505 4 0  hät
+: 512 4 0 te
+: 520 5 0  Lust
+: 529 4 0  mit
+: 536 5 2  gro
+: 544 3 2 ßen
+: 550 5 3  Tie
+: 559 5 2 ren,
+- 566
+: 574 2 5 Hab'
+: 578 2 7  kei
+: 582 2 5 ne
+: 586 5 5  Lust
+: 595 3 5  es
+: 601 4 3  zu
+: 609 3 3  ris
+: 614 7 3 kie
+: 624 5 3 ren.
+- 631
+: 638 2 7 Hab'
+: 642 2 7  kei
+: 646 2 7 ne
+: 650 5 7  Lust
+: 657 4 8  vom
+: 664 6 7  Schnee
+: 673 3 2  zu
+: 678 17 2  geh'n,
+- 697
+: 702 2 5 Hab'
+: 706 2 5  kei
+: 710 2 5 ne
+: 714 9 5  Lust
+: 728 4 3  zu
+: 736 3 3  er
+: 741 7 3 frie
+: 752 4 3 ren.
+- 758
+F 896 1 0 Ich
+F 898 1 0  hab'
+F 900 1 0  kei
+F 902 1 0 ne
+F 905 8 0  Lust
+- 915
+F 928 1 0 Ich
+F 930 1 0  hab'
+F 932 1 0  kei
+F 934 1 0 ne
+F 937 8 0  Lust
+- 947
+F 960 1 0 Ich
+F 962 1 0  hab'
+F 964 1 0  kei
+F 966 1 0 ne
+F 969 8 0  Lust
+- 979
+F 985 5 0 Nein,
+F 992 1 0  ich
+F 994 1 0  hab'
+F 996 1 0  kei
+F 998 1 0 ne
+F 1001 8 0  Lust
+- 1011
+F 1016 2 0 Ich
+F 1020 2 0  ha
+F 1023 2 0 be
+F 1026 2 0  kei
+F 1030 2 0 ne
+F 1033 4 0  Lust
+F 1041 5 0  et
+F 1049 4 0 was
+F 1056 3 0  zu
+F 1062 7 0  kau'n,
+- 1071
+F 1073 6 0 Denn
+F 1081 3 0  ich
+F 1086 3 0  hab'
+F 1091 3 0  kei
+F 1095 2 0 ne
+F 1098 4 0  Lust
+F 1105 5 0  es
+F 1113 6 0  zu
+F 1120 5 0  ver
+F 1127 8 0 dau'n.
+- 1137
+F 1150 3 0 Hab'
+F 1154 3 0  kei
+F 1158 2 0 ne
+F 1162 8 0  Lust
+F 1177 5 0  mich
+F 1185 4 0  zu
+F 1191 5 0  wie
+F 1198 8 0 gen.
+- 1208
+F 1214 3 0 Hab'
+F 1218 2 0  kei
+F 1222 2 0 ne
+F 1225 4 0  Lust
+F 1234 3 0  im
+F 1240 5 0  Fett
+F 1248 3 0  zu
+F 1253 5 0  lie
+F 1261 3 0 gen.
+- 1266
+: 1268 4 0 Ich
+: 1275 4 0  hät
+: 1282 4 0 te
+: 1290 5 0  Lust
+: 1299 4 0  mit
+: 1306 5 2  gro
+: 1314 3 2 ßen
+: 1320 5 3  Tie
+: 1329 5 2 ren,
+- 1336
+: 1343 2 5 Hab'
+: 1347 2 5  kei
+: 1351 2 5 ne
+: 1355 5 5  Lust
+: 1364 3 5  es
+: 1370 4 7  zu
+: 1378 3 7  ris
+: 1383 7 7 kie
+: 1393 5 7 ren.
+- 1400
+: 1407 2 7 Hab'
+: 1411 2 7  kei
+: 1415 2 7 ne
+: 1419 5 7  Lust
+: 1426 4 8  vom
+: 1433 6 7  Schnee
+: 1442 3 2  zu
+: 1447 17 2  geh'n,
+- 1466
+: 1470 2 5 Hab'
+: 1474 2 5  kei
+: 1478 2 5 ne
+: 1482 9 5  Lust
+: 1496 4 3  zu
+: 1504 3 3  er
+: 1509 7 3 frie
+: 1520 4 3 ren.
+- 1526
+: 1539 3 7 Ich
+: 1544 7 7  blei
+: 1554 4 7 be
+: 1561 5 7  ein
+: 1569 4 7 fach
+: 1575 8 7  lie
+: 1586 4 7 gen
+- 1592
+: 1599 2 7 Und
+: 1602 3 8  wie
+: 1606 2 8 der
+: 1610 6 8  zäh
+: 1618 5 7 le
+: 1625 5 10  ich
+: 1633 4 12  die
+: 1640 8 12  Flie
+: 1650 4 12 gen.
+- 1656
+: 1658 6 12 Lust
+: 1666 4 7 los
+: 1674 4 8  fas
+: 1681 4 7 se
+: 1688 4 7  ich
+: 1696 5 8  mich
+: 1704 4 7  an
+- 1710
+: 1713 6 7 Und
+: 1722 4 5  mer
+: 1730 4 5 ke
+: 1738 5 5  bald
+- 1745
+: 1748 4 12 Ich
+: 1754 4 12  bin
+: 1761 5 12  schon
+: 1769 6 12  lan
+: 1778 5 10 ge
+: 1786 27 12  kalt.
+- 1815
+* 1841 6 2 So
+* 1850 29 2  kalt
+- 1881
+* 1930 6 3 Mir
+* 1939 5 2  ist
+* 1948 28 0  kalt
+- 1978
+* 2001 5 2 So
+* 2009 22 2  kalt
+- 2033
+: 2120 7 0 Mir
+: 2130 5 0  ist
+: 2138 12 0  kalt
+- 2152
+* 2746 14 0 Mir
+* 2764 9 -2  ist
+* 2779 31 0  kalt
+- 2812
+: 2834 6 2 So
+: 2843 23 2  kalt
+- 2868
+: 2922 7 3 Mir
+: 2932 5 2  ist
+: 2940 32 0  kalt
+- 2974
+: 2994 5 2 So
+: 3002 20 2  kalt
+- 3024
+: 3081 8 0 Mir
+: 3093 3 0  ist
+: 3099 30 0  kalt
+- 3131
+: 3154 6 2 So
+: 3162 17 2  kalt
+- 3181
+: 3273 6 0 Mir
+: 3282 4 0  ist
+: 3290 12 0  kalt
+- 3304
+F 3534 1 0 Ich
+F 3536 1 0  hab'
+F 3539 1 0  kei
+F 3541 1 0 ne
+F 3544 6 0  Lust
+E

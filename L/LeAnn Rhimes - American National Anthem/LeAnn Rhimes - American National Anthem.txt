@@ -1,0 +1,124 @@
+#TITLE:American National Anthem
+#ARTIST:LeAnn Rhimes
+#LANGUAGE:English
+#MP3:LeAnn Rhimes - American National Anthem.mp3
+#COVER:LeAnn Rhimes - American National Anthem [CO].jpg
+#BACKGROUND:LeAnn Rhimes - American National Anthem [BG].jpg
+#BPM:61
+#GAP:0
+: 1 3 75 Oh
+: 4 6 72  Say
+: 10 3 68  can
+: 13 2 72  you
+: 15 4 75  se
+: 19 5 80  e
+- 25
+: 26 3 84 by the
+: 29 2 82  da
+: 31 5 80 wn's
+: 36 3 72  ear
+: 39 1 74 ly
+: 40 13 75  light
+- 54
+: 54 2 75 what
+: 56 2 75  so
+: 58 6 84  prou
+: 64 2 82 dly
+: 66 4 80  we
+: 70 10 79  hailed
+- 80
+: 80 2 77 at
+: 82 1 79  the
+: 83 6 80  twi
+: 89 3 80 light's
+: 92 3 75  last
+: 95 2 72  glea
+: 97 6 68 ming
+- 104
+: 105 1 75 who
+: 106 1 72 es
+: 107 1 68  broad
+: 108 2 75  str
+: 110 3 80 ipes
+- 114
+: 114 3 84 and
+: 117 1 82  br
+: 118 2 80 ight
+: 120 3 72  st
+: 123 8 74 ars
+: 131 2 75  thru
+: 133 2 75  the
+: 135 5 75  pe
+: 140 3 84 ri
+: 143 3 82 lous
+: 146 11 80  fight
+- 157
+: 157 3 79 o'er
+: 160 1 77  the
+: 161 7 79  ram
+: 168 3 80 parts
+: 171 3 80  we
+: 174 8 75  wat
+: 182 2 72 ched
+- 184
+: 184 3 68  were
+: 187 1 84  so
+: 188 7 84  gal
+: 195 2 84 lant
+: 197 2 85 ly
+: 199 4 87  strea
+: 203 8 87 ming
+- 213
+: 215 2 85 And
+: 217 1 84  the
+: 218 7 82  ro
+: 225 3 84 cket's
+: 228 3 85  red
+: 231 9 85  glare
+- 241
+: 241 2 85 the 
+: 243 2 84  bombs
+: 245 6 82  burst
+: 251 4 80 ing
+: 255 2 79  in
+: 257 12 77  air
+- 270
+: 271 3 79 Gave
+: 274 3 80  pr
+: 277 4 72 oof
+: 281 2 74  through
+: 283 3 75  the
+: 286 10 75  night
+- 296
+: 296 3 80 that
+: 299 1 80  our
+: 300 6 80  flag
+: 306 4 79  was
+: 310 3 77  still
+: 313 11 77  there
+- 325
+: 326 3 77 Oh
+: 329 7 82  say
+: 336 2 85  do
+: 338 1 84 es
+: 339 3 82  that
+- 342
+: 342 6 80  star_
+: 348 4 80 span
+: 352 4 79 gled
+: 356 6 75  ba
+: 362 4 75 nner
+: 366 3 80  yet
+: 369 16 82  wave
+- 390
+: 394 2 84 o'er
+: 396 1 85  the
+: 397 8 87  land
+: 405 2 80  of the
+: 407 17 82  free
+- 426
+: 429 4 84 and the
+: 433 10 85  home
+: 443 17 82  of the
+: 460 17 80  brave
+E

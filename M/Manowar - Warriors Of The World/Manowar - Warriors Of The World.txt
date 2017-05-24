@@ -1,0 +1,608 @@
+#TITLE:Warriors Of The World
+#ARTIST:Manowar
+#MP3:Manowar - Warriors Of The World.mp3
+#COVER:Manowar - Warriors Of The World [CO].jpg
+#BACKGROUND:Manowar - Warriors Of The World [BG].jpg
+#EDITION:Ultrastar Metal
+#BPM:87,02
+#GAP:93732
+#START:79
+#RELATIVE:yes
+: 0 2 50 Here
+: 2 2 48  our
+: 4 2 50  sol
+: 6 2 48 diers
+: 8 4 50  stand
+-14 15
+: 0 2 48 from
+: 2 2 50  all
+: 4 1 50  a
+: 5 3 50 round
+: 8 2 48  the
+: 10 6 50  world
+-18 18
+: 0 2 48 wai
+: 2 2 46 ting
+: 4 1 48  in
+: 5 3 46  a
+: 8 4 48  line
+-14 14
+: 0 2 46 to
+: 2 3 48  hear
+: 5 1 46  the
+: 6 1 48  bat
+: 7 3 46 tle
+: 10 6 48  cry
+-18 18
+: 0 2 50 All
+: 2 2 48  are
+: 4 1 50  gat
+: 5 3 48 herd
+: 8 6 50  here
+-16 16
+: 0 2 50 Vic
+: 2 1 48 to
+: 3 3 50 ry
+: 6 2 48  is
+: 8 4 50  near
+-14 14
+: 0 2 48 The
+: 2 2 48  sound
+: 4 2 46  will
+: 6 1 48  fill
+: 7 2 46  the
+: 9 3 48  hall
+-14 14
+: 0 1 48 brin
+: 1 1 46 ging
+: 3 3 48  po
+: 6 2 48 wer
+: 8 2 48  to
+: 10 1 46  us
+: 11 7 48  all
+-20 20
+: 0 1 50 We
+: 1 1 50  a
+: 2 1 50 lo
+: 3 3 50 ne
+: 6 2 48  are
+: 8 2 50  figh
+: 10 1 48 ting
+-13 13
+: 0 2 50  for
+: 2 1 50  me
+: 3 3 48 tal
+: 6 1 50  that
+: 7 3 48  is
+: 10 5 50  true
+-16 16
+: 0 1 48  We
+: 2 2 48  own
+: 4 1 46  the
+: 5 2 48  right
+-9 9
+: 0 1 48  to
+: 1 1 48  live
+: 3 1 46  the
+: 4 1 48  fight
+-7 7 
+: 0 2 48 We're
+: 2 1 53  here
+: 4 1 53  for
+: 5 1 53  all
+: 6 3 53  of
+: 9 4 48  you
+-15 15
+: 0 2 50 Now
+: 2 2 50  swear
+: 4 1 48  the
+: 5 3 50  blood
+: 8 2 50  u
+: 10 2 50 pon
+: 12 1 48  yo
+: 13 1 50 ur
+: 14 4 48  steel
+-20 20
+: 0 3 48  will
+: 3 2 50  ne
+: 5 2 48 ver
+: 7 6 50  dry
+-15 15
+: 0 2 48 Stand
+: 2 2 46  and
+: 4 2 48  fight
+: 6 2 46  to
+: 8 1 47 ge
+: 9 1 48 ther
+-12 13
+: 0 2 48 Be
+: 2 2 48 neath
+: 5 2 48  the
+: 7 1 52  bat
+: 8 3 53 tle
+: 11 8 55  sky
+-20 24
+: 0 1 57 Bro
+: 1 3 57 thers
+: 4 1 55  e
+: 5 1 54 very
+: 6 4 53 where
+-12 12
+: 0 2 55 Raise
+: 2 2 53  your
+: 4 2 55  hands
+: 6 2 53  in
+: 8 2 55 to
+: 10 1 57  the
+: 11 2 55  air
+-14 14
+: 0 1 53 We'
+: 1 1 52 re
+: 2 2 53  war
+: 4 1 52 ri
+: 5 2 50 ors,
+: 9 1 53  war
+: 10 1 53 ri
+: 11 2 53 ors
+: 13 2 52  of
+: 15 1 48  the
+: 16 5 50  world
+-23 35
+: 0 2 57 Like
+: 2 2 57  thun
+: 4 2 57 der
+: 6 2 57  from
+: 8 1 55  the
+: 9 5 53  sky
+-16 18
+: 0 2 55 sworn
+: 2 2 53  to
+: 4 1 55  fight
+: 6 2 57  and
+: 8 3 55  die
+-11 11
+: 0 1 53 We'
+: 1 1 52 re
+: 2 2 53  war
+: 4 1 52 ri
+: 5 4 50 ors,
+: 9 1 53  war
+: 10 1 53 ri
+: 11 2 53 ors
+: 13 2 52  of
+: 15 1 48  the
+: 16 5 50  world
+-25 33
+: 0 1 48 Ma
+: 1 3 48 ny
+: 4 2 50  stand
+: 6 1 48  a
+: 7 2 50 gainst
+: 9 3 50  us
+-14 14
+: 0 2 50 but
+: 2 2 50  they
+: 4 2 48  will
+: 6 1 50  ne
+: 7 2 48 ver
+: 9 5 50  win
+-16 16
+: 0 2 48 We
+: 2 2 48  said
+: 4 2 46  we
+: 6 2 48  would
+: 8 1 46  re
+: 9 5 48 turn
+-16 16
+: 0 2 48 and
+: 2 3 48  here
+: 5 1 48  we
+: 6 2 48  are
+: 8 1 50  a
+: 9 5 53 gain
+-16 17
+: 0 2 50 To
+: 2 1 50  bring
+: 3 2 50  them
+: 5 3 48  all
+: 8 1 50  des
+: 9 2 50 truc
+: 11 2 50 tion
+-15 16
+: 0 2 50  suf
+: 2 2 48 fe
+: 4 1 50 ring
+: 6 2 48  and
+: 8 2 50  pain
+-12 13
+: 0 1 50 We
+: 1 2 50  are
+: 3 2 52  the
+: 5 2 53  ham
+: 7 2 50 mer
+: 9 2 50  of
+: 11 1 48  the
+: 12 3 50  gods
+-17 17
+: 0 1 53 We
+: 1 3 50  are
+: 4 2 50  thun
+: 6 2 48 der,
+: 8 2 50  wind
+: 10 1 52  an
+: 11 1 53 d
+: 12 6 53  rain
+-20 20
+: 0 2 50 There
+: 2 2 48  they
+: 4 2 50  wait
+: 6 2 48  in
+: 8 4 50  fear
+-14 14
+: 0 2 48 with
+: 2 2 50  swords
+: 4 2 48  in
+: 6 1 50  fee
+: 7 3 52 ble
+: 10 4 53  hands
+-16 16
+: 0 2 50 With
+: 2 3 48  dreams
+: 5 1 46  to
+: 6 1 48  be
+: 7 2 50  a
+: 9 3 53  king
+-14 14
+: 0 3 48 first
+: 3 2 48  one
+: 6 1 46  should
+: 7 2 48  be
+: 9 1 50  a
+: 10 5 53  man
+-17 18
+: 0 2 53 I
+: 2 2 50  call
+: 4 1 48  a
+: 5 2 50 bout
+: 7 2 48  and
+: 9 1 50  change
+: 10 2 48  them
+: 12 2 45  all
+-16 16
+: 0 1 50 with
+: 1 1 48  a
+: 2 2 50  life
+: 4 1 50  that
+: 5 1 50  is
+: 6 2 52  a
+: 8 4 53  lie
+-13 15
+: 0 2 50 And
+: 2 2 48  in
+: 4 2 46  their
+: 6 1 48  fi
+: 7 2 50 nal
+: 9 1 53  hour
+-12 13
+: 0 2 50 they
+: 2 1 50  shall
+: 3 2 50  con
+: 5 2 50 fess
+: 8 2 50  be
+: 10 1 50 fore
+: 11 1 50  th
+: 12 2 52 ey
+: 14 7 53  die
+-23 25
+: 0 1 57 Bro
+: 1 3 57 thers
+: 4 1 55  e
+: 5 1 54 very
+: 6 4 53 where
+-12 12
+: 0 2 55 Raise
+: 2 2 53  your
+: 4 2 55  hands
+: 6 2 53  in
+: 8 2 55 to
+: 10 1 57  the
+: 11 2 55  air
+-14 14
+: 0 1 53 We'
+: 1 1 52 re
+: 2 2 53  war
+: 4 1 52 ri
+: 5 2 50 ors,
+: 10 1 53  war
+: 11 1 53 ri
+: 12 2 53 ors
+: 14 2 52  of
+: 16 1 48  the
+: 17 5 50  world
+-25 36
+: 0 2 57 Like
+: 2 2 57  thun
+: 4 2 57 der
+: 6 2 57  from
+: 8 1 55  the
+: 9 5 53  sky
+-16 18
+: 0 2 55 sworn
+: 2 2 53  to
+: 4 1 55  fight
+: 6 2 57  and
+: 8 3 55  die
+-11 11
+: 0 1 53 We'
+: 1 1 52 re
+: 2 2 53  war
+: 4 1 52 ri
+: 5 4 50 ors,
+: 9 1 53  war
+: 10 1 53 ri
+: 11 2 53 ors
+: 13 2 52  of
+: 15 1 48  the
+: 16 5 50  world
+-23 38
+: 0 2 60 If
+: 2 6 60  I
+: 8 2 57  should
+: 10 6 59  fall
+: 16 2 64  in
+: 18 4 64  bat
+: 22 4 62 tle
+-28 29
+: 0 2 60 my
+: 2 2 60  bro
+: 4 4 59 thers
+: 8 2 57  who
+: 10 3 59  fight
+: 13 2 64  by
+: 15 2 64  my
+: 17 4 64  side
+-23 30
+: 0 2 60 Ga
+: 2 4 59 ther
+: 6 2 57  my
+: 8 4 59  horse
+: 14 2 64  and
+: 16 1 64  wea
+: 17 2 62 pons
+-21 23
+: 0 4 60 tell
+: 4 3 60  my
+: 7 2 60  fa
+: 9 2 59 mi
+: 11 2 57 ly
+: 13 4 59  how
+: 17 4 64  I
+: 21 6 64  died
+-29 32
+: 0 2 62 Un
+: 2 4 62 til
+: 6 2 64  then
+: 9 2 65  I
+: 11 2 60  will
+: 13 3 62  be
+: 16 6 60  strong
+-24 27
+: 0 2 67 I
+: 2 2 65  will
+: 4 3 67  fight
+: 9 2 63  for
+: 11 4 62  all
+: 15 1 62  that
+: 16 2 63  is
+: 18 5 62  real
+-25 31
+: 0 4 63 All
+: 4 4 65  who
+: 8 3 67  stand
+: 11 2 62  in
+: 13 2 63  my
+: 15 4 62  way
+-21 21
+: 0 2 64 Will
+: 2 8 69  die,
+: 10 3 69  die
+: 13 1 57  by
+: 14 3 57  my
+: 17 13 55  steel
+-32 36
+: 0 1 57 Bro
+: 1 3 57 thers
+: 4 1 55  e
+: 5 1 54 very
+: 6 4 53 where
+-12 12
+: 0 2 55 Raise
+: 2 2 53  your
+: 4 2 55  hands
+: 6 2 53  in
+: 8 2 55 to
+: 10 1 57  the
+: 11 2 55  air
+-14 14
+: 0 1 53 We'
+: 1 1 52 re
+: 2 2 53  war
+: 4 1 52 ri
+: 5 2 50 ors,
+: 10 1 53  war
+: 11 1 53 ri
+: 12 2 53 ors
+: 14 2 52  of
+: 16 1 48  the
+: 17 5 50  world
+-24 38
+: 0 1 57 Bro
+: 1 3 57 thers
+: 4 1 55  e
+: 5 1 54 very
+: 6 4 53 where
+-12 12
+: 0 2 55 Raise
+: 2 2 53  your
+: 4 2 55  hands
+: 6 2 53  in
+: 8 2 55 to
+: 10 1 57  the
+: 11 2 55  air
+-14 14
+: 0 1 53 We'
+: 1 1 52 re
+: 2 2 53  war
+: 4 1 52 ri
+: 5 2 50 ors,
+: 10 1 53  war
+: 11 1 53 ri
+: 12 2 53 ors
+: 14 2 52  of
+: 16 1 48  the
+: 17 5 50  world
+-24 36
+: 0 2 57 Like
+: 2 2 57  thun
+: 4 2 57 der
+: 6 2 57  from
+: 8 1 55  the
+: 9 5 53  sky
+-16 18
+: 0 2 55 sworn
+: 2 2 53  to
+: 4 1 55  fight
+: 6 2 57  and
+: 8 3 55  die
+-11 11
+: 0 1 53 We'
+: 1 1 52 re
+: 2 2 53  war
+: 4 1 52 ri
+: 5 4 50 ors,
+: 9 1 53  war
+: 10 1 53 ri
+: 11 2 53 ors
+: 13 2 52  of
+: 15 1 48  the
+: 16 5 50  world
+-23 37
+: 0 1 57 Bro
+: 1 3 57 thers
+: 4 1 55  e
+: 5 1 54 very
+: 6 4 53 where
+-12 12
+: 0 2 55 Raise
+: 2 2 53  your
+: 4 2 55  hands
+: 6 2 53  in
+: 8 2 55 to
+: 10 1 57  the
+: 11 2 55  air
+-14 14
+: 0 1 53 We'
+: 1 1 52 re
+: 2 2 53  war
+: 4 1 52 ri
+: 5 2 50 ors,
+: 10 1 53  war
+: 11 1 53 ri
+: 12 2 53 ors
+: 14 2 52  of
+: 16 1 48  the
+: 17 5 50  world
+-24 38
+: 0 1 57 Bro
+: 1 3 57 thers
+: 4 1 55  e
+: 5 1 54 very
+: 6 4 53 where
+-12 12
+: 0 2 55 Raise
+: 2 2 53  your
+: 4 2 55  hands
+: 6 2 53  in
+: 8 2 55 to
+: 10 1 57  the
+: 11 2 55  air
+-14 14
+: 0 1 53 We'
+: 1 1 52 re
+: 2 2 53  war
+: 4 1 52 ri
+: 5 2 50 ors,
+: 10 1 53  war
+: 11 1 53 ri
+: 12 2 53 ors
+: 14 2 52  of
+: 16 1 48  the
+: 17 5 50  world
+-24 36
+: 0 2 57 Like
+: 2 2 57  thun
+: 4 2 57 der
+: 6 2 57  from
+: 8 1 55  the
+: 9 5 53  sky
+-16 18
+: 0 2 55 sworn
+: 2 2 53  to
+: 4 1 55  fight
+: 6 2 57  and
+: 8 3 55  die
+-11 11
+: 0 1 53 We'
+: 1 1 52 re
+: 2 2 53  war
+: 4 1 52 ri
+: 5 4 50 ors,
+: 9 1 53  war
+: 10 1 53 ri
+: 11 2 53 ors
+: 13 2 52  of
+: 15 1 48  the
+: 16 5 50  world
+-23 37
+: 0 1 57 Bro
+: 1 3 57 thers
+: 4 1 55  e
+: 5 1 54 very
+: 6 4 53 where
+-12 12
+: 0 2 55 Raise
+: 2 2 53  your
+: 4 2 55  hands
+: 6 2 53  in
+: 8 2 55 to
+: 10 1 57  the
+: 11 2 55  air
+-14 14
+: 0 1 53 We'
+: 1 1 52 re
+: 2 2 53  war
+: 4 1 52 ri
+: 5 2 50 ors,
+: 10 1 53  war
+: 11 1 53 ri
+: 12 2 53 ors
+: 14 2 52  of
+: 16 1 48  the
+: 17 5 50  world
+-24 38
+: 0 1 57 Bro
+: 1 3 57 thers
+: 4 1 55  e
+: 5 1 54 very
+: 6 4 53 where
+-12 12
+: 0 2 55 Raise
+: 2 2 53  your
+: 4 2 55  hands
+: 6 2 53  in
+: 8 2 55 to
+: 10 1 57  the
+: 11 2 55  air
+E
+(c) by Munin. For more files visit www.Ultra-Star.de Contact: #Ultra-Star @ qnet or ICQ: 263-778-330 Give this file to your friends, but don´t erase this line. 
+

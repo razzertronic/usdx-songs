@@ -1,0 +1,125 @@
+#TITLE:Black Chamber
+#ARTIST:Blind Guardian
+#MP3:Blind Guardian - Black Chamber.mp3
+#COVER:Blind Guardian - Black Chamber [CO].jpg
+#BACKGROUND:Blind Guardian - Black Chamber [BG].jpg
+#EDITION:Ultrastar Metal
+#BPM:240
+#GAP:950
+: 0 4 75 I
+: 5 3 75  am
+: 10 7 75  lost
+: 20 3 78  in
+: 24 4 78  the
+: 29 8 78  black
+: 38 5 77  cham
+: 44 7 77 ber.
+- 53
+: 59 4 70 There's
+: 64 4 70  no
+: 69 8 75  way
+: 80 7 77  to
+: 89 10 78  turn
+: 100 4 77  i
+: 105 4 75 t
+: 110 18 74  back.
+- 130 131
+: 150 27 75 There's
+: 180 7 75  still
+: 190 16 73  light!
+- 208 209
+: 220 4 70 In
+: 225 3 68  a
+: 229 17 70  diffe
+: 250 13 66 re
+: 264 4 68 nt
+: 270 22 68  world.
+- 294 295
+: 305 3 70 It
+: 310 8 71  takes
+: 320 8 71  me
+: 330 12 71  down
+: 345 4 75  for
+: 350 4 75 ev
+: 355 4 73 er
+: 360 13 73 more,
+- 375 376
+: 385 4 70 and
+: 390 7 71  death
+: 400 7 71  could
+: 410 11 71  be
+: 424 4 73  so
+: 430 22 70  sweet.
+- 454 455
+: 465 3 70 A
+: 469 8 71  dan
+: 479 8 70 cing
+: 489 9 71  gnome
+: 499 4 70  in
+: 504 4 68  an
+: 509 5 67  emp
+: 514 3 75 ty
+: 519 17 75  room.
+- 538
+: 543 3 70 A
+: 548 9 71  cruel
+: 559 10 71  and
+: 570 7 71  pain
+: 580 7 73 full
+: 590 17 70  game.
+- 609 610
+: 631 6 68 I'm
+: 640 6 68  poss
+: 650 7 68 essed
+: 660 8 68  by
+: 670 9 68  the
+: 680 6 68  old
+: 690 7 68  crea
+: 699 6 68 ture.
+- 707
+: 711 6 67 Who
+: 720 7 68  had
+: 729 9 70  planned
+: 739 8 73  to
+: 749 9 71  take
+: 760 7 70  my
+: 770 8 68  so
+: 780 26 67 ul.
+- 808 809
+: 824 4 68 Too
+: 829 5 68  late
+: 835 4 63  for
+: 840 14 63  me!
+- 856 857
+: 865 4 68 In
+: 870 4 68  my
+: 875 4 63  hands
+: 880 3 63  it
+: 885 8 66  lies
+: 895 3 68  I
+: 900 15 66  thought.
+- 917
+: 925 4 68 But
+: 930 4 71  I
+: 939 6 68  failed
+: 949 9 68  now
+: 959 9 71  he's
+: 969 8 70  in
+: 980 12 66  me.
+- 994 995
+: 1005 2 67 My
+: 1009 5 70  soul
+: 1015 4 71  is
+: 1020 7 72  lost
+: 1029 9 72  in
+: 1039 8 74  his
+: 1049 7 72  black
+: 1059 4 70  cha
+: 1064 4 67 m
+: 1069 10 67 ber.
+- 1081 1082
+: 1090 5 64 I
+: 1095 4 70 'm
+: 1100 33 70  gone...
+E
+

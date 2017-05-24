@@ -1,0 +1,164 @@
+#TITLE:White Christmas
+#ARTIST:Bing Crosby
+#LANGUAGE:English
+#EDITION:X-Mas
+#MP3:Bing Crosby - White Christmas.mp3
+#COVER:Bing Crosby - White Christmas [CO].jpg
+#BACKGROUND:Bing Crosby - White Christmas [BG].jpg
+#BPM:184
+#GAP:10800
+: 0 35 13 I'm
+: 35 5 14  dream
+: 40 8 13 ing
+: 57 4 12  of
+: 61 3 13  a
+: 64 30 14  white
+: 94 5 15  Christ
+: 99 24 16 mas
+- 125 126
+: 139 6 18 Just
+: 145 8 20  like
+: 153 3 21  the
+* 156 18 23  ones
+: 174 6 21  I
+: 180 7 20  used
+: 187 2 18  to
+: 189 36 16  know
+- 227 228
+: 244 5 9 Where
+: 249 4 11  the
+: 253 16 13  tree
+: 269 15 13  tops
+: 286 3 13  gli
+: 289 13 18 sten
+- 304
+: 312 7 16 and
+: 320 6 9  child
+: 326 23 9 ren
+: 349 3 9  lis
+: 352 13 16 ten
+- 367
+: 375 4 14 To
+: 379 25 13  hear
+: 414 6 13  sle
+: 420 3 14 igh
+: 423 11 13  bells
+: 434 4 11  in
+: 438 5 9  the
+: 443 43 11  snow.
+- 488 489
+: 505 33 13 I'm
+: 538 6 14  dream
+: 544 12 13 ing
+: 566 3 12  of
+: 569 3 13  a
+: 572 29 14  white
+: 601 5 15  Christ
+: 606 22 16 mas
+- 630 631
+: 646 5 18 With
+: 651 8 20  ev
+: 659 6 21 ery
+: 665 5 23  Christ
+: 670 7 21 mas
+: 677 15 20  card
+: 692 6 18  I
+: 698 39 16  write
+- 739
+: 745 8 9 May
+: 753 4 11  your
+: 757 22 13  days
+: 790 3 13  be
+: 793 6 13  mer
+: 799 18 18 ry
+: 817 8 16  and
+* 825 49 21  bright
+- 876
+: 880 6 9 And
+: 886 5 11  may
+: 891 17 13  all
+: 908 15 13  your
+: 925 12 18  Christ
+: 937 4 8 mas
+: 941 17 8 es
+: 958 3 8  be
+: 961 34 9  white.
+- 997 1006
+: 1026 31 13 I'm
+: 1057 9 14  dream
+: 1066 7 13 ing
+: 1075 7 12  of
+: 1082 6 13  a
+: 1088 30 14  white
+: 1118 8 15  Christ
+: 1126 8 16 mas
+- 1136 1137
+: 1157 8 18 Just
+: 1165 7 20  like
+: 1172 4 21  the
+* 1176 12 23  ones
+: 1188 6 21  I
+: 1194 13 20  used
+: 1207 3 18  to
+: 1210 37 16  know
+- 1249 1250
+: 1260 6 9 Where
+: 1266 6 11  the
+: 1272 16 13  tree
+: 1288 14 13  tops
+: 1302 7 13  gli
+: 1309 10 18 sten
+- 1321
+: 1329 6 16 and
+: 1335 15 21  child
+: 1350 14 21 ren
+: 1364 9 21  lis
+: 1373 8 16 ten
+- 1383 1384
+: 1392 5 14 To
+: 1397 27 13  hear
+: 1424 6 13  sle
+: 1430 4 14 igh
+: 1434 7 13  bells
+: 1441 7 11  in
+: 1448 6 9  the
+: 1454 48 11  snow.
+- 1504 1505
+: 1520 27 13 I'm
+: 1547 8 14  dream
+: 1555 8 13 ing
+: 1563 8 12  of
+: 1571 7 13  a
+: 1578 29 14  white
+: 1607 8 15  Christ
+: 1615 16 16 mas
+- 1633 1634
+: 1648 4 18 With
+: 1652 8 20  ev
+: 1660 7 21 ery
+: 1667 7 23  Christ
+: 1674 5 21 mas
+: 1679 13 20  card
+: 1692 6 18  I
+: 1698 40 16  write
+- 1740
+: 1744 9 9 May
+: 1753 6 11  your
+: 1759 17 13  days
+: 1785 7 13  be
+: 1792 10 13  mer
+: 1802 14 18 ry
+: 1821 9 16  and
+* 1830 64 21  bright
+- 1896
+: 1902 8 9 And
+: 1910 7 11  may
+: 1917 19 13  all
+: 1936 12 13  your
+: 1954 2 13  Chr
+: 1956 8 18 ist
+: 1969 6 8 mas
+: 1975 16 8 es
+: 1993 12 8  be
+: 2005 39 9  white.
+E

@@ -1,0 +1,256 @@
+#TITLE:See You Later Alligator
+#ARTIST:Bill Haley & The Comets
+#LANGUAGE:English
+#MP3:Bill Haley & The Comets - See You Later Alligator.mp3
+#COVER:Bill Haley & The Comets - See You Later Alligator [CO].jpg
+#BACKGROUND:Bill Haley & The Comets - See You Later Alligator [BG].jpg
+#BPM:156
+#GAP:2000
+: 3 3 69 Well
+: 6 1 67  I
+: 7 4 72  saw
+: 11 1 67  my
+: 12 2 69  ba
+: 14 2 64 by
+: 16 3 67  walk
+: 19 3 64 ing
+- 29
+: 35 4 69 With
+: 39 1 67  a
+: 40 2 72 noth
+: 42 2 67 er
+: 44 3 69  man
+: 47 1 64  to
+: 48 5 67 day
+- 59
+: 67 2 74 Well
+: 69 2 72  I
+: 71 4 75  saw
+: 75 1 72  my
+: 76 3 74  ba
+: 79 1 69 by
+: 80 3 72  walk
+: 83 3 69 ing
+- 92
+: 98 4 69 With
+: 102 2 67  a
+: 104 2 72 noth
+: 106 2 67 er
+: 108 3 69  man
+: 111 1 64  to
+: 112 6 67 day
+- 122
+: 130 4 69 Well
+: 134 2 67  I
+: 136 3 72  asked
+: 139 1 67  her
+: 140 3 69  what's
+: 143 1 64  the
+: 144 3 67  matt
+: 147 3 64 er
+- 154
+: 162 4 69 This
+: 166 2 72  is
+: 168 2 72  what
+: 170 2 67  I
+: 172 2 69  heard
+: 174 1 72  her
+: 175 6 72  say
+- 186
+: 193 3 69 See
+: 196 3 67  you
+: 199 2 72  lat
+: 201 2 67 er
+: 203 3 69  all
+: 206 2 64 i
+: 208 2 67 gat
+: 210 3 67 or
+- 218
+: 226 3 69 Half
+: 229 2 67  the
+: 231 4 72  while
+: 235 2 69  cro
+: 237 2 64 co
+: 239 4 67 dile
+- 252
+: 258 3 74 See
+: 261 2 72  you
+: 263 2 75  lat
+: 265 2 72 er
+: 267 3 74  all
+: 270 1 69 i
+: 271 3 72 gat
+: 274 3 69 or
+- 281
+: 289 4 69 Half
+: 293 2 67  the
+: 295 3 72  while
+: 298 2 67  cro
+: 300 2 69 co
+: 302 5 64 dile
+- 313
+: 321 4 69 Can't
+: 325 1 67  you
+: 326 3 72  see
+: 329 2 67  your
+: 331 2 69  in
+: 333 1 64  my
+: 334 7 67  way now
+- 345
+: 353 4 69 Don't
+: 357 1 72  you
+: 358 2 72  know
+: 360 2 67  you
+: 362 3 69  cramp
+: 365 1 72  my
+: 366 7 72  style
+- 377
+: 385 4 69 When
+: 389 1 67  I
+: 390 3 72  thought
+: 393 1 67  of
+: 394 2 69  what
+: 396 2 64  you
+: 398 3 67  told
+: 401 3 64  me
+- 411
+: 417 4 69 Near
+: 421 2 67 ly
+: 423 2 72  made
+: 425 2 67  me
+: 427 2 69  lose
+: 429 2 64  my
+: 431 6 67  head
+- 441
+: 449 4 74 When
+: 453 2 72  I
+: 455 3 75  thought
+: 458 1 72  of
+: 459 2 74  what
+: 461 2 69  you
+: 463 2 72  told
+: 465 3 69  me
+- 473
+: 481 3 69 Near
+: 484 2 67 ly
+: 486 3 72  made
+: 489 1 67  me
+: 490 3 69  lose
+: 493 2 64  my
+: 495 6 67  head
+- 506
+: 512 4 69 But
+: 516 2 67  the
+: 518 3 72  next
+: 521 3 67  time
+: 524 2 69  that
+: 526 1 64  I
+: 527 3 67  saw
+: 530 3 64  her
+- 538
+: 544 3 69 Re
+: 547 3 72 minded
+: 550 3 72  her
+: 553 1 67  of
+: 554 2 69  what
+: 556 2 72  she
+: 558 7 72  said
+- 570
+: 576 3 69 See
+: 579 3 67  you
+: 582 2 72  lat
+: 584 2 67 er
+: 586 3 69  all
+: 589 2 64 i
+: 591 2 67 gat
+: 593 3 67 or
+- 600
+: 608 4 69 Half
+: 612 2 67  the
+: 614 4 72  while
+: 618 2 69  cro
+: 620 2 64 co
+: 622 4 67 dile
+- 632
+: 640 4 74 See
+: 644 2 72  you
+: 646 2 75  lat
+: 648 2 72 er
+: 650 3 74  all
+: 653 2 69 i
+: 655 2 72 gat
+: 657 3 69 or
+- 666
+: 672 4 69 Half
+: 676 2 67  the
+: 678 4 72  while
+: 682 2 67  cro
+: 684 2 69 co
+: 686 4 64 dile
+- 701
+: 705 3 69 Can't
+: 708 2 67  you
+: 710 3 72  see
+: 713 1 67  your
+: 714 2 69  in
+: 716 2 64  my
+: 718 3 67  way
+: 721 4 67  now
+- 730
+: 736 4 69 Don't
+: 740 2 72  you
+: 742 2 72  know
+: 744 2 67  you
+: 746 3 69  cramp
+: 749 1 72  my
+: 750 7 72  style
+- 760
+: 768 4 69 See
+: 772 2 67  you
+: 774 2 72  lat
+: 776 2 67 er
+: 778 3 69  all
+: 781 2 64 i
+: 783 2 67 gat
+: 785 3 67 or
+- 792
+: 800 4 69 Half
+: 804 2 67  the
+: 806 4 72  while
+: 810 2 69  cro
+: 812 2 64 co
+: 814 3 67 dile
+- 825
+: 832 4 74 See
+: 836 2 72  you
+: 838 2 75  lat
+: 840 2 72 er
+: 842 3 74  all
+: 845 2 69 i
+: 847 2 72 gat
+: 849 3 69 or
+- 858
+: 864 4 69 Half
+: 868 2 67  the
+: 870 3 72  while
+: 873 2 67  cro
+: 875 2 69 co
+: 877 4 64 dile
+- 890
+: 896 4 69 Can't
+: 900 1 67  you
+: 901 3 72  see
+: 904 2 67  your
+: 906 2 69  in
+: 908 1 64  my
+: 909 3 67  way
+: 912 4 67  now
+- 920
+: 928 3 69 Don't
+: 931 2 72  you
+: 933 2 72  know
+: 935 3 67  you
+: 938 2 69  cramp
+: 940 1 72  my
+: 941 5 72  style
+E

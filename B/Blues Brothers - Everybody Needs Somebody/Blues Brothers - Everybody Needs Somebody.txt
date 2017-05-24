@@ -1,0 +1,428 @@
+#TITLE:Everybody Needs Somebody To Love
+#ARTIST:Blues Brothers
+#MP3:Blues Brothers - Everybody Needs Somebody To Love.mp3
+#BACKGROUND:blues_brothers_a.jpg
+#RESOLUTION:8
+#BPM:93
+#GAP:11150
+: 0 1 64 We´re
+: 1 2 64  so
+: 3 1 64  glad
+- 4
+: 4 1 64  to
+: 5 1 64  see
+: 6 2 64  so 
+: 8 1 64  many
+: 9 1 64  of 
+: 10 1 64  you
+- 11
+: 11 1 64 lovely
+: 12 2 64  people
+: 14 1 64  here
+: 15 2 64  tonight,
+- 18
+: 19 1 64 and
+: 20 1 64  we 
+: 21 1 64  would
+: 22 3 64  especially
+- 25
+: 25 1 64  like
+: 26 1 64  to
+: 27 1 64  welcome
+- 28
+: 28 2 64 all
+: 30 1 64  the
+: 31 4 64  representatives
+- 35
+: 35 1 64  of
+: 36 2 64  Illinois´
+: 38 2 64  Law
+: 40 3 64  Enforcement
+- 43
+: 43 3 64 Community
+: 47 1 64  who
+: 48 1 64  have
+: 49 2 64  chosen
+- 51
+: 51 1 64  to
+: 52 1 64  join
+: 53 1 64  us
+- 54
+: 54 1 64 here
+: 55 1 64  in the
+: 56 2 64  Palace
+: 58 2 64  Hotel
+: 60 3 64  Ballroom
+- 63
+: 63 1 64 at
+: 64 1 64  this
+: 65 2 64  time
+- 67
+: 68 2 64 We do
+: 70 3 64  sincerely
+: 73 1 64  hope
+- 74
+: 74 1 64 you´ll
+: 75 1 64  all
+: 76 2 64  enjoy
+: 78 1 64  the
+: 79 2 64  show,
+- 82
+: 83 1 64 and
+: 84 2 64  please
+: 86 3 64  remember
+: 89 2 64  people,
+- 91
+: 92 2 64 that no
+: 94 1 64  matter
+: 95 2 64  who you
+: 97 2 64  are,
+- 99
+: 100 1 64 and
+: 101 1 64  what 
+: 102 1 64  you
+: 103 1 64  do
+: 104 1 64  to
+: 105 2 64  live,
+- 107
+: 108 2 64 thrive
+: 110 1 64  and
+: 111 4 64  survive
+- 115
+: 116 1 64 there
+: 117 1 64  are
+: 118 2 64  still
+: 120 1 64  some
+: 121 2 64  things
+- 123
+: 123 1 64 that
+: 124 2 64  make
+: 126 1 64  us
+: 127 3 64  all
+: 130 1 64  the
+: 131 3 64  same.
+- 135
+: 136 4 64 You,
+: 143 3 64  me,
+: 149 4 64  them,
+: 155 6 64  everybody,
+: 163 6 64  everybody.
+- 169
+: 169 3 64 Ev
+: 172 2 60 ery
+: 174 4 62 bo
+: 178 3 60 dy
+: 184 3 64  needs
+: 187 3 60  some
+: 190 3 62 bo
+: 193 2 60 dy
+- 197
+: 199 4 64 Ev
+: 203 2 67 ery
+: 205 3 62 bo
+: 208 2 60 dy
+: 215 3 64  needs
+: 218 3 60  some
+: 221 4 62 bo
+: 225 2 60 dy
+: 227 1 60  to
+: 228 3 64  love
+- 237
+: 240 1 60 Some
+: 241 1 59 o
+: 242 1 60 ne
+: 243 3 60  to love
+- 246
+: 247 2 60 (Some
+: 249 1 59 o
+: 250 1 60 ne
+: 251 4 60  to love)
+- 255
+: 255 2 60 Sweet
+: 257 1 62 heart
+: 258 1 63  to
+: 259 3 64  miss
+- 262
+: 262 2 60 (Sweet
+: 264 1 59  heart
+: 265 1 60  to
+: 266 4 60  miss) 
+- 270
+: 271 1 60 Sug
+: 272 1 59 ar
+: 273 1 60  to
+: 274 3 60  kiss
+- 277
+: 277 2 60 (Su
+: 279 1 59 gar
+: 280 1 59  to
+: 281 3 59  kiss)
+- 285
+: 286 1 60 I
+: 287 3 62  need
+: 290 3 63  you
+: 293 3 62  you
+: 296 3 60  you
+- 300
+: 302 1 60 I
+: 303 2 62  need
+: 305 3 63  you
+: 308 3 62  you
+: 311 4 60  you
+- 316
+: 317 1 60 I
+: 318 3 62  need
+: 321 3 63  you
+: 324 3 62  you
+: 327 3 60  you
+- 330
+: 330 1 58 In
+: 331 1 58  the
+: 332 5 58  morning
+- 340
+: 345 1 60 When
+: 346 1 60  my
+: 347 3 60  soul´s
+: 350 6 60  on fire
+- 368
+: 369 2 63 Some
+: 371 2 64 times
+: 373 2 64  I
+: 375 6 64  feel
+- 384
+: 386 3 60 I feel a
+: 389 2 60  little
+: 391 2 60  sad
+: 393 6 60  inside
+- 399
+: 400 2 63 When
+: 402 1 64  my
+: 403 2 64  baby
+: 405 4 64  mistreats
+: 409 3 64  me
+- 413
+: 414 1 67 I
+: 415 2 67  never
+: 417 2 67  never
+: 419 2 67  never
+: 421 2 64  have a
+: 423 1 64  place
+: 424 3 64  to hide
+- 427
+: 427 1 60 I
+: 428 2 62  need
+: 430 3 63  you
+- 545
+: 554 3 63 Some
+: 557 3 64 times
+: 560 1 64  I
+: 561 7 64  feel
+- 570
+: 572 3 60 I feel a
+: 575 2 60  little
+: 577 1 60  sad
+: 578 7 60  inside
+- 585
+: 586 2 63 When
+: 588 1 64  my
+: 589 2 64  baby
+: 591 4 64  mistreats
+: 595 3 64  me
+- 598
+: 599 1 67 I
+: 600 2 67  never
+: 602 2 67  never
+: 604 2 67  never
+: 606 2 64  have a
+: 608 1 64  place
+: 609 4 64  to hide
+- 613
+: 613 1 60 I
+: 614 2 62  need
+: 616 3 63  you
+: 619 3 62  you
+: 622 4 60  you
+- 627
+: 628 1 60 I
+: 629 2 62  need
+: 631 3 63  you
+: 635 3 62  you
+: 638 4 60  you
+- 642
+: 643 1 60 I
+: 644 3 62  need
+: 647 3 63  you
+: 650 3 62  you
+: 653 4 60  you
+- 657
+: 658 1 60 I
+: 659 3 62  need
+: 662 2 63  you
+: 665 3 62  you
+: 669 4 60  you
+- 673
+: 674 1 60 I
+: 675 3 62  need
+: 678 2 63  you
+- 681
+: 682 2 64 You know
+: 684 2 64  people when
+: 686 1 64  you do
+- 687
+: 687 2 64 find
+: 689 2 64  somebody
+- 691
+: 692 2 64 hold that
+: 694 1 64  woman,
+- 695
+: 695 2 64 hold that
+: 697 2 64  man
+- 699
+: 699 2 64 love him,
+: 701 3 64  hold him,
+- 704
+: 704 3 64 squeeze her,
+: 707 2 64  please her,
+: 709 2 64  hold
+- 711
+: 711 2 64 squeeze and
+: 713 3 64  please that
+: 716 2 64  person,
+: 718 2 64  giv´em all
+- 720
+: 720 3 64 your love
+: 723 6 64  signify your
+: 729 2 64  feelings with
+- 731
+: 731 3 64 every gentle
+: 734 5 64  caress because
+: 739 3 64  it´s so
+: 742 2 64  important
+- 744
+: 744 1 64 to have
+: 745 3 64  that special
+: 748 4 64  somebody
+: 752 4 64  to hold,
+- 756
+: 756 2 64 kiss,
+: 758 3 64  miss,
+: 761 3 64  squeeze
+: 764 7 64  and please
+- 771
+: 772 2 79 Ev
+: 774 2 79 ery
+: 776 3 79 bo
+: 779 2 79 dy
+: 785 4 79  needs
+: 789 2 79  some
+: 791 3 79 bo
+: 794 2 79 dy
+- 798
+: 801 3 79 Ev
+: 804 2 79 ery
+: 806 4 79 bo
+: 810 4 79 dy
+: 816 3 79  needs
+: 819 3 79  some
+: 822 4 79 bo
+: 826 2 79 dy
+: 828 1 79  to
+: 829 5 79  love
+- 837
+: 841 1 79 Some
+: 842 3 79 one to
+: 845 3 79  love
+- 850
+: 855 2 79 Sweet
+: 857 3 79 heart to
+: 860 2 79  miss
+- 865
+: 870 3 79 Sug
+: 873 2 79 ar to
+: 875 4 79  kiss
+- 881
+: 887 1 60 I
+: 888 2 62  need
+: 890 3 63  you
+: 894 3 62  you
+: 897 3 60  you
+- 901
+: 903 1 60 I
+: 904 2 62  need
+: 906 2 63  you
+: 910 2 62  you
+: 913 3 60  you
+- 917
+: 918 1 60 I
+: 919 2 62  need
+: 921 3 63  you
+: 925 2 62  you
+: 929 2 60  you
+- 932
+: 934 1 60 I
+: 935 1 62  need
+: 937 2 63  you
+: 940 2 62  you
+: 944 3 60  you
+- 947
+: 948 1 60 I
+: 949 2 62  need
+: 952 2 63  you
+: 955 3 62  you
+: 959 3 60  you
+- 963
+: 964 1 60 I
+: 965 2 62  need
+: 967 3 63  you
+: 971 3 62  you
+: 975 4 60  you
+- 979
+: 980 1 60 I
+: 981 2 62  need
+: 983 3 63  you
+: 987 3 62  you
+: 991 3 60  you
+- 994
+: 995 1 60 I
+: 996 2 62  need
+: 998 3 63  you
+: 1001 3 62  you
+: 1004 4 60  you
+- 1008
+: 1009 1 58 In
+: 1010 1 58  the
+: 1011 5 58  morning
+- 1018
+: 1022 2 60 When my
+: 1024 4 60  soul´s
+: 1028 7 60  on fire
+- 1038
+: 1041 3 60 when I
+: 1044 3 60  need
+: 1047 3 60  no one
+: 1050 6 60  around
+- 1056
+: 1056 1 60 I
+: 1057 3 60  need
+: 1060 2 60  you
+: 1063 2 60  you
+: 1066 2 60  you
+: 1069 2 60  you
+- 1071
+: 1071 1 60 I
+: 1072 3 60  need
+: 1075 3 60  you
+: 1078 3 60  you
+: 1081 2 60  you
+: 1084 2 60  you
+- 1086
+: 1087 1 60 I
+: 1088 2 60  need
+: 1090 3 60  you
+: 1093 2 60  you
+: 1096 3 60  you
+- 1101
+: 1103 1 60 I
+: 1104 2 60  need
+: 1106 4 60  you
+E

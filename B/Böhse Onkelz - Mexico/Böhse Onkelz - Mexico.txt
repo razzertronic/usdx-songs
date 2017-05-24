@@ -1,0 +1,452 @@
+#TITLE:Mexico
+#ARTIST:Böhse Onkelz
+#MP3:Böhse Onkelz - Mexico.mp3
+#BACKGROUND:Mexico.jpg
+#COVER:Mexico.jpg COVER
+#BPM:177,4
+#RELATIVE:yes
+#GAP:21241
+: 0 2 57 Mit ´nem
+: 2 2 57  Som
+: 4 4 62 bre
+: 8 4 62 ro
+: 12 4 62  auf
+-15 16
+: 0 2 62 und
+: 2 2 62  Doc
+: 4 4 64  Mar
+: 8 4 64 tens
+: 12 4 61  an
+-16 19
+: 0 2 57 So
+: 2 4 62  geht
+: 6 4 62  die
+: 10 4 62  Rei
+: 14 4 62 se
+: 18 8 61  los
+-26 31
+: 0 4 57 Nach
+: 4 4 62  Me
+: 8 4 62 xi
+: 12 4 62 co,
+: 16 2 62  auch
+: 18 4 64  oh
+: 22 4 61 ne
+: 26 4 61  Geld
+-29 29
+: 0 4 61  Wenn's
+: 4 4 62  sein
+: 8 4 59  muss,
+: 12 4 59  mit
+: 16 4 61  'nem
+: 20 8 59  Floß
+-28 36
+: 0 4 57 Und
+: 4 4 62  wenn
+: 8 4 62  wir
+: 12 4 62  drü
+: 16 4 62 ben
+: 20 4 61  sind,
+-24 33
+: 0 4 57 dann
+: 4 4 62  wird's
+: 8 4 62  erst
+: 12 4 62  rich
+: 16 4 62 tig
+: 20 4 61  schön
+-24 35
+: 0 4 57 Wir
+: 4 4 62  wer
+: 8 4 62 den
+: 12 4 62  un
+: 16 4 62 'sre
+: 20 4 62  Mann
+: 24 4 62 schaft
+: 28 4 62  wie
+: 32 4 62 der
+-35 36
+: 0 8 64 sie
+: 8 8 64 gen
+: 16 8 64  seh'n
+-24 78
+: 0 2 64 Mit
+: 2 2 64  Sen
+: 4 2 64 io
+: 6 4 64 ri
+: 10 8 61 tas
+: 18 4 64  im
+: 22 8 64  Arm
+-29 31
+: 0 4 64 Te
+: 4 4 66 qui
+: 8 8 66 la
+: 16 4 64  lau
+: 20 8 62 warm
+-28 35
+: 0 4 64 vom
+: 4 4 64  Durch
+: 8 8 61 fall
+: 16 4 64  ge
+: 20 8 64 plagt
+-28 32
+: 0 2 64  und
+: 2 2 64  von
+: 4 4 62  Flie
+: 8 8 62 gen
+: 16 4 61  ge
+: 20 8 59 jagt
+-28 33
+: 0 4 64 Im
+: 4 4 64  Land
+: 8 8 61  der
+: 16 4 64  Kak
+: 20 8 64 teen
+-28 32
+: 0 2 64  wer
+: 2 2 64 den
+: 4 6 66  wir,
+: 10 4 66  du
+: 14 4 66  wirst
+: 18 8 64  seh'n
+-26 32
+: 0 2 64 Wie
+: 2 2 64 der
+: 4 4 62  Welt
+: 8 8 62 meis
+: 16 4 62 ter,
+: 20 4 64  Welt
+: 24 8 64 meis
+: 32 4 64 ter
+: 36 8 57  sein
+-44 193
+: 0 4 66 Sie
+: 4 2 66 ges
+: 6 2 66 ge
+: 8 4 66 wiß
+: 12 4 66  fah
+: 16 2 64 ren
+: 18 2 64  wir
+: 20 2 64  nach
+: 22 2 64  Me
+: 24 2 61 xi
+: 26 2 57 co
+-31 33 
+: 0 2 66 um
+: 4 2 66  un
+: 6 2 66 'sre
+: 8 2 66  Elf
+: 10 4 64  zu
+: 14 2 57  seh'n
+-16 32
+: 0 4 66 Im
+: 2 2 66  Sie
+: 4 2 66 ges
+: 6 4 66 rausch,
+: 10 4 66  voller
+: 14 4 64  Al
+: 18 4 64 ko
+: 22 4 64 hol
+-27 29
+: 0 2 64 las
+: 2 2 64 sen
+: 4 6 59  wir
+: 10 2 59  die
+: 12 4 67  Fah
+: 14 2 67 nen
+: 16 8 67  weh'n
+-25 36
+: 0 4 66 Durst
+: 4 4 62  und
+: 8 4 62  Schweiß,
+: 15 4 61  heißt
+: 19 4 64  der
+: 23 4 61  Preis
+-28 28
+: 0 2 57 um
+: 2 4 66  Tri
+: 6 2 66 um
+: 8 2 66 phe
+: 10 4 66  zu
+: 14 4 66  er
+: 18 4 64 le
+: 22 4 64 ben
+-27 35
+: 0 4 66 Kann
+: 4 4 66  es
+: 8 4 66  et
+: 12 4 66 was
+: 16 2 66  schöneres
+: 18 4 66  ge
+: 22 4 66 ben
+-27 28
+: 0 4 66 als
+: 8 4 66  Welt
+: 14 4 64 meis
+: 18 4 69 ter
+: 22 2 69  zu
+: 24 2 67  sein?
+-38 80
+: 0 2 64 Mit
+: 2 2 64  Sen
+: 4 2 64 io
+: 6 4 64 ri
+: 10 8 61 tas
+: 18 4 64  im
+: 22 8 64  Arm
+-29 31
+: 0 4 64 Te
+: 4 4 66 qui
+: 8 8 66 la
+: 16 4 64  lau
+: 20 8 62 warm
+-29 35
+: 0 4 64 vom
+: 4 4 64  Durch
+: 8 8 61 fall
+: 16 4 64  ge
+: 20 8 64 plagt
+-28 32
+: 0 2 64 und
+: 2 2 64  von
+: 4 4 62  Flie
+: 8 8 62 gen
+: 16 4 61  ge
+: 20 8 59 jagt
+-28 32
+: 0 4 64 Im
+: 4 4 64  Land
+: 8 8 61  der
+: 16 4 64  Kak
+: 20 8 64 teen
+-28 32
+: 0 2 64 wer
+: 2 2 64 den
+: 4 8 66  wir,
+: 12 4 66  Du
+: 16 4 66  wirst
+: 20 8 64  seh'n
+-28 32
+: 0 2 64 Wie
+: 2 2 64 der
+: 4 4 62  Welt
+: 8 8 62 meis
+: 16 4 62 ter, 
+: 20 4 64 Welt
+: 24 8 64 meis
+: 32 4 64 ter
+: 36 8 57  sein
+-44 345
+: 0 2 64 Mit
+: 2 2 64  Sen
+: 4 2 64 io
+: 6 4 64 ri
+: 10 8 61 tas
+: 18 4 64  im
+: 22 8 64  Arm
+-29 31
+: 0 4 64 Te
+: 4 4 66 qui
+: 8 8 66 la,
+: 16 4 64  lau
+: 20 8 62 warm
+-29 35
+: 0 4 64 vom
+: 4 4 64  Durch
+: 8 8 61 fall
+: 16 4 64  ge
+: 20 8 64 plagt
+-29 32
+: 0 2 64  und
+: 2 2 64  von
+: 4 4 62  Flie
+: 8 8 62 gen
+: 16 4 61  ge
+: 20 8 59 jagt
+-29 33
+: 0 4 64 Im
+: 4 4 64  Land
+: 8 8 61  der
+: 16 4 64  Kak
+: 20 8 64 teen
+-29 32
+: 0 2 64 wer
+: 2 2 64 den
+: 4 8 66  wir,
+: 12 4 66  Du
+: 16 4 66  wirst
+: 20 8 64  seh'n
+-29 32
+: 0 2 64 wie
+: 2 2 64 der
+: 4 4 62  Welt
+: 8 8 62 meis
+: 16 4 62 ter,
+: 20 4 64  Welt
+: 24 8 64 meis
+: 32 4 64 ter
+: 36 8 57  sein
+-44 192
+: 0 2 57 Mit ´nem
+: 2 2 57  Som
+: 4 4 62 bre
+: 8 4 62 ro
+: 12 4 62  auf
+-15 16
+: 0 2 62 und
+: 2 2 62  Doc
+: 4 4 64  Mar
+: 8 4 64 tens
+: 12 4 61  an
+-16 18
+: 0 2 57 So
+: 2 4 62  geht
+: 6 4 62  die
+: 10 4 62  Rei
+: 14 4 62 se
+: 18 8 61  los
+-26 30
+: 0 4 57 Nach
+: 4 4 62  Me
+: 8 4 62 xi
+: 12 4 62 co,
+: 16 2 62  auch
+: 18 4 64  oh
+: 22 4 61 ne
+: 26 4 61  Geld
+-29 29
+: 0 4 61  Wenn's
+: 4 4 62  sein
+: 8 4 59  muss,
+: 12 4 59  mit
+: 16 4 61  'nem
+: 20 8 59  Floß
+-28 34
+: 0 4 57 Und
+: 4 4 62  wenn
+: 8 4 62  wir
+: 12 4 62  drü
+: 16 4 62 ben
+: 20 4 61  sind,
+-24 32
+: 0 4 57 dann
+: 4 4 62  wird's
+: 8 4 62  erst
+: 12 4 62  rich
+: 16 4 62 tig
+: 20 4 61  schön
+-24 34
+: 0 4 57 Wir
+: 4 4 62  wer
+: 8 4 62 den
+: 12 4 62  un
+: 16 4 62 'sre
+: 20 4 62  Mann
+: 24 4 62 schaft
+: 28 4 62  wie
+: 32 4 62 der
+-35 35
+: 0 8 64 sie
+: 8 8 64 gen
+: 16 8 64  seh'n
+-38 73
+: 0 2 64 Mit
+: 2 2 64  Sen
+: 4 2 64 io
+: 6 4 64 ri
+: 10 8 61 tas
+: 18 4 64  im
+: 22 8 64  Arm
+-29 31
+: 0 4 64 Te
+: 4 4 66 qui
+: 8 8 66 la
+: 16 4 64  lau
+: 20 8 62 warm
+-29 35
+: 0 4 64 vom
+: 4 4 64  Durch
+: 8 8 61 fall
+: 16 4 64  ge
+: 20 8 64 plagt
+-28 32
+: 0 2 64 und
+: 2 2 64  von
+: 4 4 62  Flie
+: 8 8 62 gen
+: 16 4 61  ge
+: 20 8 59 jagt
+-28 29
+: 0 4 64 Im
+: 4 4 64  Land
+: 8 8 61  der
+: 16 4 64  Kak
+: 20 8 64 teen
+-28 32
+: 0 2 64 wer
+: 2 2 64 den
+: 4 8 66  wir,
+: 12 4 66  Du
+: 16 4 66  wirst
+: 20 8 64  seh'n
+-28 32
+: 0 2 64 Wie
+: 2 2 64 der
+: 4 4 62  Welt
+: 8 8 62 meis
+: 16 4 62 ter, 
+: 20 4 64 Welt
+: 24 8 64 meis
+: 32 4 64 ter
+: 36 8 57  sein
+-44 65
+: 0 2 64 Mit
+: 2 2 64  Sen
+: 4 2 64 io
+: 6 4 64 ri
+: 10 8 61 tas
+: 18 4 64  im
+: 22 8 64  Arm
+-29 31
+: 0 4 64 Te
+: 4 4 66 qui
+: 8 8 66 la
+: 16 4 64  lau
+: 20 8 62 warm
+-28 35
+: 0 4 64 vom
+: 4 4 64  Durch
+: 8 8 61 fall
+: 16 4 64  ge
+: 20 8 64 plagt
+-28 32
+: 0 2 64  und
+: 2 2 64  von
+: 4 4 62  Flie
+: 8 8 62 gen
+: 16 4 61  ge
+: 20 8 59 jagt
+-28 32
+: 0 4 64 Im
+: 4 4 64  Land
+: 8 8 61  der
+: 16 4 64  Kak
+: 20 8 64 teen
+-28 31
+: 0 2 64  wer
+: 2 2 64 den
+: 4 6 66  wir,
+: 10 4 66  du
+: 14 4 66  wirst
+: 18 8 64  seh'n
+-26 32
+: 0 2 64 Wie
+: 2 2 64 der
+: 4 4 62  Welt
+: 8 8 62 meis
+: 16 4 62 ter,
+: 20 4 64  Welt
+: 24 8 64 meis
+: 32 4 64 ter
+: 36 8 57  sein
+E
+(c) by Munin. For more files visit www.Ultra-Star.de.vu Contact: #Ultra-Star @ qnet or ICQ: 263-778-330 Give this file to your friends, but don´t erase this line. 

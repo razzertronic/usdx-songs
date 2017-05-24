@@ -1,0 +1,502 @@
+#TITLE:Please Forgive Me
+#ARTIST:Bryan Adams
+#LANGUAGE:English
+#CREATOR:Malaquias
+#MP3:Bryan Adams - Please Forgive Me.mp3
+#COVER:Bryan Adams - Please Forgive Me [CO].jpg
+#BACKGROUND:Bryan Adams - Please Forgive Me [BG].jpg
+#BPM:68,0
+#GAP:0
+: 110 3 2 Still
+: 113 4 1  feels
+: 117 3 -1  like
+: 121 1 2  our
+: 122 4 1  first
+: 126 2 -3  night
+: 128 1 -1  to
+: 129 2 -1 ge
+: 131 2 -2 ther
+- 137
+: 148 2 -3 Feels
+: 150 2 -4  like
+: 152 1 -4  the
+: 153 5 -4  first
+: 158 3 -3  kiss
+- 162
+: 164 2 -1 It's
+: 166 2 1  get
+: 168 1 1 ting
+: 169 3 1  bet
+: 172 1 2 ter
+: 173 3 2  ba
+: 176 1 4 by
+- 179
+: 181 1 4 No
+: 182 2 -4  one
+: 184 2 -4  can
+: 186 2 -4  bet
+: 188 2 -3 ter
+: 190 3 -3  this
+- 194
+: 196 3 -1 Still
+: 199 2 1  hold
+: 201 1 1 ing
+: 202 3 1  on
+- 206
+: 207 1 2 You're
+: 208 2 2  still
+: 210 1 4  the
+: 211 6 1  one
+- 221
+: 229 2 -1 First
+: 231 2 1  time
+: 233 2 1  our
+: 235 4 1  eyes
+: 239 3 2  met
+- 243
+: 245 2 4 Same
+: 247 2 -4  fee
+: 249 2 -4 ling
+: 251 5 -4  I
+: 256 2 -3  get
+- 260
+: 262 1 -1 On
+: 263 1 1 ly
+: 264 2 1  feels
+: 266 1 1  much
+: 267 5 4  strong
+: 272 3 6 er
+- 276
+: 277 1 1 I
+: 278 1 1  wa
+: 279 1 -4 nna
+: 280 2 -4  love
+: 282 2 -4  you
+: 284 4 -4  long
+: 288 4 1 er
+- 293
+: 295 1 1 Do
+: 296 1 1  you
+: 297 3 1  still
+: 300 2 2  turn
+: 302 1 1  the
+: 303 5 4  fire
+: 308 7 1  on?
+- 317
+: 320 1 -1 So
+: 321 1 1  if
+: 322 2 2  you're
+: 324 3 4  fee
+: 327 1 9 ling
+: 328 2 8  lone
+: 330 1 4 ly,
+: 331 9 1  don't
+- 344
+: 350 2 6 You're
+: 352 2 8  the
+: 354 2 8  only
+: 356 3 8  one
+: 360 1 8  I'll
+: 361 2 4  ev
+: 363 1 8 er
+: 364 7 9  want
+- 373
+: 376 1 9 I
+: 377 1 1  on
+: 378 3 2 ly
+: 381 3 4  want
+: 384 1 9  to
+: 385 2 8  make
+: 387 1 4  it
+: 388 10 1  go
+- 402
+: 408 2 6 So
+: 410 2 8  if
+: 412 1 8  I
+: 413 2 8  love
+: 415 2 8  you
+: 417 1 4  a
+: 418 3 6  little
+: 422 2 8  more
+: 424 2 9  than
+: 426 2 8  I
+: 428 11 6  should
+- 440
+: 442 4 6 Please
+: 446 1 2  for
+: 447 1 2 give
+: 448 3 2  me,
+: 454 1 2  I
+: 455 2 1  know
+: 457 1 -1  not
+: 458 2 -1  what
+: 460 1 -1  I
+: 461 2 -3  do
+- 465
+: 467 3 1 Please
+: 470 1 2  for
+: 471 2 2 give
+: 473 3 2  me,
+: 478 1 1  I
+: 479 2 -1  can't
+: 481 2 1  stop
+: 483 2 -1  loving
+: 485 2 -3  you
+- 489
+: 491 3 -3 Don't
+: 494 1 4  de
+: 495 3 4 ny
+: 498 2 4  me,
+: 502 1 6  this
+: 503 3 4  pain
+: 506 1 4  I'm
+: 507 2 4  going
+: 509 3 2  through
+- 514
+: 516 3 6 Please
+: 519 2 2  forgive
+: 521 3 2  me,
+: 526 1 2  if
+: 527 1 1  I
+: 528 2 -1  need
+: 530 2 1  you
+: 532 1 -1  like
+: 533 1 -3  I
+: 534 3 -3  do
+- 538
+: 540 3 9 Please
+: 543 3 9  believe
+: 546 3 9  me,
+: 551 1 8  every
+: 552 3 6  word
+: 555 1 6  I
+: 556 1 6  say
+: 557 1 4  is
+: 558 3 8  true
+- 562
+: 564 3 2 Please
+: 567 3 2  forgive
+: 570 4 2  me,
+: 576 1 1  I
+: 577 1 -1  can't
+: 578 2 1  stop
+: 580 3 -1  loving
+: 583 3 -3  you
+- 595
+: 647 2 -3 Still
+: 649 4 2  feels
+: 653 4 1  like
+: 657 1 -1  our
+: 658 3 2  best
+: 661 2 2  times
+: 663 1 1  are
+: 664 1 -3  to
+: 665 4 -1 gether
+- 673
+: 684 2 -3 Feels
+: 686 2 -4  like
+: 688 1 -4  the
+: 689 4 -4  first
+: 693 4 -3  touch
+- 698
+: 700 2 -1 Still
+: 702 2 1  get
+: 704 1 1 ting
+: 705 2 1  clo
+: 707 2 1 ser
+: 709 2 2  ba
+: 711 2 4 by
+- 716
+: 720 1 4 Can't
+: 721 1 1  get
+: 722 2 1  clo
+: 724 1 1 ser
+: 725 4 1  enough
+- 730
+: 732 3 1 Still
+: 735 2 1  hol
+: 737 1 1 ding
+: 738 2 1  on
+- 741
+: 742 1 1 You're
+: 743 2 1  still
+: 745 2 -1  number
+: 747 4 -3  one
+- 755
+: 765 1 -1 I
+: 766 1 1  re
+: 767 2 1 member
+: 769 1 1  the
+: 770 3 1  smell
+: 773 1 2  of
+: 774 1 2  your
+: 775 3 3  skin
+- 779
+: 781 1 4 I
+: 782 1 5  re
+: 783 2 5 mem
+: 785 1 5 ber
+: 786 3 5  ever
+: 789 1 6 y
+: 790 3 6 thing
+- 795
+: 798 1 8 I
+: 799 1 6  re
+: 800 2 6 mem
+: 802 1 6 ber
+: 803 3 6  all
+: 806 1 9  your
+: 807 4 6  moves
+- 812
+: 814 1 1 I
+: 815 1 -4  re
+: 816 2 -4 mem
+: 818 2 -4 ber
+: 820 4 -4  you
+: 824 3 1  yeah
+- 828
+: 830 1 1 I
+: 831 1 1  re
+: 832 1 1 mem
+: 833 2 1 ber
+: 835 1 1  the
+: 836 2 1  nights,
+: 839 1 2  you
+: 840 3 1  know
+: 843 1 6  I
+: 844 2 6  still
+: 846 4 1  do
+- 852
+: 855 1 1 So
+: 856 2 1  if
+: 858 2 1  you're
+: 860 3 1  fee
+: 863 1 4 ling
+: 864 2 9  lone
+: 866 1 8 ly,
+: 867 10 4  don't
+- 881
+: 887 1 1 You're
+: 888 2 8  the
+: 890 2 8  only
+: 892 2 8  one
+: 896 1 8  I'll
+: 897 2 4  ev
+: 899 1 8 er
+: 900 6 9  want
+- 909
+: 912 1 9 I
+: 913 2 1  on
+: 915 2 2 ly
+: 917 3 4  want
+: 920 1 9  to
+: 921 2 8  make
+: 923 1 4  it
+: 924 9 1  go
+- 937
+: 943 3 6 So
+: 946 2 8  if
+: 948 1 8  I
+: 949 2 8  love
+: 951 2 8  you
+: 953 1 4  a
+: 954 2 6  little
+: 958 2 8  more
+: 960 2 9  than
+: 962 2 8  I
+: 964 10 6  should
+- 976
+: 978 3 2 Please
+: 981 3 2  forgive
+: 984 2 2  me,
+: 989 1 1  I
+: 990 3 -1  know
+: 993 1 -1  not
+: 994 2 -1  what
+: 996 1 -3  I
+: 997 2 1  do
+- 1001
+: 1003 3 2 Please
+: 1006 2 2  forgive
+: 1008 3 2  me,
+: 1014 1 1  I
+: 1015 2 -1  can't
+: 1017 2 1  stop
+: 1019 2 -1  loving
+: 1021 3 -3  you
+- 1025
+: 1027 3 -3 Don't
+: 1030 1 4  de
+: 1031 2 4 ny
+: 1033 3 4  me,
+: 1038 1 6  this
+: 1039 3 4  pain
+: 1042 1 4  I'm
+: 1043 2 4  going
+: 1045 4 2  through
+- 1050
+: 1051 3 6 Please
+: 1054 3 2  forgive
+: 1057 4 2  me,
+: 1062 1 2  if
+: 1063 1 1  I
+: 1064 2 -1  need
+: 1066 1 1  you
+: 1067 2 -1  like
+: 1069 1 -3  I
+: 1070 2 -3  do
+- 1073
+: 1075 4 9  Oh
+: 1079 3 9  believe
+: 1082 3 9  me,
+: 1087 1 8  every
+: 1088 2 6  word
+: 1090 1 6  I
+: 1091 2 6  say
+: 1093 1 4  is
+: 1094 4 8  true
+- 1099
+: 1100 3 2 Please
+: 1103 3 2  forgive
+: 1106 3 2  me,
+: 1111 1 1  I
+: 1112 2 -1  can't
+: 1114 2 1  stop
+: 1116 2 -1  loving
+: 1118 4 -3  you
+- 1131
+: 1194 1 -3 The
+: 1195 2 8  one
+: 1197 2 8  thing
+: 1199 1 8  I'm
+: 1200 4 8  sure
+: 1204 3 6  of
+- 1209
+: 1212 1 4 Is
+: 1213 1 9  the
+: 1214 2 9  way
+: 1216 1 9  we
+: 1217 3 9  make
+: 1220 4 9  love
+- 1225
+: 1227 1 6 The
+: 1228 2 8  one
+: 1230 2 8  thing
+: 1232 1 8  I
+: 1233 1 8  de
+: 1234 2 8 pend
+: 1236 4 8  on
+- 1242
+: 1244 1 4 Is
+: 1245 2 9  for
+: 1247 1 9  us
+: 1248 1 9  to
+: 1249 3 9  stay
+: 1252 4 9  strong
+- 1257
+: 1259 1 6 With
+: 1260 1 9  ev
+: 1261 1 9 ery
+: 1262 3 9  word
+: 1265 1 9  and
+: 1266 2 9  ev
+: 1268 1 9 ery
+: 1269 2 8  breath
+: 1271 2 8  I'm
+: 1273 4 6  pray
+: 1277 4 6 ing
+- 1283
+: 1286 1 4 That's
+: 1287 1 2  why
+: 1288 2 1  I'm
+: 1290 11 1  saying
+- 1305
+: 1311 3 -1 Please
+: 1314 1 4  for
+: 1315 2 4 give
+: 1317 3 4  me,
+: 1322 1 3  I
+: 1323 2 1  know
+: 1325 2 1  not
+: 1327 2 1  what
+: 1329 1 -1  I
+: 1330 2 3  do
+- 1333
+: 1335 3 4 Please
+: 1338 3 4  forgive
+: 1341 4 4  me,
+: 1347 1 3  I
+: 1348 1 1  can't
+: 1349 3 3  stop
+: 1352 2 1  loving
+: 1354 2 -1  you
+- 1358
+: 1360 3 -1 Don't
+: 1363 1 6  de
+: 1364 2 6 ny
+: 1366 2 6  me,
+: 1371 1 8  this
+: 1372 2 6  pain
+: 1374 2 6  I'm
+: 1376 2 6  going
+: 1378 3 4  through
+- 1382
+: 1384 3 8 Please
+: 1387 1 4  for
+: 1388 2 4 give
+: 1390 4 4  me,
+: 1396 1 3  I
+: 1397 1 1  need
+: 1398 2 3  you
+: 1400 2 1  like
+: 1402 1 -1  I
+: 1403 2 -1  do
+- 1406
+: 1408 4 11 Babe
+: 1412 3 11  believe
+: 1415 3 11  it,
+: 1419 2 10  every
+: 1421 2 8  word
+: 1423 1 8  I
+: 1424 2 8  say
+: 1426 1 6  is
+: 1427 2 10  true
+- 1431
+: 1434 2 4 Please
+: 1436 3 4  forgive
+: 1439 3 6  me,
+: 1443 1 3  if
+: 1444 1 11  I
+: 1445 1 8  can't
+: 1446 3 11  stop
+: 1449 1 11  lo
+: 1450 1 11 ving
+: 1451 2 11  you
+- 1454
+: 1455 5 8 Now,
+: 1460 3 11  believe
+: 1463 3 10 me
+: 1468 1 10  I
+: 1469 2 10  don't
+: 1471 2 8  know
+: 1473 1 8  what
+: 1474 1 8  I
+: 1475 2 6  do
+- 1479
+: 1482 3 10 Please
+: 1485 1 4  for
+: 1486 1 4 give
+: 1487 4 4  me,
+: 1493 1 3  I
+: 1494 1 1  can't
+: 1495 3 3  stop
+: 1498 2 1  loving
+: 1500 2 -2  you
+- 1511
+: 1536 1 -1 I
+: 1537 1 3  can't
+: 1538 2 1  stop
+: 1547 9 3  lo
+: 1556 2 0 ving
+: 1559 3 -1  you
+E

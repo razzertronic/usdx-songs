@@ -1,0 +1,253 @@
+#TITLE:Beauty and the Beast
+#ARTIST:Celine Dion & Peabo Bryson
+#LANGUAGE:English
+#EDITION:[SC]-Songs
+#GENRE:Soundtrack
+#MP3:Celine Dion & Peabo Bryson - Beauty and the Beast.mp3
+#COVER:Celine Dion & Peabo Bryson - Beauty and the Beast [CO].jpg
+#BACKGROUND:Celine Dion & Peabo Bryson - Beauty and the Beast [BG].jpg
+#BPM:155,35
+#GAP:15110
+: 0 5 -3 Tale
+: 5 4 0  as
+: 9 6 4  old
+: 15 5 5  as
+: 20 20 -2  time,
+- 42
+: 63 8 -3 true
+: 71 4 0  as
+: 75 2 4  it
+: 77 3 5  can
+: 80 24 7  be.
+- 106
+: 129 4 5 Bare
+: 133 4 7 ly
+: 137 3 9  e
+: 140 3 10 ven
+: 144 10 12  friends,
+- 156
+: 161 4 12 then
+: 165 5 10  some
+: 170 4 9 bo
+: 174 2 7 dy
+: 176 12 5  bends
+- 190
+: 194 7 10  un
+: 201 3 9 ex
+: 204 4 7 pect
+: 208 6 5 ed
+: 214 3 2 l
+: 217 21 0 y
+- 240
+: 256 8 -5 Just
+: 264 3 -3  a
+: 267 3 1  lit
+: 270 2 2 tle
+: 272 6 -3  cha
+: 278 15 -5 nge
+- 295
+: 319 8 -6 Small
+: 327 2 -3  to
+: 329 5 1  say
+: 334 4 2  the
+: 338 10 4  least.
+- 350
+: 354 5 6 Both
+: 359 2 4  a
+: 361 5 6  lit
+: 366 3 9 tle
+: 370 9 2  scared,
+- 381
+: 385 4 2 nei
+: 389 2 1 ther
+: 391 5 2  one
+: 396 4 6  pre
+: 400 10 -5 pared.
+- 412
+: 416 5 6 Beau
+: 421 4 7 ty
+: 425 7 4  and
+: 432 9 6  the
+: 441 21 2  Beast.
+- 464
+: 480 5 2 Ev
+: 485 3 4 er
+: 488 5 6  just
+: 493 4 7  the
+: 497 29 9  same.
+- 528
+: 544 5 2 Ev
+: 549 4 4 er
+: 553 3 6  a
+: 557 5 7  sur
+: 562 34 9 prise
+- 598
+: 609 4 2 Ev
+: 613 4 4 er
+: 617 4 6  as
+: 621 4 7  be
+: 625 8 9 fore,
+- 635
+: 639 2 9 and
+: 641 4 9  ev
+: 645 4 7 er
+: 649 4 6  just
+: 653 4 4  as
+: 657 8 2  sure
+- 667
+: 673 4 2 as
+: 677 3 4  the
+: 680 7 6  sun
+: 688 6 2  will
+: 694 22 4  rise.
+- 718
+: 720 9 4 Whoa,
+: 729 9 7  oh,
+: 738 14 9  oh,
+: 752 7 11  oh,
+: 759 3 11  oh
+: 762 2 9 ~
+: 764 4 6 ~
+: 768 1 4 ~
+: 769 5 2 ~
+- 776
+: 950 14 9  Mmmhhh,
+: 964 1 11  U
+: 965 2 9 o
+: 967 1 11 u
+: 968 3 9 o
+: 971 2 11 u
+: 973 3 12 O
+: 976 3 11 u
+: 979 6 9 Uo
+: 985 3 11 oh
+- 990
+: 994 3 2 E
+: 997 3 4 ver
+: 1000 5 6  just
+: 1005 4 7  the
+: 1009 30 9  same.
+- 1041
+: 1058 9 11 E
+: 1067 4 9 ver
+: 1071 2 9  a
+: 1073 3 6  sur
+: 1076 17 9 pri
+: 1093 5 6 ~
+: 1098 3 6 ~
+: 1101 5 4 ~
+: 1106 8 2 se
+- 1116
+: 1121 4 2 E
+: 1125 4 4 ver
+: 1129 4 6  as
+: 1133 4 7  be
+: 1137 8 9 fore,
+- 1147
+: 1153 4 9  ev
+: 1157 3 7 er
+: 1160 6 6  just
+: 1166 3 4  as
+: 1169 8 2  sure
+- 1179
+: 1186 4 2 as
+: 1190 2 4  the
+: 1193 8 6  sun
+: 1201 4 2  will
+: 1205 17 4  rise.
+- 1223
+: 1225 7 4 Oh,
+: 1237 7 5  oh,
+: 1250 8 7  oh,
+- 1260
+: 1283 5 -1 Tale
+: 1288 4 2  as
+: 1292 4 6  old
+: 1296 7 7  as
+: 1303 13 0  time
+- 1318
+: 1346 5 11 tune
+: 1351 3 9  as
+: 1354 10 9  old
+: 1364 7 11  as
+: 1371 16 7  song
+- 1389
+: 1412 4 7 Bit
+: 1416 3 9 ter
+: 1419 5 11  sweet
+: 1424 4 12  and
+: 1428 8 14  strange,
+- 1438
+: 1442 7 14 find
+: 1449 3 12 ing
+: 1452 4 11  you
+: 1456 3 9  can
+: 1460 8 7  change,
+- 1470
+: 1475 7 12 learn
+: 1482 4 11 ing
+: 1486 3 9  you
+: 1489 4 7  were
+: 1493 11 2  wrong.
+- 1506
+: 1538 6 -4 Cer
+: 1544 4 -1 tain
+: 1548 9 3  as
+: 1557 2 4  the
+: 1560 10 -3  sun.
+- 1570
+: 1570 5 8 Cer
+: 1575 4 4 tain
+: 1580 8 6  as
+: 1588 2 8  the
+: 1590 5 8  su
+: 1595 8 4 n.
+- 1603
+: 1603 5 -4 Ris
+: 1608 4 -1 ing
+: 1612 4 3  in
+: 1616 4 4  the
+: 1620 15 6  East.
+- 1635
+: 1635 5 8 Tale
+: 1640 5 6  as
+: 1645 6 8  old
+: 1651 3 11  as
+: 1654 10 4  time,
+- 1665
+: 1667 5 4 song
+: 1672 4 3  as
+: 1676 4 4  old
+: 1680 5 8  as
+: 1685 9 -3  rhyme.
+- 1696
+: 1699 5 8 Beau
+: 1704 4 9 ty
+: 1708 5 6  and
+: 1713 12 8  the
+: 1725 20 4  Beast.
+- 1747
+: 1763 6 8 Tale
+: 1769 3 6  as
+: 1772 8 8  old
+: 1780 4 11  as
+: 1784 9 4  time,
+- 1793
+: 1793 10 1  Song
+: 1803 2 -1  as
+: 1805 5 1  old
+: 1810 7 4  as
+: 1818 10 -3  rhyme
+- 1830
+: 1832 4 8 Beau
+: 1836 6 9 ty
+: 1842 8 6  and
+: 1850 22 8  the
+: 1880 59 4  Beast.
+- 1941
+: 2149 7 12 Beau
+: 2156 8 13 ty
+: 2164 13 9  and
+: 2177 20 11  the
+: 2211 67 4  Beast.
+E

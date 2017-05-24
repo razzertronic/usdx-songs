@@ -1,0 +1,421 @@
+#TITLE:I Heard A Rumour
+#ARTIST:Bananarama
+#MP3:Bananarama - I Heard A Rumour.mp3
+#COVER:Bananarama - I Heard A Rumour [CO].jpg
+#BACKGROUND:Bananarama - I Heard A Rumour [BG].jpg
+#BPM:246,56
+#GAP:18851
+#RELATIVE:YES
+: 0 3 62 Who 
+: 4 2 59 needs 
+: 8 4 62 friends 
+- 16 20
+: 0 3 59 Who 
+: 4 3 62 ne - 
+: 8 3 64 ver 
+: 12 6 64 show? 
+- 28 40
+: 0 2 64 I'll 
+: 4 2 64 tell 
+: 8 2 62 you 
+: 12 3 64 what 
+- 19 24
+: 0 3 62 You 
+: 4 3 64 want 
+: 8 3 66 to 
+: 12 4 67 know - 
+: 16 8 66 - 
+: 24 2 64 - 
+: 26 4 62 - 
+- 35 40
+: 0 3 66 I 
+: 4 3 66 could 
+: 8 3 66 have 
+: 12 4 66 saved - 
+: 16 2 62 - 
+: 20 2 62 a 
+: 24 2 62 bro - 
+: 28 2 64 ken 
+: 32 4 64 heart 
+- 42 48
+: 0 3 59 If 
+: 4 2 64 I'd 
+: 8 4 71 found 
+: 16 6 69 out 
+: 24 6 67 long 
+: 32 3 66 a - 
+: 36 4 67 go - 
+: 40 8 66 - 
+- 56 64
+: 0 2 66 I'm 
+: 4 2 66 just 
+: 8 5 66 think - 
+: 16 2 62 ing 
+: 20 2 62 a - 
+: 24 4 62 bout 
+- 30 32
+: 0 3 59 Those 
+: 8 4 59 lone - 
+: 16 3 55 ly 
+: 20 3 55 nights 
+- 27 32
+: 0 3 64 When 
+: 4 3 64 I 
+: 8 4 64 wait - 
+: 12 2 61 - 
+: 16 4 61 ed 
+: 24 4 57 for 
+: 32 4 61 your 
+: 43 13 64 call - 
+: 56 4 62 - 
+- 62 64
+: 0 3 66 'Til 
+: 4 3 66 I 
+: 8 4 66 found 
+: 16 4 62 out 
+- 22 24
+: 0 4 62 All 
+: 8 4 64 my 
+: 16 4 66 friends 
+: 24 3 67 were 
+: 28 8 66 right - 
+: 36 4 64 - 
+- 48 56
+: 0 3 66 I 
+: 4 3 69 did - 
+: 8 3 66 n't 
+: 12 3 69 know 
+: 16 3 66 you 
+: 20 3 69 at 
+: 24 6 71 all 
+- 37 44
+: 0 2 66 I 
+: 4 2 69 heard 
+: 8 2 66 a 
+: 12 10 69 ru - 
+: 24 6 71 mour 
+- 37 44
+: 0 2 59 I 
+: 4 6 62 heard 
+: 12 2 62 a 
+: 16 5 59 ru - 
+: 24 4 62 mour 
+- 30 32
+: 0 3 66 They 
+: 4 3 69 say 
+: 8 3 66 you 
+: 12 3 69 got 
+: 16 3 66 a 
+: 20 3 69 bro - 
+: 24 3 69 ken 
+: 28 6 66 heart 
+- 43 52
+: 0 2 66 I 
+: 4 2 69 heard 
+: 8 2 66 a 
+: 12 10 69 ru - 
+: 24 6 71 mour 
+- 33 36
+: 0 2 74 Yes 
+: 4 3 69 I 
+: 8 5 71 did 
+: 16 4 74 boy 
+- 26 32
+: 0 4 74 Ooh - 
+: 4 4 71 - 
+: 8 6 78 - 
+- 24 84
+: 0 3 62 Now 
+: 4 2 59 it 
+: 8 4 62 seems 
+- 16 20
+: 0 3 59 They're 
+: 4 3 62 tell - 
+: 8 3 64 in' 
+: 12 6 64 me 
+- 28 40
+: 0 2 64 You've 
+: 4 2 64 changed 
+: 8 2 62 your 
+: 12 3 64 wick - 
+: 16 3 69 ed 
+: 20 5 66 ways 
+- 35 56
+: 0 3 66 But 
+: 4 3 66 should 
+: 8 5 66 I 
+: 16 5 66 give 
+: 24 4 62 you 
+- 30 32
+: 0 2 62 A 
+: 4 2 62 se - 
+: 8 3 64 cond 
+: 12 5 64 chance? 
+- 27 44
+: 0 3 69 Ba - 
+: 4 3 66 by 
+: 8 3 69 I'm 
+: 12 3 66 too 
+: 16 3 69 af - 
+: 20 8 71 raid 
+- 36 44
+: 0 2 66 So 
+: 4 2 66 you 
+: 8 6 66 re - 
+: 16 5 62 a - 
+: 24 4 62 lise 
+- 30 32
+: 0 3 59 What 
+: 8 4 59 hurt 
+: 16 3 55 you 
+: 20 3 55 gave 
+- 27 32
+: 0 3 64 And 
+: 4 3 64 the 
+: 8 4 64 love - 
+: 12 2 61 - 
+: 16 4 61 you 
+: 24 4 57 threw 
+: 32 4 61 a - 
+: 36 16 64 way - 
+: 52 4 62 - 
+- 60 64
+: 0 3 66 How 
+: 4 3 66 can 
+: 8 4 66 I 
+: 16 4 62 for - 
+: 24 4 62 give 
+- 30 32
+: 0 4 64 Or 
+: 8 4 66 soon 
+: 16 3 67 for - 
+: 20 8 66 get? - 
+: 28 4 64 - 
+- 36 40
+: 0 3 66 It's 
+: 4 3 69 ne - 
+: 8 3 66 ver 
+: 12 3 69 gon - 
+: 16 3 66 na 
+: 20 4 69 be - 
+: 24 3 66 - 
+: 28 3 66 the 
+: 32 6 71 same 
+- 45 52
+: 0 2 66 I 
+: 4 2 69 heard 
+: 8 2 66 a 
+: 12 10 69 ru - 
+: 24 6 71 mour 
+- 37 44
+: 0 2 59 I 
+: 4 6 62 heard 
+: 12 2 62 a 
+: 16 5 59 ru - 
+: 24 4 62 mour 
+- 30 32
+: 0 3 66 They 
+: 4 3 69 say 
+: 8 3 66 you 
+: 12 3 69 got 
+: 16 3 66 a 
+: 20 3 69 bro - 
+: 24 3 69 ken 
+: 28 6 66 heart 
+- 43 52
+: 0 2 66 I 
+: 4 2 69 heard 
+: 8 2 66 a 
+: 12 10 69 ru - 
+: 24 6 71 mour 
+- 33 36
+: 0 2 74 Yes 
+: 4 3 69 I 
+: 8 5 71 did 
+: 16 4 74 boy 
+- 26 32
+: 0 4 74 Ooh - 
+: 4 4 71 - 
+: 8 6 78 - 
+- 24 60
+: 0 2 66 I 
+: 4 2 69 heard 
+: 8 2 66 a 
+: 12 10 69 ru - 
+: 24 6 71 mour 
+- 37 44
+: 0 2 59 I 
+: 4 6 62 heard 
+: 12 2 62 a 
+: 16 5 59 ru - 
+: 24 4 62 mour 
+- 30 32
+: 0 3 66 They 
+: 4 3 69 say 
+: 8 3 66 you 
+: 12 3 69 got 
+: 16 3 66 a 
+: 20 3 69 bro - 
+: 24 3 69 ken 
+: 28 6 66 heart 
+- 43 52
+: 0 2 66 I 
+: 4 2 69 heard 
+: 8 2 66 a 
+: 12 10 69 ru - 
+: 24 6 71 mour 
+- 33 36
+: 0 2 74 Yes 
+: 4 3 69 I 
+: 8 5 71 did 
+: 16 4 74 boy 
+- 26 32
+: 0 4 74 Ooh - 
+: 4 4 71 - 
+: 8 6 78 - 
+- 24 76
+: 0 16 77 Ooh 
+- 26 245
+: 0 2 66 I'm 
+: 4 2 66 just 
+: 8 5 66 think - 
+: 16 2 62 ing 
+: 20 2 62 a - 
+: 24 4 62 bout 
+- 30 32
+: 0 3 59 Those 
+: 8 4 59 lone - 
+: 16 3 55 ly 
+: 20 3 55 nights 
+- 27 32
+: 0 3 64 When 
+: 4 3 64 I 
+: 8 4 64 wait - 
+: 12 2 61 - 
+: 16 4 61 ed 
+: 24 4 57 for 
+: 32 4 61 your 
+: 43 13 64 call - 
+: 56 4 62 - 
+- 62 64
+: 0 3 66 'Til 
+: 4 3 66 I 
+: 8 4 66 found 
+: 16 4 62 out 
+- 22 24
+: 0 4 62 All 
+: 8 4 64 my 
+: 16 4 66 friends 
+: 24 3 67 were 
+: 28 8 66 right - 
+: 36 4 64 - 
+- 48 56
+: 0 3 66 I 
+: 4 3 69 did - 
+: 8 3 66 n't 
+: 12 3 69 know 
+: 16 3 66 you 
+: 20 3 69 at 
+: 24 6 71 all 
+- 37 44
+: 0 2 66 I 
+: 4 2 69 heard 
+: 8 2 66 a 
+: 12 10 69 ru - 
+: 24 6 71 mour 
+- 37 44
+: 0 2 59 I 
+: 4 6 62 heard 
+: 12 2 62 a 
+: 16 5 59 ru - 
+: 24 4 62 mour 
+- 30 32
+: 0 3 66 They 
+: 4 3 69 say 
+: 8 3 66 you 
+: 12 3 69 got 
+: 16 3 66 a 
+: 20 3 69 bro - 
+: 24 3 69 ken 
+: 28 6 66 heart 
+- 43 52
+: 0 2 66 I 
+: 4 2 69 heard 
+: 8 2 66 a 
+: 12 10 69 ru - 
+: 24 6 71 mour 
+- 33 36
+: 0 2 74 Yes 
+: 4 3 69 I 
+: 8 5 71 did 
+: 16 4 74 boy 
+- 26 32
+: 0 4 74 Ooh - 
+: 4 3 71 - 
+: 7 6 78 - 
+- 23 60
+: 0 2 66 I 
+: 4 2 69 heard 
+: 8 2 66 a 
+: 12 10 69 ru - 
+: 24 6 71 mour 
+- 37 44
+: 0 2 59 I 
+: 4 6 62 heard 
+: 12 2 62 a 
+: 16 5 59 ru - 
+: 24 4 62 mour 
+- 30 32
+: 0 3 66 They 
+: 4 3 69 say 
+: 8 3 66 you 
+: 12 3 69 got 
+: 16 3 66 a 
+: 20 3 69 bro - 
+: 24 3 69 ken 
+: 28 6 66 heart 
+- 43 52
+: 0 2 66 I 
+: 4 2 69 heard 
+: 8 2 66 a 
+: 12 10 69 ru - 
+: 24 6 71 mour 
+- 33 36
+: 0 2 74 Yes 
+: 4 3 69 I 
+: 8 5 71 did 
+: 16 4 74 boy 
+- 26 32
+: 0 4 74 Ooh - 
+: 4 4 71 - 
+: 8 6 78 - 
+- 24 60
+: 0 2 66 I 
+: 4 2 69 heard 
+: 8 2 66 a 
+: 12 10 69 ru - 
+: 24 6 71 mour 
+- 37 44
+: 0 2 59 I 
+: 4 6 62 heard 
+: 12 2 62 a 
+: 16 5 59 ru - 
+: 24 4 62 mour 
+- 30 32
+: 0 3 66 They 
+: 4 3 69 say 
+: 8 3 66 you 
+: 12 3 69 got 
+: 16 3 66 a 
+: 20 3 69 bro - 
+: 24 3 69 ken 
+: 28 6 66 heart 
+- 44 154
+: 1 0 0  
+E
+
+Converted by JakobO, thanks to Mike Haggar
+and Chmurek for your excellent tools!
+
+This file was converted from XML using
+GOSU converter v1.0a ENG by Cloud aka Chmurek

@@ -1,0 +1,361 @@
+#TITLE:Should I Stay Or Should I GO
+#ARTIST:The Clash
+#MP3:01 The Clash - Should I Stay Or Should I Go.mp3
+#COVER:The Clash - Should I Stay Or Should I GO [CO].jpg
+#BPM:300,5
+#GAP:11650
+#RELATIVE:YES
+: 0 8 74 Woo 
+- 18 39
+: 0 2 74 A 
+: 5 3 74 la 
+- 18 41
+: 0 5 65 Dar - 
+: 5 4 62 ling 
+: 11 3 62 you 
+: 17 4 65 got 
+: 22 4 62 to 
+: 27 4 62 let 
+: 33 4 60 me 
+: 38 7 62 know 
+- 55 91
+: 0 3 62 Should 
+: 5 4 62 I 
+: 10 4 65 stay 
+: 15 4 62 or 
+: 20 5 65 should 
+: 26 3 65 I 
+: 32 5 62 go - 
+: 37 6 60 - 
+- 53 80
+: 0 3 69 If 
+: 10 3 69 you 
+: 16 3 72 say 
+: 21 3 69 that 
+: 26 3 69 you 
+: 31 3 69 are 
+: 36 6 69 mine - 
+: 42 13 67 - 
+- 65 84
+: 0 4 62 I'll 
+: 6 4 62 be 
+: 11 3 62 here 
+: 17 4 65 'til 
+: 22 4 62 the 
+: 27 4 65 end 
+: 32 3 65 of 
+: 38 7 62 time 
+- 55 85
+: 0 4 69 So 
+: 11 3 69 you 
+: 17 3 72 got 
+: 22 3 69 to 
+: 27 4 72 let 
+: 32 3 72 me 
+: 38 4 69 know - 
+: 42 22 67 - 
+- 74 92
+: 0 4 62 Should 
+: 5 3 62 I 
+: 10 4 65 stay 
+: 15 4 62 or 
+: 20 4 65 should 
+: 25 5 65 I 
+: 30 6 62 go 
+- 46 78
+: 0 3 62 It's 
+: 5 3 62 al - 
+: 10 3 62 ways 
+: 16 8 69 tease 
+: 27 7 69 tease 
+: 37 1 65 tease - 
+: 38 1 64 - 
+: 39 9 62 - 
+- 58 85
+: 0 4 62 You're 
+: 5 3 62 hap - 
+: 10 3 62 py 
+: 15 5 65 when 
+: 21 4 62 I'm 
+: 26 3 65 on 
+: 31 4 65 my 
+: 36 10 62 knees 
+- 56 84
+: 0 3 69 One 
+: 6 3 69 day 
+: 11 3 69 is 
+: 17 3 69 fine 
+: 22 3 69 and 
+: 27 3 69 next 
+: 32 3 69 is 
+: 37 4 67 black 
+- 51 86
+: 0 3 62 So 
+: 5 3 62 if 
+: 10 3 62 you 
+: 15 4 65 want 
+: 21 3 62 me 
+: 26 3 65 off 
+: 31 5 65 your 
+: 36 4 62 back 
+- 50 84
+: 0 3 69 Well 
+: 6 4 69 come 
+: 11 9 72 on 
+: 22 4 69 and 
+: 27 2 72 let 
+: 32 4 72 me 
+: 37 6 69 know - 
+: 43 19 67 - 
+- 72 91
+: 0 3 62 Should 
+: 6 4 62 I 
+: 11 4 65 stay 
+: 16 4 62 or 
+: 21 4 65 should 
+: 27 4 65 I 
+: 32 5 62 go 
+- 47 85
+: 0 4 62 Should 
+: 5 3 62 I 
+: 10 4 66 stay 
+: 15 3 66 or 
+: 20 4 67 should 
+: 25 3 66 I 
+: 30 4 69 go 
+: 37 18 62 now 
+- 65 86
+: 0 4 62 Should 
+: 5 3 62 I 
+: 11 4 66 stay 
+: 16 3 66 or 
+: 21 4 67 should 
+: 26 3 66 I 
+: 31 4 69 go 
+: 37 15 62 now 
+- 62 86
+: 0 4 62 If 
+: 5 3 62 I 
+: 10 4 66 go 
+: 15 3 66 there 
+: 21 4 67 will 
+: 27 4 66 be 
+: 32 3 69 trou - 
+: 37 19 69 ble 
+- 66 80
+: 0 5 62 And 
+: 6 4 62 if 
+: 11 5 62 I 
+: 17 4 66 stay 
+: 22 4 66 it 
+: 27 4 67 will 
+: 33 4 66 be 
+: 38 5 69 dou - 
+: 43 13 62 ble 
+- 66 91
+: 0 3 69 So 
+: 6 4 69 come 
+: 11 4 72 on 
+: 16 3 69 and 
+: 22 4 72 let 
+: 27 4 72 me 
+: 33 6 69 know - 
+: 39 22 67 - 
+- 71 126
+: 0 3 62 This 
+: 6 3 62 in - 
+: 11 3 62 de - 
+: 16 4 65 ci - 
+: 21 4 62 sion's 
+: 28 4 62 bug - 
+: 33 4 60 ging 
+: 38 4 62 me 
+- 42 44
+: 0 3 50 Esta 
+: 5 19 50 indecision 
+: 27 3 50 me 
+: 32 9 50 molesta 
+- 41 43
+: 0 3 62 If 
+: 5 3 62 you 
+: 10 3 62 don't 
+: 15 4 65 want 
+: 20 4 62 me 
+: 26 4 62 set 
+: 31 4 60 me 
+: 36 4 62 free 
+- 40 41
+: 0 3 50 Si 
+: 5 3 50 no 
+: 11 3 50 me 
+: 16 8 50 quieres 
+: 27 12 50 librame 
+- 41 43
+: 0 3 69 Ex - 
+: 5 3 69 act 
+: 11 3 69 -ly 
+: 16 4 72 whom 
+: 21 4 69 I'm 
+: 27 4 69 s'posed 
+: 32 3 69 to 
+: 37 5 69 be - 
+: 42 4 67 - 
+- 46 47
+: 0 11 50 Digame 
+: 27 3 50 que 
+: 32 5 50 tengo 
+- 37 38
+: 0 3 62 Don't 
+: 5 3 62 you 
+: 10 3 62 know 
+: 15 3 65 which 
+: 20 3 62 clothes 
+- 24 26
+: 0 4 65 E - 
+: 5 3 62 ven 
+: 11 4 67 fit 
+: 17 8 62 me 
+- 35 69
+: 0 4 69 Come 
+: 4 4 72 on 
+: 10 4 69 and 
+: 15 3 72 let 
+: 20 3 72 me 
+: 25 6 69 know - 
+: 31 15 67 - 
+- 56 73
+: 0 3 62 Should 
+: 5 4 62 I 
+: 11 4 62 cool 
+: 16 5 65 it 
+: 22 3 62 or 
+: 27 3 65 should 
+: 32 4 65 I 
+: 37 9 62 blow 
+- 47 49
+: 0 8 50 Tengo 
+: 10 9 50 quiero 
+: 21 15 50 quedarme 
+- 40 45
+: 0 99 57 Ahoo 
+: 100 4 57 split 
+- 114 197
+: 0 8 57 Loco 
+: 10 3 57 voy 
+: 21 8 57 frio 
+: 31 3 57 o 
+: 36 3 57 lo 
+: 41 16 57 soplo 
+- 67 201
+: 0 9 57 Esto 
+: 10 4 57 ya 
+- 17 21
+: 0 3 57 Va 
+: 4 19 57 llamando 
+- 33 84
+: 0 4 62 Should 
+: 4 3 62 I 
+: 10 4 66 stay 
+: 15 3 66 or 
+: 20 4 67 should 
+: 25 4 66 I 
+: 30 4 69 go 
+: 35 22 62 now 
+- 67 82
+: 0 4 62 Should 
+: 5 3 62 I 
+: 11 4 66 stay 
+: 16 3 66 or 
+: 22 4 67 should 
+: 28 3 66 I 
+: 33 5 69 go 
+: 39 21 62 now 
+- 70 87
+: 0 4 62 If 
+: 5 3 62 I 
+: 11 4 66 go 
+: 16 3 66 there 
+: 21 5 67 will 
+: 27 4 66 be 
+: 32 4 69 trou - 
+: 37 15 69 ble 
+- 62 81
+: 0 4 62 And 
+: 5 3 62 if 
+: 10 4 62 I 
+: 15 3 66 stay 
+: 21 4 66 it 
+: 26 4 67 will 
+: 32 4 66 be 
+: 37 4 69 dou - 
+: 43 11 62 ble 
+- 64 91
+: 0 3 69 So 
+: 5 3 69 you 
+: 11 4 72 got 
+: 16 3 69 to 
+: 22 3 69 let 
+: 27 3 69 me 
+: 33 5 69 know - 
+: 38 25 67 - 
+- 72 81
+: 0 4 62 Should 
+: 5 3 62 I 
+: 10 4 62 cool 
+: 16 5 65 it 
+: 21 4 62 or 
+: 27 4 65 should 
+: 32 5 65 I 
+: 38 9 62 blow 
+- 57 91
+: 0 4 62 Should 
+: 5 3 62 I 
+: 11 4 66 stay 
+: 15 3 66 or 
+: 21 4 67 should 
+: 27 4 66 I 
+: 32 5 69 go 
+: 37 15 62 now 
+- 62 86
+: 0 4 62 If 
+: 5 3 62 I 
+: 11 4 66 go 
+: 16 3 66 there 
+: 21 4 67 will 
+: 26 4 66 be 
+: 31 4 69 trou - 
+: 37 19 69 ble 
+- 66 79
+: 0 4 62 And 
+: 6 3 62 if 
+: 11 4 62 I 
+: 17 3 66 stay 
+: 22 3 66 it 
+: 27 3 67 wil 
+: 32 3 66 be 
+: 37 5 69 dou - 
+: 42 12 62 ble 
+- 64 90
+: 0 4 69 So 
+: 5 4 69 you 
+: 11 4 72 got 
+: 16 4 69 to 
+: 22 3 69 let 
+: 26 4 69 me 
+: 32 5 69 know - 
+: 37 32 67 - 
+: 69 8 69 - 
+- 81 86
+: 0 4 62 Should 
+: 5 3 62 I 
+: 11 6 65 stay 
+: 17 4 62 or 
+: 22 5 65 should 
+: 28 6 65 I 
+: 34 5 62 go 
+- 49 110
+: 1 0 0  
+E
+
+Konwersja z XMLa wykonana przy pomocy
+GOSU konwertera v1.0a by Cloud aka Chmurek

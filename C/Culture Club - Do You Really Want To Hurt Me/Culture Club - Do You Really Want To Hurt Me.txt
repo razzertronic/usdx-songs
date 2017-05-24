@@ -1,0 +1,399 @@
+#TITLE:Do You Really Want To Hurt Me
+#ARTIST:Culture Club
+#LANGUAGE:English
+#MP3:Culture Club - Do You Really Want To Hurt Me.mp3
+#COVER:Culture Club - Do You Really Want To Hurt Me [CO].jpg
+#BACKGROUND:Culture Club - Do You Really Want To Hurt Me [BG].jpg
+#RELATIVE:YES
+#BPM:200,9
+#GAP:6383
+: 0 5 55 Give 
+: 5 4 59 me 
+: 10 6 64 time - 
+: 16 27 62 - 
+- 51 59
+: 0 19 67 To 
+: 19 3 66 re - 
+: 22 3 64 a - 
+: 25 16 66 lise 
+- 41 42
+: 0 6 62 My 
+: 6 21 59 crime 
+- 37 51
+: 0 6 55 Let 
+: 6 6 59 me 
+: 12 7 64 love - 
+: 19 23 62 - 
+- 42 43
+: 0 2 59 And - 
+: 2 6 57 - 
+: 8 22 59 steal 
+- 40 91
+: 0 5 55 I 
+: 5 5 59 have 
+: 10 6 64 danced - 
+: 16 32 62 - 
+- 53 59
+: 0 18 67 In - 
+: 18 17 66 side 
+- 35 36
+: 0 7 59 Your 
+: 7 7 64 eyes - 
+: 14 11 62 - 
+- 35 61
+: 0 4 55 How 
+: 4 6 59 can 
+: 10 6 64 love - 
+: 16 17 62 - 
+- 33 34
+: 0 2 59 Be - 
+: 2 5 57 - 
+: 7 19 59 real 
+- 36 124
+: 0 4 59 Do 
+: 4 4 59 you 
+: 8 4 59 real - 
+: 12 3 57 ly 
+- 15 16
+: 0 4 57 Want 
+: 4 4 55 to 
+: 8 8 59 hurt 
+: 20 4 59 me 
+- 34 48
+: 0 4 59 Do 
+: 4 4 59 you 
+: 8 4 59 real - 
+: 12 3 57 ly 
+- 15 16
+: 0 4 57 Want 
+: 4 4 55 to 
+: 8 6 59 make 
+: 14 6 52 me 
+: 20 8 52 cry 
+- 37 46
+: 0 6 64 Pre - 
+: 6 4 64 cious 
+: 10 4 64 kis - 
+: 14 3 62 ses 
+- 17 18
+: 0 4 62 Words 
+: 4 4 60 that 
+: 8 10 64 burn 
+: 20 16 64 me 
+- 42 48
+: 0 4 62 Lo - 
+: 4 4 62 vers 
+: 8 4 62 ne - 
+: 12 1 60 ver 
+- 13 14
+: 0 6 59 Ask 
+: 6 4 57 you 
+: 10 18 59 why 
+- 38 50
+: 0 4 59 In 
+: 4 4 59 my 
+: 8 3 59 heart 
+- 11 12
+: 0 2 57 The 
+: 2 6 57 fire's- 
+: 8 4 55 - 
+: 12 8 59 bur - 
+: 20 4 59 ning 
+- 34 52
+: 0 4 59 Choose 
+: 4 4 59 my 
+: 8 2 59 co - 
+: 10 3 57 lour 
+- 13 14
+: 0 5 57 Find 
+: 5 5 55 a 
+: 10 11 59 star 
+- 31 50
+: 0 4 64 Pre - 
+: 4 4 64 cious 
+: 8 4 64 peo - 
+: 12 3 62 ple 
+- 15 16
+: 0 4 60 Al - 
+: 4 4 60 ways 
+: 8 10 64 tell 
+: 20 16 64 me 
+- 42 48
+: 0 4 62 That's 
+: 4 2 62 a 
+: 6 4 62 step 
+- 10 12
+: 0 4 60 A 
+: 4 7 59 step 
+: 11 6 57 too 
+: 17 19 59 far 
+- 44 52
+: 0 4 59 Do 
+: 4 4 59 you 
+: 8 4 59 real - 
+: 12 3 57 ly 
+- 15 16
+: 0 4 57 Want 
+: 4 4 55 to 
+: 8 10 59 hurt 
+: 20 4 59 me 
+- 34 48
+: 0 4 59 Do 
+: 4 4 59 you 
+: 8 4 59 real - 
+: 12 3 57 ly 
+- 15 16
+: 0 4 57 Want 
+: 4 3 55 to 
+: 8 6 64 make 
+: 14 4 62 me 
+: 20 4 58 cry - 
+: 24 11 57 - 
+- 41 48
+: 0 4 64 Do 
+: 4 4 64 you 
+: 8 4 64 real - 
+: 12 3 62 ly 
+- 15 16
+: 0 4 62 Want 
+: 4 4 60 to 
+: 8 10 64 hurt 
+: 20 15 64 me 
+- 41 48
+: 0 4 64 Do 
+: 4 4 64 you 
+: 8 4 64 real - 
+: 12 3 62 ly 
+- 15 16
+: 0 4 62 Want 
+: 4 3 59 to 
+: 8 6 64 make 
+: 14 6 62 me 
+: 20 4 58 cry - 
+: 24 20 57 - 
+- 54 224
+: 0 4 59 Words 
+: 4 4 59 are 
+: 8 3 59 few 
+- 11 12
+: 0 2 57 And 
+: 2 4 57 I 
+: 6 4 55 have 
+: 10 8 59 spo - 
+: 18 8 59 ken 
+- 36 52
+: 0 4 59 I 
+: 4 4 59 could 
+: 8 3 59 waste 
+- 11 12
+: 0 2 57 A 
+: 2 6 57 thou - 
+: 8 4 55 sand 
+: 12 16 59 years 
+- 38 50
+: 0 6 64 Wrapped 
+: 6 4 64 in 
+: 10 2 64 sor - 
+: 12 3 62 row 
+- 15 16
+: 0 6 62 Words 
+: 6 4 60 are 
+: 10 8 64 to - 
+: 18 20 64 ken 
+- 44 50
+: 0 2 62 Come 
+: 2 4 62 in - 
+: 6 5 62 side 
+- 11 12
+: 0 4 60 And 
+: 4 6 59 catch 
+: 10 6 57 my 
+: 16 23 59 tears 
+- 45 52
+: 0 4 59 You've 
+: 4 4 59 been 
+: 8 4 59 talk - 
+: 12 3 57 ing 
+- 15 16
+: 0 4 57 But 
+: 4 2 55 be - 
+: 6 6 59 lieve 
+: 12 7 59 me 
+- 29 48
+: 0 2 59 If 
+: 2 4 59 it's 
+: 6 3 59 true 
+- 9 10
+: 0 6 57 You 
+: 6 4 57 do 
+: 10 4 55 not 
+: 14 19 59 know 
+- 43 54
+: 0 4 64 This 
+: 4 4 64 boy 
+: 8 4 64 loves 
+: 12 2 62 with - 
+: 14 2 62 out - 
+: 16 3 60 - 
+- 19 20
+: 0 4 60 A 
+: 4 8 64 rea - 
+: 12 23 64 son 
+- 39 44
+: 0 4 62 I'm 
+: 4 2 62 pre - 
+: 6 5 62 pared 
+- 11 12
+: 0 4 60 To 
+: 4 4 59 let 
+: 8 5 57 you 
+: 13 22 59 go 
+- 39 43
+: 0 4 64 If 
+: 6 4 64 it's 
+: 12 14 64 love 
+- 26 28
+: 0 2 64 You - 
+: 2 2 62 - 
+: 4 6 64 want 
+: 10 4 62 from 
+: 16 14 62 me 
+- 30 32
+: 0 3 62 Then 
+: 4 6 62 take 
+: 10 11 60 it 
+- 26 32
+: 0 2 59 A - 
+: 2 24 57 way 
+- 31 36
+: 0 4 64 Ev - 
+: 6 4 64 ery - 
+: 12 12 64 thing's 
+- 26 28
+: 0 2 64 Not 
+: 2 2 62 a 
+: 4 6 64 what 
+: 10 5 62 you 
+: 16 12 62 see 
+- 30 32
+: 0 4 62 It's 
+: 4 6 62 o - 
+: 10 12 60 ver 
+- 27 32
+: 0 2 59 A - 
+: 2 18 57 gain - 
+: 20 8 59 - 
+- 36 45
+: 0 4 59 Do 
+: 4 4 59 you 
+: 8 4 59 real - 
+: 12 3 57 ly 
+- 15 16
+: 0 4 57 Want 
+: 4 4 55 to 
+: 8 10 59 hurt 
+: 20 4 59 me 
+- 34 48
+: 0 4 59 Do 
+: 4 4 59 you 
+: 8 4 59 real - 
+: 12 3 57 ly 
+- 15 16
+: 0 4 57 Want 
+: 4 4 55 to 
+: 8 6 64 make 
+: 14 4 62 me 
+: 19 4 58 cry - 
+: 23 11 57 - 
+- 40 47
+: 0 4 64 Do 
+: 4 4 64 you 
+: 8 4 64 real - 
+: 12 3 62 ly 
+- 15 16
+: 0 4 62 Want 
+: 4 4 60 to 
+: 8 10 64 hurt 
+: 20 18 64 me 
+- 43 49
+: 0 4 64 Do 
+: 4 4 64 you 
+: 8 4 64 real - 
+: 12 3 62 ly 
+- 15 16
+: 0 4 62 Want 
+: 4 3 59 to 
+: 8 6 64 make 
+: 14 4 62 me 
+: 20 4 58 cry - 
+: 24 24 57 - 
+- 58 415
+: 0 4 59 Do 
+: 4 4 59 you 
+: 8 4 59 real - 
+: 12 3 57 ly 
+- 15 16
+: 0 4 57 Want 
+: 4 4 55 to 
+: 8 11 59 hurt 
+: 20 7 59 me 
+- 37 48
+: 0 4 59 Do 
+: 4 4 59 you 
+: 8 4 59 real - 
+: 12 3 57 ly 
+- 15 16
+: 0 4 57 Want 
+: 4 4 55 to 
+: 8 6 64 make 
+: 14 6 62 me 
+: 20 4 58 cry - 
+: 24 11 57 - 
+- 41 48
+: 0 4 64 Do 
+: 4 4 64 you 
+: 8 4 64 real - 
+: 12 3 62 ly 
+- 15 16
+: 0 4 62 Want 
+: 4 4 60 to 
+: 8 10 64 hurt 
+: 20 18 64 me 
+- 43 48
+: 0 4 64 Do 
+: 4 4 64 you 
+: 8 4 64 real - 
+: 12 3 62 ly 
+- 15 16
+: 0 4 62 Want 
+: 4 3 59 to 
+: 7 6 64 make 
+: 13 6 62 me 
+: 19 4 58 cry - 
+: 23 23 57 - 
+- 56 96
+: 0 4 59 Do 
+: 4 4 59 you 
+: 8 4 59 real - 
+: 12 3 57 ly 
+- 15 16
+: 0 4 57 Want 
+: 4 4 55 to 
+: 8 10 59 hurt 
+: 20 6 59 me 
+- 36 48
+: 0 4 64 Do 
+: 4 4 64 you 
+: 8 4 64 real - 
+: 12 3 62 ly 
+- 15 16
+: 0 3 62 Want 
+: 3 3 59 to 
+: 7 6 64 make 
+: 13 6 62 me 
+: 19 4 58 cry - 
+: 23 23 57 - 
+E
+
+This file was converted from XML using
+GOSU converter v1.0a ENG by Cloud aka Chmurek

@@ -1,0 +1,302 @@
+#TITLE:Island In The Sun
+#ARTIST:Harry Belafonte
+#LANGUAGE:English
+#MP3:Harry Belafonte - Island In The Sun.mp3
+#COVER:Harry Belafonte - Island In The Sun [CO].jpg
+#BACKGROUND:Harry Belafonte - Island In The Sun [BG].jpg
+#BPM:94
+#GAP:0
+: 2 3 70 This
+: 5 2 70  is
+: 7 3 70  my
+: 10 2 75  is
+: 12 5 75 land
+- 18
+: 18 3 72 in the
+: 21 9 75  sun
+: 36 3 74  Where
+: 39 1 75  my
+: 40 2 74  peo
+: 42 1 74 ple
+- 43
+: 43 2 74 have
+: 45 5 72  toiled
+: 50 4 72  since
+: 54 2 72  time
+: 56 2 70  be
+: 58 6 70 gun
+- 70
+: 74 5 67 I'm
+: 79 7 67  seal
+: 86 2 72  on
+: 88 2 70  man
+: 90 1 70 y
+: 91 1 68  a
+: 92 6 68  sea
+- 99
+: 105 2 67 Her
+: 107 6 67  shores
+: 113 2 68  will
+: 115 2 70  al
+: 117 6 68 ways
+: 123 3 67  be
+: 126 7 65  home
+: 133 2 63  to
+: 135 9 63  me
+- 149
+: 153 3 67 Oh
+: 156 3 67  Is
+: 159 7 67 land
+: 169 2 68  in
+: 171 1 68  the
+: 172 8 68  sun
+- 182
+: 185 3 65 Willed
+: 188 2 65  to
+: 190 6 65  me
+: 196 2 63  by
+: 198 2 65  my
+: 200 3 68  fath
+: 203 1 67 er's
+: 204 8 67  hand
+- 213
+: 214 4 63 All
+: 218 2 63  my
+: 220 5 63  days
+: 225 3 65  I
+: 228 3 67  will
+: 231 3 68  sing
+: 234 2 68  in
+: 236 8 60  praise
+- 245
+: 245 2 65 Of
+: 247 1 63  your
+: 248 2 62  for
+: 250 4 62 ests
+: 254 3 62  wat
+: 257 3 60 ers
+: 260 2 62  your
+: 262 3 65  shin
+: 265 1 63 ing
+: 266 14 63  sands
+- 298
+: 312 3 70 As
+: 315 2 70  morn
+: 317 2 70 ing
+: 319 4 75  breaks
+: 326 2 75  the
+: 328 2 72  hea
+: 330 1 72 ven
+: 331 2 72  on
+: 333 7 75  high
+- 341
+: 342 2 74 I
+: 344 3 74  lift
+: 347 2 74  my
+: 349 2 72  heav
+: 351 1 72 y
+: 352 6 72  load
+: 358 2 72  to
+: 360 1 70  the
+: 361 7 70  sky
+- 370
+: 374 4 67 Sun
+: 378 3 67  comes
+: 381 6 72  down
+: 387 1 70  with
+: 388 4 70  a burn
+: 392 2 68 ing
+: 394 6 68  glow
+- 401
+: 403 2 67 Ming
+: 405 2 67 les
+: 407 1 68  my
+: 408 5 70  sweat
+: 415 2 67  with
+: 417 3 63  the
+: 420 4 65  earth
+: 424 3 63  be
+: 427 5 63 low
+- 436
+: 439 4 67 Oh
+: 443 3 67  Is
+: 446 4 67 land
+: 450 3 68  in
+: 453 2 68  the
+: 455 5 68  sun
+- 461
+: 465 5 65 Willed
+: 470 2 65  to
+: 472 3 65  me
+: 475 2 63  by
+: 477 4 65  my
+: 481 3 68  fath
+: 484 3 67 er's
+: 487 6 67  hand
+- 495
+: 497 4 63 All
+: 501 2 63  my
+: 503 4 63  days
+: 507 1 65  I
+: 508 3 67  will
+: 511 4 68  sing
+: 515 3 68  in
+: 518 5 60  praise
+- 523
+: 523 1 65 Of
+: 524 3 63  your
+: 527 3 62  for
+: 530 3 62 ests
+: 533 5 62  wat
+: 538 2 60 ers
+: 540 2 62  your
+: 542 3 65  shin
+: 545 3 63 ing
+: 548 12 63  sands
+- 572
+: 592 3 70 I
+: 595 3 70  see
+: 598 2 75  wom
+: 600 2 75 en
+: 602 4 75  on
+: 606 3 72  bend
+: 609 2 72 ed
+: 611 10 75  knees
+- 622
+: 625 2 74 Cut
+: 627 2 74 ting
+: 629 6 72  cane
+: 635 2 72  for
+: 637 1 72  her
+: 638 2 72  fam
+: 640 2 70 i
+: 642 6 70 lies
+- 652
+: 656 2 67 I
+: 658 3 67  see
+: 661 5 72  men
+: 667 4 70  at the
+: 671 2 70  wat
+: 673 1 68 er
+: 674 7 68  side
+- 682
+: 683 4 67 Cast
+: 687 2 68 ing
+: 689 5 70  nets
+: 696 2 67  at
+: 698 1 63  the
+: 699 3 65  surg
+: 702 2 65 ing
+: 704 8 63  tide
+- 715
+: 718 4 67 Oh
+: 722 3 67  Is
+: 725 4 67 land
+: 729 3 68  in
+: 732 2 68  the
+: 734 7 68  sun
+- 742
+: 744 5 65 Willed
+: 749 2 65  to
+: 751 3 65  me
+: 754 2 63  by
+: 756 4 65  my
+: 760 3 68  fath
+: 763 3 67 er's
+: 766 6 67  hand
+- 774
+: 776 3 63 All
+: 779 3 63  my
+: 782 3 63  days
+: 785 2 65  I
+: 787 3 67  will
+: 790 3 68  sing
+: 793 3 68  in
+: 796 5 60  praise
+- 801
+: 801 1 65 Of
+: 802 3 63  your
+: 805 3 62  for
+: 808 4 62 ests
+: 812 4 62  wat
+: 816 2 60 ers
+: 818 2 62  your
+: 820 4 65  shin
+: 824 2 63 ing
+: 826 15 63  sands
+- 856
+: 871 3 71 I
+: 874 2 71  hope
+: 876 1 71  the
+: 877 7 76  day
+: 884 2 76  will
+: 886 2 73  nev
+: 888 1 73 er
+: 889 7 76  come
+- 898
+: 902 2 75 That
+: 904 1 76  I
+: 905 3 75  can't
+: 908 1 75  a
+: 909 5 73  wake
+: 914 1 73  to
+: 915 1 75  the
+: 916 3 73  sound
+: 919 2 71  of the
+: 921 5 71  drum
+- 928
+: 929 4 68 Nev
+: 933 2 68 er
+: 935 3 73  let
+: 938 3 73  me
+: 941 3 71  miss
+: 944 4 71  Car
+: 948 2 69 ni
+: 950 7 69 val
+- 959
+: 961 2 68 Cal
+: 963 2 69 yp
+: 965 2 68 so
+: 967 5 69  songs
+: 972 2 71  full
+: 974 2 68  of
+: 976 2 66  subt
+: 978 2 66 le
+: 980 5 64  call
+- 990
+: 994 4 68 Oh
+: 998 3 68  Is
+: 1001 4 68 land
+: 1005 3 69  in
+: 1008 2 69  the
+: 1010 6 69  sun
+- 1017
+: 1020 4 66 Willed
+: 1024 2 66  to
+: 1026 4 66  me
+: 1030 2 64  by
+: 1032 3 66  my
+: 1035 3 69  fath
+: 1038 3 68 er's
+: 1041 5 68  hand
+- 1050
+: 1052 3 64 All
+: 1055 2 64  my
+: 1057 4 64  days
+: 1061 2 66  I
+: 1063 2 68  will
+: 1065 4 69  sing
+: 1069 3 69  in
+: 1072 5 61  praise
+- 1077
+: 1077 1 66 Of
+: 1078 3 64  your
+: 1081 4 63  for
+: 1085 3 63 ests
+: 1088 4 63  wat
+: 1092 2 61 ers
+: 1094 2 63  your
+: 1096 4 66  shin
+: 1100 2 64 ing
+: 1102 11 64  sands
+E

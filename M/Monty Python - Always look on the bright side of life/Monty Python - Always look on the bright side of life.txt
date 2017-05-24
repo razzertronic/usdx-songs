@@ -1,0 +1,373 @@
+#TITLE:Always look on the bright side of life
+#ARTIST:Monty Python
+#LANGUAGE:English
+#MP3:Monty Python - Always look on the bright side of life.mp3
+#COVER:Monty Python - Always Look on the Bright Side of Life [CO].jpg
+#BACKGROUND:Monty Python - Always look on the bright side of life [BG].jpg
+#BPM:118
+#GAP:3500
+: 0 5 71  Some
+: 5 3 69  things
+: 8 1 67  in
+: 9 3 69  life
+: 12 1 71  are
+: 13 4 69  bad
+- 18
+: 20 2 71 They
+: 22 2 69  can
+: 24 5 67  really
+: 29 3 67  make
+: 32 2 66  you
+: 34 5 64  mad
+- 42
+: 44 4 69  Other
+: 48 2 69  things
+: 50 2 69  just
+: 52 2 69  make
+: 54 2 69  you
+: 56 3 71  swear
+: 59 1 69  and
+: 60 7 62  curse
+- 72
+: 76 2 71 When
+: 78 2 71  you're
+: 80 2 69  chew
+: 82 1 67 ing
+: 83 2 69  on
+: 85 3 71  life's
+: 88 6 69  gristle
+- 95
+: 96 3 71 Don't
+: 99 4 69  grum
+: 103 3 67 ble
+: 108 2 67  give
+: 110 1 67  a
+: 111 2 66  whis
+: 113 3 64 tle
+- 120
+: 124 2 64 And
+: 126 2 69  this
+: 128 2 69  will
+: 131 3 69  help
+: 134 3 69  things
+: 137 2 69  turn
+: 139 3 64  out
+: 142 2 66  for
+: 144 2 67  the
+: 146 9 69  best
+- 159
+: 161 8 71 And...
+: 176 8 67 Always
+: 184 3 64  look
+: 187 2 67  on
+: 190 2 64  the
+: 192 7 67  bright
+: 199 2 64  si
+: 201 3 62 de
+: 204 2 64  of
+: 206 6 67  life
+- 225
+: 238 8 67 Always
+: 246 3 64  look
+: 249 3 67  on
+: 252 2 64  the
+: 254 7 67  light
+: 261 4 64  si
+: 265 2 62 de
+: 267 1 64  of
+: 268 6 67  life
+- 285
+: 299 1 67 If
+: 300 4 69  life
+: 304 3 69  seems
+: 307 3 69  jolly
+: 310 4 69  rotten
+- 314
+: 315 3 71 There's
+: 318 2 69  some
+: 320 1 67 thing
+: 321 2 67  you´ve
+: 323 2 71  forgot
+: 325 2 64 ten
+- 329
+: 331 2 59 And
+: 333 2 60  that's
+: 335 1 60  to
+: 336 3 60  laugh
+- 339
+: 340 1 69  and
+: 341 2 71  smile
+: 343 1 69  and
+: 344 3 71  dance
+: 347 1 69  and
+: 348 5 62  sing
+- 356
+: 360 2 71 When 
+: 362 2 71  you're
+: 364 4 69  feeling
+: 368 1 69  in
+: 369 1 69  the
+: 370 4 69  dumps
+- 376
+: 377 4 71 Don´t
+: 381 2 67  be
+: 383 3 67  silly
+: 386 7 64  chumps
+- 392
+: 393 3 64 Just
+: 396 2 69  purse
+: 398 2 69  your
+: 400 2 69  lips
+: 402 1 69  and
+: 403 2 69  whist
+: 405 1 64 le
+- 407
+: 408 2 66 That's
+: 410 1 67  the
+: 411 4 69  thing
+- 420
+: 422 5 71 And...
+: 427 8 67  Always
+: 435 2 64  look
+: 437 4 67  on
+: 441 1 64  the
+: 442 8 67  bright
+: 450 3 64  si
+: 453 2 62 de
+: 455 2 64  of
+: 457 5 67  life
+- 465
+: 490 8 67  Always
+: 498 3 64  look
+: 501 3 67  on
+: 504 1 64  the
+: 505 8 67  bright
+: 513 3 64  si
+: 516 2 62 de
+: 518 2 64  of
+: 520 6 67  life
+- 530
+: 551 2 67 For
+: 553 2 69  life
+: 555 2 69  is
+: 557 3 69  quite
+: 560 5 69  absurd
+- 566
+: 567 2 71 And
+: 569 3 69  death´s
+: 572 1 67  the
+: 573 2 67  fi
+: 575 1 66 nal
+: 577 4 64  word
+- 581
+: 582 1 59 You
+: 583 2 60  must
+: 585 3 60  always
+: 588 3 69  face
+: 591 1 71  the
+: 592 5 69  curtain
+: 597 2 71  with
+: 599 1 69  a
+: 600 5 62  bow
+- 610
+: 615 2 71 For
+: 617 2 69 get
+: 619 2 69  about
+: 621 2 69  your
+: 623 3 69  sin
+- 627
+: 628 3 71  give
+: 631 1 69  the
+: 632 5 67  audience
+: 637 2 66  a
+: 639 3 64  grin
+- 643
+: 646 2 64 En
+: 648 2 69 joy
+: 650 1 69  it,
+: 651 2 69  it's
+: 653 1 69  your
+: 654 4 69  last
+: 658 3 64  chance
+: 661 1 66  an
+: 662 1 67 y
+: 663 5 69 how
+- 670
+: 674 5 71 So,
+: 679 8 67  always
+: 687 2 64  look
+: 689 4 67  on
+: 693 2 64  the
+: 695 7 67  bright
+: 702 3 64  si
+: 705 2 62 de
+: 707 2 64  of
+: 709 5 67  death
+- 730
+: 743 4 71 Just
+: 747 7 67  before
+: 754 5 67  you
+: 759 3 64  draw
+: 763 4 67  your
+: 767 2 64  ter
+: 769 2 67 mi
+: 771 2 64 nal
+: 773 4 67  breath
+- 785
+: 805 4 67 Life´s
+: 809 1 69  a
+: 810 2 69  piece
+: 812 1 69  of
+: 813 3 69  shit
+- 818
+: 822 2 67  when
+: 824 2 67  you
+: 826 1 67  look
+: 827 1 66  at
+: 828 4 64  it
+- 834
+: 836 4 59 Life´s
+: 840 1 60  a
+: 841 4 60  laugh
+: 845 1 69  and
+: 846 2 71  death´s
+: 848 1 69  a
+: 849 4 62  joke
+: 853 2 62  it´s
+: 855 3 62  true
+- 864
+: 868 3 71 You'll
+: 871 2 69  see
+: 873 1 69  it's
+: 874 1 69  all
+: 875 1 69  a
+: 876 5 69  show
+- 881
+: 882 3 71 keep
+: 885 1 69 'em
+: 886 5 67  laughing
+: 891 1 67  as
+: 892 1 66  you
+: 893 4 64  go
+- 897
+: 898 3 64 Just
+: 901 5 69  remember
+: 906 1 69  that
+: 907 1 69  the
+: 908 4 69  last
+: 912 2 64  laugh
+: 914 2 66  is
+: 916 1 67  on
+: 917 4 69  you
+- 925
+: 928 6 70 And...
+: 934 7 67 Always
+: 941 3 64  look
+: 944 4 67  on
+: 948 1 64  the
+: 949 8 67  bright
+: 957 2 64  si
+: 959 2 62 de
+: 961 2 64  of
+: 963 6 67  life
+- 990
+: 996 8 67 Always
+: 1004 2 64  look
+: 1006 4 67  on
+: 1010 2 64  the
+: 1012 7 67  right
+: 1019 3 64  si
+: 1022 2 62 de
+: 1024 2 64  of
+: 1026 7 67  life
+- 1055
+: 1059 8 67 Always
+: 1067 3 64  look
+: 1070 4 67  on
+: 1074 1 64  the
+: 1075 7 67  bright
+: 1082 4 64  si
+: 1086 1 62 de
+: 1087 2 64  of
+: 1089 6 67  life
+- 1117
+: 1122 8 67 Always
+: 1130 2 64  look
+: 1132 4 67  on
+: 1136 2 64  the
+: 1138 6 67  right
+: 1145 4 64  si
+: 1149 1 62 de
+: 1150 2 64  of
+: 1152 4 67  life
+- 1180
+: 1184 8 67 Always
+: 1192 3 64  look
+: 1195 4 67  on
+: 1199 1 64  the
+: 1200 6 67  bright
+: 1207 3 64  si
+: 1210 2 62 de
+: 1212 2 64  of
+: 1214 4 67  life
+- 1240
+: 1248 6 67 Always
+: 1254 2 64  look
+: 1256 4 67  on
+: 1260 1 64  the
+: 1261 8 67  right
+: 1270 3 64  si
+: 1273 1 62 de
+: 1274 2 64  of
+: 1276 5 67  life
+- 1290
+: 1310 5 67 Always
+: 1315 3 64  look
+: 1318 4 67  on
+: 1322 1 64  the
+: 1323 9 67  bright
+: 1332 4 64  si
+: 1336 1 62 de
+: 1337 2 64  of
+: 1339 5 67  life
+- 1355
+: 1371 8 67 Always
+: 1379 3 64  look
+: 1382 4 67  on
+: 1386 1 64  the
+: 1387 7 67  right
+: 1394 3 64  si
+: 1397 2 62 de
+: 1399 2 64  of
+: 1401 5 67  life
+- 1430
+: 1435 6 67 Always
+: 1441 3 64  look
+: 1444 3 67  on
+: 1447 1 64  the
+: 1448 8 67  bright
+: 1456 4 64  si
+: 1460 1 62 de
+: 1461 2 64  of
+: 1463 6 67  life
+- 1490
+: 1495 9 67 Always
+: 1504 3 64  look
+: 1507 3 67  on
+: 1510 1 64  the
+: 1511 8 67  right
+: 1519 3 64  si
+: 1522 1 62 de
+: 1523 2 64  of
+: 1525 5 67  life
+- 1547
+: 1557 9 67 Always
+: 1566 3 64  look
+: 1569 3 67  on
+: 1572 1 64  the
+: 1573 8 67  bright
+: 1581 3 64  si
+: 1584 1 62 de
+: 1585 2 64  of
+: 1587 5 67  life
+E

@@ -1,0 +1,216 @@
+#TITLE:Bang Bang
+#ARTIST:Nancy Sinatra
+#LANGUAGE:English
+#MP3:Nancy Sinatra - Bang Bang.mp3
+#COVER:Nancy Sinatra - Bang Bang [CO].jpg
+#BACKGROUND:Nancy Sinatra - Bang Bang [BG].jpg
+#BPM:81
+#GAP:12900
+: 0 2 48 I
+: 2 1 48  was
+: 3 3 48  five
+: 6 1 48  and
+: 7 1 49  he
+: 8 1 48  was
+: 9 3 48  six,
+- 12
+: 12 2 48 we
+: 14 1 48  rode
+: 15 2 48  on
+: 17 2 48  hors
+: 19 1 48 es
+: 20 3 49  made
+: 23 1 48  of
+: 24 4 48  sticks.
+- 31
+: 34 1 46 He
+: 35 2 46  wore
+: 37 2 46  black
+: 39 1 46  and
+: 40 3 48  I
+: 43 2 46  wore
+: 45 4 46  white,
+- 52
+: 54 1 46 he
+: 55 1 46  would
+: 56 1 46  al
+: 57 2 46 ways
+: 59 1 48  win
+: 60 1 46  the
+: 61 3 46  fight.
+- 64
+: 64 2 49 Bang
+: 66 4 48  bang,
+: 70 2 48  he
+: 72 2 49  shot
+: 74 1 48  me
+: 75 3 48  down.
+- 78
+: 78 2 48 Bang
+: 80 5 48  bang,
+: 85 2 48  I
+: 87 1 49  hit
+: 88 1 48  the
+: 89 3 48  ground.
+- 95
+: 98 2 48 Bang
+: 100 8 46  bang,
+: 108 1 46  that
+: 109 2 48  aw
+: 111 1 46 ful
+: 112 4 46  sound.
+- 120
+: 122 3 46 Bang
+: 125 7 46  bang,
+: 132 3 46  my
+: 135 3 48  ba
+: 138 2 46 by
+: 140 3 44  shot
+: 143 3 43  me
+: 146 9 41  down.
+- 165
+: 201 2 48 Sea
+: 203 2 48 sons
+: 205 1 48  came
+: 206 1 48  and
+: 207 4 49  changed
+: 211 1 48  the
+: 212 4 48  time,
+- 219
+: 221 1 48 when
+: 222 1 48  I
+: 223 2 48  grew
+: 225 1 48  up,
+: 226 2 48  I
+: 228 3 49  called
+: 231 3 48  him
+: 234 5 48  mine.
+- 242
+: 246 1 46 He
+: 247 1 46  would
+: 248 1 46  al
+: 249 1 46 ways
+: 250 2 48  laugh
+: 252 1 46  and
+: 253 3 46  say:
+- 257
+: 257 1 46 "Re
+: 258 1 46 mem
+: 259 2 46 ber
+: 261 2 46  when
+: 263 2 46  we
+: 265 2 48  used
+: 267 1 46  to
+: 268 3 46  play,
+- 272
+: 273 3 49 Bang
+: 276 9 48  bang,
+: 287 1 48  I
+: 288 2 49  shot
+: 290 2 48  you
+: 292 2 48  down.
+- 294
+: 294 2 48 Bang
+: 296 7 48  bang,
+: 304 1 48  you
+: 305 1 49  hit
+: 306 1 48  the
+: 307 3 48  ground.
+- 310
+: 310 3 48 Bang
+: 313 6 46  bang,
+: 319 1 46  that
+: 320 2 48  aw
+: 322 2 46 ful
+: 324 4 46  sound.
+- 331
+: 333 3 46 Bang
+: 336 9 46  bang,
+: 348 2 46  I
+: 350 2 48  used
+: 352 2 46  to
+: 354 2 44  shoot
+: 356 3 43  you
+: 359 9 41  down."
+- 381
+: 413 2 53 Mu
+: 415 1 53 sic
+: 416 6 53  played
+: 422 3 56  and
+: 425 2 55  peo
+: 427 1 53 ple
+: 428 8 53  sang,
+- 437
+: 439 2 51 just
+: 441 1 51  for
+: 442 5 51  me
+: 447 2 55  the
+: 449 2 53  church
+: 451 3 51  bells
+: 454 6 51  rang.
+- 488
+: 514 2 48 Now
+: 516 1 48  he's
+: 517 4 48  gone,
+: 525 1 48  I
+: 526 2 49  don't
+: 528 1 48  know
+: 529 5 48  why,
+- 537
+: 540 2 48 and
+: 542 1 48  till
+: 543 2 48  this
+: 545 3 48  day,
+: 548 2 48  some
+: 550 3 49 times
+: 553 2 48  I
+: 555 4 48  cry.
+- 562
+: 567 1 48 He
+: 568 1 46  did
+: 569 1 46 n't
+: 570 1 46  ev
+: 571 1 46 en
+: 572 2 48  say
+: 574 1 46  good
+: 575 3 46 bye.
+- 578
+: 578 1 46 He
+: 579 1 46  did
+: 580 1 46 n't
+: 581 1 46  take
+: 582 1 46  the
+: 583 3 48  time
+: 589 1 46  to
+: 590 4 46  lie.
+- 596
+: 598 3 49 Bang
+: 601 7 48  bang,
+: 611 2 48  he
+: 613 2 49  shot
+: 615 1 48  me
+: 616 2 48  down.
+- 618
+: 618 2 48 Bang
+: 620 5 48  bang,
+: 625 2 48  I
+: 627 2 49  hit
+: 629 1 48  the
+: 630 4 48  ground.
+- 634
+: 634 3 48 Bang
+: 637 6 46  bang,
+: 649 3 46  that
+: 652 2 48  aw
+: 654 2 46 ful
+: 656 4 46  sound.
+- 660
+: 660 2 46 Bang
+: 662 7 46  bang,
+: 676 4 46  my
+: 680 3 48  ba
+: 683 5 46 by
+: 688 3 44  shot
+: 691 5 40  me
+: 696 15 41  down.
+E

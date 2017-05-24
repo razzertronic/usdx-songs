@@ -1,0 +1,560 @@
+#TITLE:Ohne Dich
+#ARTIST:Münchener Freiheit 
+#MP3:Münchner Freiheit - Ohne Dich.mp3
+#BPM:178
+#GAP:22000
+#RELATIVE:YES
+: 0 1 51 Ich 
+: 1 3 58 will 
+: 5 2 58 mich 
+: 7 3 58 nicht 
+: 11 2 58 ver - 
+: 13 3 58 än - 
+: 17 2 51 dern 
+- 25 31
+: 0 2 51 Um 
+: 2 3 58 dir 
+: 6 2 58 zu 
+: 8 2 58 im - 
+: 12 2 58 po - 
+: 14 3 58 nie - 
+: 17 3 55 r'n 
+- 26 33
+: 0 1 51 Will 
+: 1 3 58 nicht 
+: 5 2 58 den 
+: 7 3 58 gan - 
+: 11 2 58 zen 
+: 13 4 58 A - 
+: 18 2 51 bend 
+- 25 31
+: 0 2 51 Prob - 
+: 2 3 58 le - 
+: 6 2 58 me 
+: 8 2 58 dis - 
+: 12 2 58 ku - 
+: 14 3 58 tie - 
+: 17 3 55 r'n 
+- 25 30
+: 0 2 58 A - 
+: 2 2 58 ber 
+: 4 2 58 ei - 
+: 6 2 58 nes 
+: 8 2 58 geb' 
+: 10 2 58 ich 
+: 12 4 60 zu - 
+: 16 4 56 - 
+- 30 48
+: 0 2 63 Das, 
+: 4 2 63 was 
+: 6 3 63 ich 
+: 11 3 63 will, 
+: 16 2 63 bist 
+: 21 16 63 du 
+- 47 82
+: 0 2 58 Ich 
+: 2 3 58 will 
+: 6 2 58 nichts 
+: 8 2 58 ga - 
+: 10 3 58 ran - 
+: 14 3 58 tie - 
+: 18 2 55 ren 
+- 26 32
+: 0 2 51 Das 
+: 2 2 58 ich 
+: 4 3 58 nicht 
+: 8 3 58 hal - 
+: 12 2 58 ten 
+: 14 3 58 kann 
+- 24 32
+: 0 2 51 Will 
+: 2 2 58 mit 
+: 4 3 58 dir 
+: 8 3 58 was 
+: 12 2 58 er - 
+: 14 3 58 le - 
+: 18 2 55 ben 
+- 25 30
+: 0 2 51 Bes - 
+: 2 2 51 ser 
+: 4 3 60 gleich 
+: 8 2 58 als 
+: 12 2 58 ir - 
+: 14 2 55 gend - 
+: 16 3 58 wann 
+- 25 32
+: 0 2 58 Und 
+: 2 2 58 ich 
+: 4 2 58 ge - 
+: 6 2 58 be 
+: 8 2 58 of - 
+: 10 2 58 fen 
+: 12 4 60 zu - 
+: 16 6 56 - 
+- 32 48
+: 0 2 63 Das, 
+: 4 2 63 was 
+: 6 2 63 ich 
+: 11 3 63 will, 
+: 16 3 63 bist 
+: 20 11 63 du 
+- 41 88
+: 0 2 63 Oh - 
+: 2 2 63 ne 
+: 4 2 63 dich 
+- 6 8
+: 0 2 63 Schlaf' 
+: 2 2 63 ich 
+: 6 3 60 heut' 
+: 10 3 62 Nacht 
+: 14 2 63 nicht 
+: 16 4 65 ein 
+- 22 24
+: 0 2 62 Oh - 
+: 2 2 62 ne 
+: 4 2 62 dich 
+- 6 8
+: 0 2 62 Fahr' 
+: 2 3 62 ich 
+: 6 3 58 heut' 
+: 10 3 60 Nacht 
+: 14 3 62 nicht 
+: 18 3 63 heim 
+- 22 24
+: 0 2 63 Oh - 
+: 2 2 63 ne 
+: 4 2 63 dich 
+- 6 8
+: 0 2 63 Komm' 
+: 2 3 63 ich 
+: 6 3 60 heut' 
+: 10 3 60 nicht 
+: 14 2 62 zur 
+: 16 3 63 Ruh' 
+- 21 24
+: 0 2 63 Das, 
+: 4 2 63 was 
+: 8 2 67 ich 
+: 12 5 65 will, 
+: 20 2 63 bist 
+: 24 5 63 du 
+- 30 32
+: 0 2 63 Oh - 
+: 2 2 63 ne 
+: 4 2 63 dich 
+- 6 8
+: 0 2 63 Schlaf' 
+: 2 2 63 ich 
+: 6 3 60 heut' 
+: 10 3 62 Nacht 
+: 14 2 63 nicht 
+: 16 4 65 ein 
+- 22 24
+: 0 2 62 Oh - 
+: 2 2 62 ne 
+: 4 2 62 dich 
+- 6 8
+: 0 2 62 Fahr' 
+: 2 3 62 ich 
+: 6 3 58 heut' 
+: 10 3 60 Nacht 
+: 14 3 62 nicht 
+: 18 3 63 heim 
+- 22 24
+: 0 2 63 Oh - 
+: 2 2 63 ne 
+: 4 2 63 dich 
+- 6 8
+: 0 2 63 Komm' 
+: 2 3 63 ich 
+: 6 3 60 heut' 
+: 10 3 60 nicht 
+: 14 2 62 zur 
+: 16 3 63 Ruh' 
+- 21 24
+: 0 2 63 Das, 
+: 4 2 63 was 
+: 8 2 67 ich 
+: 12 5 65 will, 
+: 20 2 63 bist 
+: 23 12 63 du 
+- 47 154
+: 0 2 51 Ich 
+: 2 3 58 will 
+: 6 2 58 nicht 
+: 8 3 58 al - 
+: 12 2 58 les 
+: 14 3 58 sa - 
+: 18 2 55 gen 
+- 26 32
+: 0 2 51 Und 
+: 2 3 58 nicht 
+: 6 2 58 so 
+: 8 2 58 viel 
+: 12 2 58 er - 
+: 14 3 58 klä - 
+: 17 3 55 r'n 
+- 26 32
+: 0 2 51 Und 
+: 2 3 60 nicht 
+: 6 2 58 mit 
+: 8 3 58 so 
+: 12 2 58 viel 
+: 14 4 58 Wor - 
+: 19 2 51 ten 
+- 26 32
+: 0 2 51 Den 
+: 2 2 60 A - 
+: 4 2 58 u - 
+: 6 2 58 gen - 
+: 8 2 58 blick 
+: 12 2 58 zer - 
+: 14 4 58 stö - 
+: 18 2 55 r'n 
+- 25 30
+: 0 2 58 A - 
+: 2 2 58 ber 
+: 4 2 58 ei - 
+: 6 2 58 nes 
+: 8 2 58 geb' 
+: 10 2 58 ich 
+: 12 4 60 zu - 
+: 16 4 56 - 
+- 30 48
+: 0 2 63 Das, 
+: 4 2 63 was 
+: 6 3 63 ich 
+: 11 3 63 will, 
+: 16 2 63 bist 
+: 21 19 63 du - 
+: 40 2 70 - 
+- 52 82
+: 0 1 58 Und 
+: 1 1 58 ich 
+: 2 2 67 will 
+: 4 3 65 auch 
+: 8 3 65 nichts 
+: 12 2 63 er - 
+: 14 4 63 zähl'n 
+- 24 30
+: 0 2 63 Was 
+: 2 2 63 dich 
+: 4 4 67 eh' 
+: 8 2 65 nicht 
+: 10 3 65 in - 
+: 14 1 63 te - 
+: 15 1 63 res - 
+: 16 3 63 siert 
+- 26 34
+: 0 2 63 Will 
+: 2 2 67 mit 
+: 4 3 65 dir 
+: 8 3 65 was 
+: 12 2 63 er - 
+: 14 3 63 le - 
+: 19 2 58 ben 
+- 25 30
+: 0 2 63 Das 
+: 2 2 63 uns 
+: 5 3 67 bei - 
+: 9 3 65 de 
+: 12 3 65 fas - 
+: 16 2 63 zi - 
+: 18 3 65 niert - 
+: 21 2 60 - 
+- 27 32
+: 0 2 63 Und 
+: 2 2 63 ich 
+: 4 2 63 ge - 
+: 6 2 63 be 
+: 8 2 63 of - 
+: 10 2 63 fen 
+: 12 19 65 zu - 
+: 36 6 60 - 
+- 46 50
+: 0 2 68 Das, 
+: 2 2 68 was 
+: 4 3 68 ich 
+: 8 2 68 will - 
+: 10 3 67 - , 
+: 14 3 63 bist 
+: 18 22 63 du 
+- 50 86
+: 0 2 63 Oh - 
+: 2 2 63 ne 
+: 4 2 63 dich 
+- 6 8
+: 0 2 63 Schlaf' 
+: 2 2 63 ich 
+: 6 3 60 heut' 
+: 10 3 62 Nacht 
+: 14 2 63 nicht 
+: 16 4 65 ein 
+- 22 24
+: 0 2 62 Oh - 
+: 2 2 62 ne 
+: 4 2 62 dich 
+- 6 8
+: 0 2 62 Fahr' 
+: 2 3 62 ich 
+: 6 3 58 heut' 
+: 10 3 60 Nacht 
+: 14 3 62 nicht 
+: 18 3 63 heim 
+- 22 24
+: 0 2 63 Oh - 
+: 2 2 63 ne 
+: 4 2 63 dich 
+- 6 8
+: 0 2 63 Komm' 
+: 2 3 63 ich 
+: 6 3 60 heut' 
+: 10 3 60 nicht 
+: 14 2 62 zur 
+: 16 3 63 Ruh' 
+- 21 24
+: 0 2 63 Das, 
+: 4 2 63 was 
+: 8 2 67 ich 
+: 12 5 65 will, 
+: 20 2 63 bist 
+: 24 5 63 du 
+- 30 32
+: 0 2 63 Oh - 
+: 2 2 63 ne 
+: 4 2 63 dich 
+- 6 8
+: 0 2 63 Schlaf' 
+: 2 2 63 ich 
+: 6 3 60 heut' 
+: 10 3 62 Nacht 
+: 14 2 63 nicht 
+: 16 4 65 ein 
+- 22 24
+: 0 2 62 Oh - 
+: 2 2 62 ne 
+: 4 2 62 dich 
+- 6 8
+: 0 2 62 Fahr' 
+: 2 3 62 ich 
+: 6 3 58 heut' 
+: 10 3 60 Nacht 
+: 14 3 62 nicht 
+: 18 3 63 heim 
+- 22 24
+: 0 2 63 Oh - 
+: 2 2 63 ne 
+: 4 2 63 dich 
+- 6 8
+: 0 2 63 Komm' 
+: 2 3 63 ich 
+: 6 3 60 heut' 
+: 10 3 60 nicht 
+: 14 2 62 zur 
+: 16 3 63 Ruh' 
+- 21 24
+: 0 2 63 Das, 
+: 4 2 63 was 
+: 8 2 67 ich 
+: 12 5 65 will, 
+: 20 2 63 bist 
+: 24 12 63 du 
+- 46 288
+: 0 2 63 Oh - 
+: 2 2 63 ne 
+: 4 2 63 dich 
+- 6 8
+: 0 2 63 Schlaf' 
+: 2 2 63 ich 
+: 6 3 60 heut' 
+: 10 3 62 Nacht 
+: 14 2 63 nicht 
+: 16 4 65 ein 
+- 22 24
+: 0 2 62 Oh - 
+: 2 2 62 ne 
+: 4 2 62 dich 
+- 6 8
+: 0 2 62 Fahr' 
+: 2 3 62 ich 
+: 6 3 58 heut' 
+: 10 3 60 Nacht 
+: 14 3 62 nicht 
+: 18 3 63 heim 
+- 22 24
+: 0 2 63 Oh - 
+: 2 2 63 ne 
+: 4 2 63 dich 
+- 6 8
+: 0 2 63 Komm' 
+: 2 3 63 ich 
+: 6 3 60 heut' 
+: 10 3 60 nicht 
+: 14 2 62 zur 
+: 16 3 63 Ruh' 
+- 21 24
+: 0 2 63 Das, 
+: 4 2 63 was 
+: 8 2 67 ich 
+: 12 5 65 will, 
+: 20 2 63 bist 
+: 24 5 63 du 
+- 30 32
+: 0 2 63 Oh - 
+: 2 2 63 ne 
+: 4 2 63 dich 
+- 6 8
+: 0 2 63 Schlaf' 
+: 2 2 63 ich 
+: 6 3 60 heut' 
+: 10 3 62 Nacht 
+: 14 2 63 nicht 
+: 16 4 65 ein 
+- 22 24
+: 0 2 62 Oh - 
+: 2 2 62 ne 
+: 4 2 62 dich 
+- 6 8
+: 0 2 62 Fahr' 
+: 2 3 62 ich 
+: 6 3 58 heut' 
+: 10 3 60 Nacht 
+: 14 3 62 nicht 
+: 18 3 63 heim 
+- 22 24
+: 0 2 63 Oh - 
+: 2 2 63 ne 
+: 4 2 63 dich 
+- 6 8
+: 0 2 63 Komm' 
+: 2 3 63 ich 
+: 6 3 60 heut' 
+: 10 3 60 nicht 
+: 14 2 62 zur 
+: 16 3 63 Ruh' 
+- 21 24
+: 0 2 63 Das, 
+: 4 2 63 was 
+: 8 2 67 ich 
+: 12 5 65 will, 
+: 20 2 63 bist 
+: 24 3 63 du 
+- 29 32
+: 0 2 63 Oh - 
+: 2 2 63 ne 
+: 4 2 63 dich 
+- 6 8
+: 0 2 63 Schlaf' 
+: 2 2 63 ich 
+: 6 3 60 heut' 
+: 10 3 62 Nacht 
+: 14 2 63 nicht 
+: 16 4 65 ein 
+- 22 24
+: 0 2 62 Oh - 
+: 2 2 62 ne 
+: 4 2 62 dich 
+- 6 8
+: 0 2 62 Fahr' 
+: 2 3 62 ich 
+: 6 3 58 heut' 
+: 10 3 60 Nacht 
+: 14 3 62 nicht 
+: 18 3 63 heim 
+- 22 24
+: 0 2 63 Oh - 
+: 2 2 63 ne 
+: 4 2 63 dich 
+- 6 8
+: 0 2 63 Komm' 
+: 2 3 63 ich 
+: 6 3 60 heut' 
+: 10 3 60 nicht 
+: 14 2 62 zur 
+: 16 3 63 Ruh' 
+- 21 24
+: 0 2 63 Das, 
+: 4 2 63 was 
+: 8 2 67 ich 
+: 12 5 65 will, 
+: 20 2 63 bist 
+: 24 5 63 du 
+- 30 32
+: 0 2 63 Oh - 
+: 2 2 63 ne 
+: 4 2 63 dich 
+- 6 8
+: 0 2 63 Schlaf' 
+: 2 2 63 ich 
+: 6 3 60 heut' 
+: 10 3 62 Nacht 
+: 14 2 63 nicht 
+: 16 4 65 ein 
+- 22 24
+: 0 2 62 Oh - 
+: 2 2 62 ne 
+: 4 2 62 dich 
+- 6 8
+: 0 2 62 Fahr' 
+: 2 3 62 ich 
+: 6 3 58 heut' 
+: 10 3 60 Nacht 
+: 14 3 62 nicht 
+: 18 3 63 heim 
+- 22 24
+: 0 2 63 Oh - 
+: 2 2 63 ne 
+: 4 2 63 dich 
+- 6 8
+: 0 2 63 Komm' 
+: 2 3 63 ich 
+: 6 3 60 heut' 
+: 10 3 60 nicht 
+: 14 2 62 zur 
+: 16 3 63 Ruh' 
+- 21 24
+: 0 2 63 Das, 
+: 4 2 63 was 
+: 8 2 67 ich 
+: 12 5 65 will, 
+: 20 2 63 bist 
+: 24 6 63 du 
+- 30 32
+: 0 2 63 Oh - 
+: 2 2 63 ne 
+: 4 2 63 dich 
+- 6 8
+: 0 2 63 Schlaf' 
+: 2 2 63 ich 
+: 6 3 60 heut' 
+: 10 3 62 Nacht 
+: 14 2 63 nicht 
+: 16 4 65 ein 
+- 22 24
+: 0 2 62 Oh - 
+: 2 2 62 ne 
+: 4 2 62 dich 
+- 6 8
+: 0 2 62 Fahr' 
+: 2 3 62 ich 
+: 6 3 58 heut' 
+: 10 3 60 Nacht 
+: 14 3 62 nicht 
+: 18 3 63 heim 
+- 22 24
+: 0 2 63 Oh - 
+: 2 2 63 ne 
+: 4 2 63 dich 
+- 6 8
+: 0 2 63 Komm' 
+: 2 3 63 ich 
+: 6 3 60 heut' 
+: 10 3 60 nicht 
+: 14 2 62 zur 
+: 16 3 63 Ruh' 
+- 29 41
+: 1 0 0  
+E
+
+Konwersja z XMLa wykonana przy pomocy
+GOSU konwertera v1.0a by Cloud aka Chmurek

@@ -1,0 +1,458 @@
+#TITLE:Making Your Mind Up
+#ARTIST:Bucks Fizz
+#MP3:Bucks Fizz - Making Your Mind Up.mp3
+#COVER:Bucks Fizz - Making Your Mind Up [CO].jpg
+#BACKGROUND:Bucks Fizz - Making Your Mind Up [BG].jpg
+#BPM:348
+#GAP:11676
+#RELATIVE:YES
+: 0 3 62 You 
+: 4 3 62 got - 
+: 8 3 62 ta 
+: 12 11 62 speed 
+: 25 10 62 it 
+: 37 5 55 up 
+- 49 57
+: 0 4 59 And 
+: 4 4 60 then 
+: 8 4 59 you 
+: 12 3 60 got - 
+: 16 4 59 ta 
+: 20 10 62 slow 
+: 32 10 62 it 
+: 43 7 67 down 
+- 57 65
+: 0 2 62 Cos 
+: 4 2 62 if 
+: 8 2 62 you 
+: 12 2 62 be - 
+: 16 10 64 lieve 
+: 28 2 64 that 
+: 32 3 64 our 
+: 36 6 60 love 
+- 43 45
+: 0 5 60 Can 
+: 7 6 64 hit 
+: 15 3 64 the 
+: 20 4 67 top 
+: 27 3 66 you 
+: 31 3 64 got - 
+: 35 4 62 ta 
+- 43 47
+: 0 7 62 Play 
+: 8 7 55 a - 
+: 16 6 67 round 
+- 29 37
+: 0 3 62 But 
+: 4 3 62 soon 
+: 8 3 62 you 
+: 12 3 62 will 
+: 16 10 66 find 
+- 26 28
+: 0 2 66 That 
+: 4 3 66 there 
+: 8 5 64 comes 
+: 16 3 64 a 
+: 20 7 62 time 
+- 32 37
+: 0 2 55 For 
+: 4 2 55 mak - 
+: 8 2 55 ing 
+: 12 2 55 your 
+: 16 9 55 mind 
+: 27 5 67 up 
+- 42 73
+: 0 3 62 You 
+: 4 3 62 got - 
+: 7 3 59 ta 
+: 11 7 62 turn 
+: 19 5 62 it 
+: 35 6 55 on 
+- 48 55
+: 0 3 59 And 
+: 4 3 60 then 
+: 8 3 59 you 
+: 12 3 60 got - 
+: 15 4 59 ta 
+: 20 5 62 put 
+: 28 6 62 it 
+: 44 5 67 out 
+- 57 66
+: 0 3 62 You 
+: 4 3 62 got - 
+: 8 3 62 ta 
+: 12 3 62 be 
+: 16 10 64 sure 
+: 27 3 64 that 
+: 31 3 64 it's 
+: 36 5 60 some - 
+: 44 5 60 thing 
+- 50 52
+: 0 5 64 Ev - 
+: 8 3 64 ery - 
+: 13 6 67 bo - 
+: 20 3 66 dy's 
+: 24 2 64 gon - 
+: 28 4 62 na 
+- 36 40
+: 0 6 62 Talk 
+: 8 6 55 a - 
+: 16 6 67 bout 
+- 29 37
+: 0 2 62 Be - 
+: 4 2 62 fore 
+: 8 2 62 you 
+: 12 3 62 de - 
+: 16 9 66 cide 
+- 25 27
+: 0 2 66 That 
+: 4 2 66 the 
+: 8 6 64 time's 
+: 16 3 64 ar - 
+: 20 6 62 rived 
+- 31 37
+: 0 2 55 For 
+: 4 2 55 mak - 
+: 8 2 55 ing 
+: 12 2 55 your 
+: 16 7 55 mind 
+: 27 6 67 up 
+- 43 76
+: 0 6 55 Don't 
+: 8 5 55 let 
+: 16 5 55 your 
+: 24 7 57 in - 
+: 32 3 55 de - 
+: 36 7 59 ci - 
+: 44 7 62 sion 
+- 61 73
+: 0 5 55 Take 
+: 8 6 55 you 
+: 16 7 57 from 
+: 24 4 55 be - 
+: 28 9 59 hind - 
+: 37 4 55 - 
+: 41 4 57 - 
+: 45 7 55 - 
+- 58 65
+: 0 5 55 Trust 
+: 8 5 55 your 
+: 16 6 57 in - 
+: 24 3 55 ner 
+: 28 7 59 vi - 
+: 37 6 62 sion 
+- 53 65
+: 0 5 64 Don't 
+: 8 6 64 let 
+: 16 6 64 o - 
+: 25 7 64 thers 
+- 32 33
+: 0 7 66 Change 
+: 8 7 64 your 
+: 16 16 62 mind - 
+: 33 3 63 - 
+- 36 37
+: 0 3 63 And 
+: 4 3 63 then 
+: 8 3 63 you 
+: 12 3 63 real - 
+: 15 3 63 ly 
+: 19 3 63 got - 
+: 23 3 63 ta 
+- 26 27
+: 0 6 63 Burn 
+: 9 9 63 it 
+: 25 5 56 up 
+- 38 46
+: 0 4 60 And 
+: 4 3 61 make 
+: 7 4 60 a - 
+: 11 3 61 noth - 
+: 15 4 60 er 
+: 19 5 63 fly 
+: 27 5 63 by 
+: 43 4 68 night 
+- 57 77
+: 0 3 63 Get 
+: 3 3 63 a 
+: 8 6 65 run 
+: 15 3 65 for 
+: 19 3 65 your 
+: 23 3 61 mo - 
+: 27 3 61 ney 
+- 30 31
+: 0 4 61 And 
+: 5 5 65 take 
+: 13 5 65 a 
+: 20 7 68 chance 
+: 28 4 67 and 
+: 32 4 65 it' - 
+: 36 3 63 ll 
+- 43 48
+: 0 4 63 Turn 
+: 8 5 56 out 
+: 16 5 68 right 
+- 29 37
+: 0 3 63 And 
+: 4 3 63 when 
+: 8 3 63 you 
+: 12 3 63 can 
+: 16 10 67 see 
+- 26 28
+: 0 3 67 How 
+: 4 3 67 it's 
+: 8 6 65 got - 
+: 15 3 65 ta 
+: 20 5 63 be 
+- 31 37
+: 0 3 56 You're 
+: 4 3 56 mak - 
+: 8 3 56 ing 
+: 12 3 56 your 
+: 16 10 56 mind 
+: 27 6 68 up 
+- 43 348
+: 0 3 64 And 
+: 4 3 64 try 
+: 8 3 64 to 
+: 12 3 64 look 
+: 16 3 64 as 
+: 20 3 64 if 
+: 24 3 64 you 
+- 27 28
+: 0 4 64 Don't 
+: 8 13 64 care 
+: 25 4 57 less 
+- 38 47
+: 0 3 61 But 
+: 3 4 62 if 
+: 7 4 61 you 
+: 11 4 62 want 
+: 15 3 61 to 
+: 19 5 64 see 
+: 27 7 64 some 
+: 43 6 69 more 
+- 58 68
+: 0 3 64 Bend - 
+: 4 3 64 ing 
+: 8 3 64 the 
+: 13 10 66 rules 
+: 25 2 66 of 
+: 28 3 66 the 
+: 32 7 62 game 
+- 39 41
+: 0 6 62 Will 
+: 8 4 66 let 
+: 15 4 66 you 
+: 20 5 69 find 
+: 28 3 68 the 
+: 32 2 66 one 
+: 36 4 64 you're 
+- 44 48
+: 0 4 64 Look - 
+: 8 6 57 ing 
+: 16 5 69 for 
+- 29 37
+: 0 3 64 And 
+: 4 3 64 then 
+: 8 3 64 you 
+: 12 3 64 can 
+: 16 10 68 show 
+- 26 28
+: 0 2 68 That 
+: 4 2 68 you 
+: 8 6 66 think 
+: 16 3 66 you 
+: 21 8 64 know 
+- 33 38
+: 0 3 57 You're 
+: 4 3 57 mak - 
+: 8 3 57 ing 
+: 12 3 57 your 
+: 16 11 57 mind 
+: 28 5 69 up 
+- 43 77
+: 0 6 57 Don't 
+: 8 5 57 let 
+: 16 7 57 your 
+: 24 8 59 in - 
+: 32 4 57 de - 
+: 37 8 61 ci - 
+: 45 5 64 sion 
+- 60 74
+: 0 6 57 Take 
+: 8 7 57 you 
+: 17 8 59 from 
+: 25 4 57 be - 
+: 30 8 61 hind - 
+: 38 4 57 - 
+: 42 4 59 - 
+: 46 6 57 - 
+- 58 65
+: 0 6 57 Trust 
+: 8 7 57 your 
+: 17 7 59 in - 
+: 25 4 57 ner 
+: 30 6 61 vi - 
+: 37 7 64 sion 
+- 54 66
+: 0 5 66 Don't 
+: 8 6 66 let 
+: 17 5 66 o - 
+: 25 6 66 thers 
+: 33 6 68 change 
+: 41 6 66 your 
+: 49 18 64 mind 
+- 68 70
+: 0 3 64 And 
+: 4 3 64 now 
+: 8 3 64 you 
+: 12 3 64 real - 
+: 16 3 64 ly 
+: 20 3 64 got - 
+: 24 3 64 ta 
+- 27 28
+: 0 12 64 Speed 
+: 13 9 64 it 
+: 25 6 57 up 
+- 39 47
+: 0 3 61 And 
+: 4 3 62 then 
+: 8 3 61 you 
+: 12 3 62 got - 
+: 16 3 61 ta 
+: 20 11 64 slow 
+: 32 7 64 it 
+: 43 6 69 down 
+- 57 65
+: 0 3 64 Cos 
+: 4 3 64 if 
+: 8 3 64 you 
+: 12 3 64 be - 
+: 16 9 66 lieve 
+: 28 2 66 that 
+: 32 2 66 our 
+: 36 7 62 love 
+- 43 44
+: 0 5 62 Can 
+: 8 5 66 hit 
+: 16 3 66 the 
+: 21 5 69 top 
+: 29 3 68 you 
+: 33 2 66 got - 
+: 37 4 64 ta 
+- 45 49
+: 0 7 64 Play 
+: 9 5 57 a - 
+: 17 6 69 round 
+- 30 38
+: 0 3 64 But 
+: 4 3 64 soon 
+: 8 3 64 you 
+: 12 3 64 will 
+: 16 10 68 find 
+- 26 28
+: 0 2 68 That 
+: 3 2 68 there 
+: 8 6 66 comes 
+: 16 3 66 a 
+: 20 10 64 time 
+- 34 38
+: 0 2 57 For 
+: 4 2 57 mak - 
+: 8 2 57 ing 
+: 12 2 57 your 
+: 16 7 57 mind 
+: 27 4 69 up 
+- 41 57
+: 0 3 64 And 
+: 4 3 64 now 
+: 8 3 64 you 
+: 12 3 64 real - 
+: 16 3 64 ly 
+: 20 3 64 got - 
+: 24 3 64 ta 
+- 27 28
+: 0 12 64 Speed 
+: 13 10 64 it 
+: 25 5 57 up 
+- 37 45
+: 0 4 61 And 
+: 4 4 62 then 
+: 8 4 61 you 
+: 12 4 62 got - 
+: 16 3 61 ta 
+- 19 20
+: 0 12 64 Slow 
+: 13 11 64 it 
+: 24 8 69 down 
+- 39 46
+: 0 3 64 Cos 
+: 4 3 64 if 
+: 8 3 64 you 
+: 12 3 64 be - 
+: 16 9 66 lieve 
+: 28 2 66 that 
+: 31 2 66 our 
+: 36 6 62 love 
+- 42 44
+: 0 6 62 Can 
+: 9 4 66 hit 
+: 17 3 66 the 
+: 21 5 69 top 
+: 29 3 68 you 
+: 33 3 66 got - 
+: 37 4 64 ta 
+- 45 49
+: 0 8 64 Play 
+: 8 7 57 a - 
+: 16 7 69 round 
+- 30 37
+: 0 3 64 But 
+: 4 3 64 soon 
+: 8 3 64 you 
+: 12 3 64 will 
+: 16 10 68 find 
+- 27 29
+: 0 2 68 That 
+: 3 3 68 there 
+: 7 6 66 comes 
+: 15 3 66 a 
+: 20 8 64 time 
+- 32 37
+: 0 3 57 For 
+: 4 3 57 mak - 
+: 8 3 57 ing 
+: 12 3 57 your 
+: 16 10 57 mind 
+: 27 4 69 up 
+- 41 65
+: 0 3 57 For 
+: 4 3 57 mak - 
+: 8 3 57 ing 
+: 12 3 57 your 
+: 16 7 57 mind 
+: 27 3 69 up 
+- 40 64
+: 0 3 57 For 
+: 4 3 57 mak - 
+: 8 3 57 ing 
+: 12 3 57 your 
+: 16 8 57 mind 
+: 28 3 69 up 
+- 41 65
+: 0 2 57 For 
+: 4 2 57 mak - 
+: 8 2 57 ing 
+: 12 2 57 your 
+: 16 7 57 mind 
+: 28 3 69 up 
+- 41 89
+: 1 0 0  
+E
+
+Converted by JakobO, thanks to Mike Haggar
+and Chmurek for your excellent tools!
+
+This file was converted from XML using
+GOSU converter v1.0a ENG by Cloud aka Chmurek

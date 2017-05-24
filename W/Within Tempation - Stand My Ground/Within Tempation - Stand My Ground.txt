@@ -1,0 +1,332 @@
+#TITLE:Stand My Ground
+#ARTIST:Within Tempation
+#MP3:Within Tempation - Stand My Ground.mp3
+#COVER:Within Tempation - Stand My Ground [CO].jpg
+#BACKGROUND:Within Tempation - Stand My Ground [BG].jpg
+#EDITION:Ultrastar Metal
+#BPM:88
+#GAP:56655
+: 0 1 76 I 
+: 1 2 76 can 
+: 3 4 79 see 
+- 9
+: 16 1 77 When 
+: 17 1 79 you 
+: 18 3 77 stay 
+: 21 2 79 low 
+: 23 3 80 nothing 
+: 27 8 78 happens 
+- 37
+: 42 1 74 Does 
+: 43 1 74 it 
+: 44 3 77 feel 
+: 47 5 78 ri~
+: 52 8 79 ght 
+- 62
+: 64 2 79 Late 
+: 66 1 77 at 
+: 67 9 76 night 
+- 77
+: 80 3 78 Things 
+: 83 1 76 I 
+: 84 2 76 thought 
+: 86 1 75 I 
+: 87 2 78 put 
+: 89 5 78 behind 
+: 94 9 77 me 
+- 105
+: 107 4 80 Haunt 
+: 111 2 80 my 
+: 114 5 78 mind 
+- 119
+: 120 2 77 I 
+: 122 2 77 just 
+: 124 2 77 know 
+: 126 2 77 there's 
+: 128 1 77 no 
+: 129 4 77 escape 
+: 133 2 75 now 
+- 136
+: 136 2 77 Once 
+: 138 1 77 it 
+: 139 3 77 sets 
+: 142 2 77 it's 
+: 144 2 77 eyes 
+: 146 1 77 on 
+: 147 2 75 you 
+- 150
+: 151 2 77 But 
+: 153 1 75 I 
+: 154 3 76 won't 
+: 157 2 76 run 
+- 159
+: 159 2 73 have 
+: 161 1 73 to 
+: 162 3 71 stare 
+: 165 2 72 it 
+: 167 2 72 in 
+: 169 2 72 the 
+: 171 6 78 eye 
+- 179
+: 187 6 72 Stand 
+: 193 2 70 my 
+: 195 5 76 ground 
+- 200
+: 201 1 76 I 
+: 202 2 72 won't 
+: 204 3 68 give 
+: 207 5 74 in 
+- 214
+: 217 1 68 No 
+: 218 2 64 more 
+: 220 3 73 deny~
+: 223 5 76 ing 
+- 230
+: 231 1 62 I 
+: 232 3 65 got 
+: 235 1 55 to 
+: 237 3 60 face 
+: 240 2 60 it 
+- 242
+: 243 3 62 Won't 
+: 246 3 65 close 
+: 249 3 68 my 
+: 252 6 70 eyes 
+- 258
+: 259 2 70 And 
+: 261 3 72 hide 
+: 264 1 68 the 
+: 265 4 70 truth 
+: 269 6 72 inside 
+- 277
+: 278 2 78 If 
+: 280 2 76 I 
+: 282 2 76 don't 
+: 285 2 74 make 
+: 287 6 72 it 
+- 294
+: 295 5 68 Someone 
+: 301 2 70 else 
+: 303 4 72 will 
+- 309
+: 311 4 72 Stand 
+: 315 2 60 my 
+: 317 7 67 ground 
+- 326
+: 335 2 60 It's 
+: 337 2 58 all 
+: 339 5 60 around 
+- 346
+: 351 3 62 Getting 
+: 354 5 64 stronger 
+: 359 4 62 coming 
+: 363 6 64 closer 
+- 371
+: 376 3 62 Into 
+: 379 2 64 my 
+: 381 6 66 world 
+- 389
+: 400 1 70 I 
+: 401 2 64 can 
+: 403 5 66 feel 
+- 410
+: 415 2 64 That 
+: 417 2 67 it's 
+: 419 3 75 time 
+: 422 1 70 for 
+: 423 2 68 me 
+- 425
+: 426 1 58 To 
+: 428 3 56 face 
+: 431 2 64 it 
+- 435
+: 439 3 56 Can 
+: 442 2 58 I 
+: 445 4 60 take 
+: 449 3 62 i~t? 
+- 454
+: 455 3 64 Though 
+: 458 2 60 this 
+: 460 2 58 might 
+: 462 2 58 just 
+: 464 1 56 be 
+: 465 2 56 the 
+: 467 4 54 ending 
+- 472
+: 473 1 56 Of 
+: 474 2 56 the 
+: 476 3 58 life 
+: 479 1 56 I 
+: 480 2 56 held 
+: 482 1 52 so 
+: 483 4 52 dear 
+- 487
+: 488 1 55 But 
+: 489 1 60 I 
+: 490 2 63 wont 
+: 492 2 63 run 
+- 494
+: 495 3 55 There's 
+: 498 1 60 no 
+: 499 4 63 turning 
+: 503 2 60 back 
+- 505
+: 505 3 55 From 
+: 508 3 62 he~
+: 511 4 64 re 
+- 517
+: 523 5 72 Stand 
+: 529 2 70 my 
+: 531 4 76 ground 
+- 535
+: 535 1 76 I 
+: 536 5 70 won't 
+: 541 5 68 give 
+: 546 4 74 in 
+- 550
+: 550 2 68 No 
+: 552 4 64 more 
+: 556 4 72 deny~
+: 560 5 76 ing 
+- 566
+: 567 3 62 I 
+: 570 2 65 got 
+: 572 2 55 to 
+: 574 3 60 face 
+: 577 1 60 it 
+- 578
+: 578 2 62 Won't 
+: 581 3 65 close 
+: 584 2 67 my 
+: 587 6 72 eyes 
+- 593
+: 594 2 66 And 
+: 596 3 68 hide 
+: 599 1 62 the 
+: 600 3 66 truth 
+: 603 6 68 inside 
+- 611
+: 615 1 78 If 
+: 616 2 76 I 
+: 618 3 76 don't 
+: 621 3 76 make 
+: 624 4 80 it 
+: 631 5 78 someone 
+: 636 3 78 else 
+: 639 5 78 will 
+- 646
+: 647 4 72 Stand 
+: 651 2 62 my 
+: 653 7 65 ground 
+- 662
+: 685 8 68 A~ll 
+: 694 2 60 I 
+: 696 3 58 know 
+: 699 2 58 for 
+: 701 6 66 sure 
+- 709
+: 710 3 68 Is 
+: 714 3 73 I'm 
+: 718 4 75 try~
+: 722 7 77 ing 
+- 731
+: 732 11 74 I 
+: 743 2 76 will 
+: 745 4 78 always 
+: 749 6 70 stand 
+- 757
+: 761 3 72 my 
+: 765 42 80 grou~~nd 
+- 809
+: 830 5 72 Stand 
+: 835 2 70 my 
+: 837 4 76 ground 
+- 841
+: 841 1 76 I 
+: 842 3 72 won't 
+: 845 3 74 give 
+: 848 5 74 in 
+- 855
+: 856 1 76 I 
+: 857 3 72 won't 
+: 860 2 74 give 
+: 862 5 74 up
+- 869
+: 872 1 70 No 
+: 873 3 72 more 
+: 876 4 72 deny~
+: 880 7 74 ing 
+- 887
+: 888 1 72 I 
+: 889 2 70 got 
+: 891 1 70 to 
+: 892 3 72 face 
+: 895 4 74 it 
+- 899
+: 900 2 72 Won't 
+: 902 4 74 close 
+: 906 3 72 my 
+: 909 7 74 eyes 
+- 916
+: 916 2 72 And 
+: 918 3 74 hide 
+: 921 1 70 the 
+: 922 3 70 truth 
+: 925 9 74 inside 
+- 935
+: 936 2 68 If 
+: 938 2 70 I 
+: 940 2 68 don't 
+: 942 2 70 make 
+: 944 6 72 it 
+- 951
+: 952 5 72 someone 
+: 957 3 70 else 
+: 960 8 74 will
+- 970
+: 973 6 72 Stand 
+: 979 2 70 my 
+: 981 3 76 ground 
+- 984
+: 985 1 76 I 
+: 986 5 70 won't 
+: 991 5 68 give 
+: 996 4 74 in 
+- 1000
+: 1000 1 70 No 
+: 1001 3 72 more 
+: 1004 3 72 deny~
+: 1007 6 74 ing 
+- 1015
+: 1017 1 72 I 
+: 1018 2 70 got 
+: 1020 1 70 to 
+: 1021 3 72 face 
+: 1024 3 74 it 
+- 1029
+: 1030 2 72 Won't 
+: 1032 3 74 close 
+: 1035 2 72 my 
+: 1037 6 74 eyes 
+- 1043
+: 1044 2 72 And 
+: 1046 3 74 hide 
+: 1049 1 70 the 
+: 1050 3 70 truth 
+: 1053 7 74 inside 
+- 1062
+: 1063 2 68 If 
+: 1065 2 70 I 
+: 1067 2 68 don't 
+: 1069 3 70 make 
+: 1072 6 72 it 
+- 1079
+: 1080 5 72 someone 
+: 1085 2 70 else 
+: 1087 5 74 will 
+- 1094
+: 1096 5 72 Stand 
+: 1101 2 70 my 
+: 1103 14 76 ground 
+E
+

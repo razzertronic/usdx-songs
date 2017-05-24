@@ -1,0 +1,478 @@
+#TITLE:I've Never Been To Me
+#ARTIST:Charlene
+#MP3:Charlene - I've Never Been To Me.mp3
+#COVER:Charlene - I've Never Been To Me [CO].jpg
+#BACKGROUND:Charlene - I've Never Been To Me [BG].jpg
+#BPM:244,2
+#GAP:4357
+#RELATIVE:YES
+: 0 7 65 Hey 
+: 8 4 65 la - 
+: 12 9 60 dy 
+- 26 32
+: 0 7 63 You 
+: 14 4 58 la - 
+: 18 5 60 dy 
+- 28 33
+: 0 4 62 Curs - 
+: 4 4 63 ing 
+: 8 8 62 at 
+: 16 4 60 your - 
+: 20 3 58 - 
+: 24 9 58 life 
+- 40 47
+: 0 6 60 You're 
+: 6 6 62 a 
+: 13 5 63 dis - 
+: 19 4 63 con - 
+: 25 6 63 ten - 
+: 32 6 62 ted 
+: 39 3 62 mo - 
+: 43 8 60 ther 
+- 58 65
+: 0 5 58 And 
+: 5 7 60 a 
+: 12 9 62 re - 
+: 22 5 63 gi - 
+: 27 9 62 ment - 
+: 36 8 60 ed 
+: 45 10 58 wife 
+- 65 81
+: 0 5 67 I've 
+: 6 4 67 no 
+: 11 6 67 doubt 
+: 17 8 70 you 
+: 27 5 69 dream 
+: 32 4 67 a - 
+: 37 8 65 bout 
+- 51 57
+: 0 3 62 The 
+: 5 6 65 things 
+: 12 5 65 you'll 
+: 19 4 62 ne - 
+: 23 7 60 ver 
+: 33 8 58 do 
+- 46 51
+: 0 4 55 But 
+: 4 5 58 I 
+: 9 6 62 wish 
+: 15 4 60 some - 
+: 21 7 60 one 
+- 31 35
+: 0 4 58 Had 
+: 4 8 62 talked 
+: 13 4 60 to 
+: 17 7 60 me 
+: 25 3 55 like 
+: 30 6 58 I 
+- 42 48
+: 0 3 62 Wan - 
+: 3 3 60 na 
+: 6 8 60 talk 
+: 14 5 58 to 
+: 19 11 60 you 
+- 32 34
+: 0 4 65 Ooh - 
+: 4 4 67 - 
+: 8 3 65 - 
+: 12 6 65 I've 
+- 18 20
+: 0 7 58 Been 
+: 8 3 58 to 
+: 13 7 58 Geor - 
+: 20 4 60 gia 
+- 26 29
+: 0 6 62 And 
+: 7 3 65 Ca - 
+: 11 3 65 li - 
+: 15 8 65 for - 
+: 23 5 67 nia 
+: 28 6 69 and 
+- 38 42
+: 0 4 70 An - 
+: 5 3 70 y - 
+: 9 5 70 where 
+: 15 4 69 I 
+: 19 4 67 could 
+: 25 12 65 run 
+- 46 56
+: 0 3 70 Took 
+: 4 6 70 the 
+: 11 7 70 hand 
+: 19 4 69 of 
+: 24 4 67 a 
+- 28 29
+: 0 5 65 Preach - 
+: 7 5 65 er 
+: 14 6 65 man 
+: 22 3 63 and 
+: 26 7 62 we 
+- 36 39
+: 0 7 60 Made 
+: 7 7 58 love 
+: 15 4 60 in 
+: 20 6 62 the 
+: 26 7 60 sun 
+- 35 38
+: 0 4 65 But 
+: 4 8 67 I 
+: 12 5 65 ran 
+- 22 27
+: 0 3 58 Out 
+: 3 3 58 of 
+: 7 5 58 pla - 
+: 13 6 60 ces 
+- 19 21
+: 0 5 62 And 
+: 5 4 65 friend - 
+: 12 4 65 ly 
+: 17 6 65 fa - 
+: 23 6 67 ces 
+- 29 30
+: 0 4 69 Be - 
+: 4 10 70 cause 
+: 17 3 70 I 
+: 22 4 70 had 
+: 26 5 69 to 
+: 31 6 67 be 
+: 37 12 65 free 
+- 57 66
+: 0 2 72 I've - 
+: 2 7 74 - 
+: 14 5 70 been 
+: 26 5 67 to 
+- 32 34
+: 0 7 65 Pa - 
+: 8 2 67 ra - 
+: 13 6 58 dise 
+: 21 4 55 but 
+: 25 6 58 I've 
+- 35 40
+: 0 4 63 Ne - 
+: 4 4 62 ver 
+: 8 8 58 been 
+: 16 3 55 to 
+: 19 28 58 me 
+- 57 93
+: 0 6 65 Please 
+: 7 5 65 la - 
+: 12 5 60 dy 
+- 23 30
+: 0 7 63 Please 
+: 12 5 58 la - 
+: 17 7 60 dy 
+- 29 34
+: 0 4 62 Don't 
+: 4 7 63 just 
+: 12 5 62 walk 
+: 18 5 60 a - 
+: 23 11 58 way 
+- 41 48
+: 0 3 60 'Cause 
+: 3 5 62 I 
+: 8 9 63 have 
+: 18 4 63 this 
+- 22 23
+: 0 5 63 Need 
+: 7 3 62 to 
+: 12 6 62 tell 
+: 19 8 60 you 
+- 33 40
+: 0 5 58 Why 
+: 5 4 60 I'm 
+: 9 12 62 all 
+: 21 5 63 a - 
+: 26 11 62 lone 
+: 37 7 60 to - 
+: 44 15 58 day 
+- 69 80
+: 0 3 67 I 
+: 4 2 67 can 
+: 8 8 67 see 
+: 19 7 70 so 
+: 28 5 69 much 
+: 33 5 67 of 
+: 38 9 65 me 
+- 52 57
+: 0 7 62 Still 
+: 7 3 65 liv - 
+: 11 3 65 ing 
+: 15 8 62 in 
+: 23 4 60 your - 
+: 27 3 58 - 
+: 31 14 58 eyes 
+- 49 54
+: 0 4 55 Won't 
+: 4 4 58 you 
+: 8 8 62 share 
+: 16 3 60 a 
+: 20 7 60 part 
+- 31 36
+: 0 2 55 Of 
+: 2 3 58 a 
+: 5 7 62 wear - 
+: 12 4 60 y 
+: 18 7 60 heart 
+- 28 31
+: 0 4 55 That 
+: 4 5 58 has 
+: 9 2 62 lived - 
+: 11 6 60 - 
+: 18 3 60 a 
+: 22 4 60 mil - 
+: 26 6 58 lion 
+: 33 12 60 lies 
+- 47 50
+: 0 4 65 Oh - 
+: 4 3 67 - 
+: 7 3 65 - 
+: 12 5 65 I've 
+- 17 19
+: 0 7 58 Been 
+: 8 3 58 to 
+: 12 6 58 Nice 
+- 21 25
+: 0 3 60 And 
+: 3 2 62 the 
+: 6 6 65 isle 
+: 13 4 65 of 
+: 18 9 65 Greece 
+- 28 30
+: 0 4 67 While 
+: 4 4 69 I 
+: 9 5 70 sipped 
+: 16 3 70 cham - 
+: 20 6 70 pagne 
+- 26 28
+: 0 4 69 On 
+: 4 3 67 a - 
+: 7 2 65 - 
+: 10 9 65 yacht 
+- 29 40
+: 0 3 58 I 
+: 3 6 70 moved 
+: 11 3 70 like 
+: 15 7 70 Har - 
+: 23 4 69 low 
+: 27 4 67 in - 
+: 31 3 65 - 
+- 34 35
+: 0 7 65 Mon - 
+: 9 3 65 te 
+: 13 6 65 Car - 
+: 20 5 63 lo 
+- 27 30
+: 0 4 62 And 
+: 5 5 60 showed 
+: 10 8 58 'em 
+: 18 3 60 what 
+: 21 13 62 I've 
+: 34 4 60 got 
+- 39 41
+: 0 8 65 I've 
+: 8 5 67 been 
+: 13 8 65 un - 
+: 23 7 58 dressed 
+: 31 3 58 by 
+: 35 10 58 kings 
+- 47 50
+: 0 2 60 And 
+: 2 2 62 I've 
+: 5 8 65 seen 
+: 15 3 65 some 
+: 19 9 65 things 
+- 28 30
+: 0 4 67 That 
+: 4 3 69 a 
+: 8 4 70 wo - 
+: 13 6 70 man 
+: 21 4 70 ain't 
+- 26 28
+: 0 8 69 S'pposed 
+: 9 4 67 to 
+: 17 10 65 see 
+- 35 43
+: 0 10 74 I've 
+: 14 7 70 been 
+: 25 7 67 to 
+- 32 33
+: 0 7 65 Pa - 
+: 7 2 67 ra - 
+: 12 6 58 dise 
+: 21 3 55 but 
+: 24 7 58 I've 
+- 35 39
+: 0 2 63 Ne - 
+: 4 4 62 ver 
+: 8 8 58 been 
+: 16 4 55 to 
+: 21 25 58 me 
+- 46 64
+: 0 6 36 Hey 
+- 10 15
+: 0 2 36 You 
+: 3 2 36 know 
+: 6 3 36 what 
+: 10 6 36 paradise 
+: 17 7 36 is? 
+- 28 32
+: 0 2 36 It's 
+: 3 3 36 a 
+: 7 7 36 lie 
+- 18 23
+: 0 3 36 A 
+: 4 5 36 fantasy 
+: 11 3 36 we 
+: 16 3 36 create 
+: 20 5 36 about 
+- 25 27
+: 0 4 36 People 
+: 5 3 36 and 
+: 9 5 36 places 
+- 15 17
+: 0 2 36 As 
+: 3 3 36 we'd 
+: 6 3 36 like 
+: 9 3 36 them 
+: 13 2 36 to 
+: 15 6 36 be 
+- 25 29
+: 0 2 36 But 
+: 2 3 36 you 
+: 5 2 36 know 
+: 7 4 36 what 
+: 11 5 36 truth 
+: 16 5 36 is? 
+- 24 27
+: 0 2 36 It's 
+: 3 2 36 that 
+: 6 3 36 little 
+: 10 4 36 baby 
+- 14 15
+: 0 3 36 You're 
+: 4 6 36 holding 
+- 14 18
+: 0 2 36 And 
+: 2 3 36 it's 
+: 5 4 36 that 
+: 9 5 36 man 
+: 14 3 36 you 
+- 17 18
+: 0 3 36 Fought 
+: 3 4 36 with 
+: 7 4 36 this 
+: 11 4 36 morning 
+- 19 23
+: 0 2 36 The 
+: 4 4 36 same 
+: 9 5 36 one 
+: 14 2 36 you're 
+: 16 2 36 going 
+: 19 2 36 to 
+- 21 22
+: 0 3 36 Make 
+: 3 3 36 love 
+: 7 5 36 with 
+: 12 6 36 tonight 
+- 23 28
+: 0 5 36 That's 
+: 6 7 36 truth 
+- 13 15
+: 0 4 36 That's 
+: 5 4 36 love 
+- 9 10
+: 0 9 65 Some - 
+: 9 3 67 times - 
+: 12 4 65 - 
+: 17 7 65 I've 
+- 24 26
+: 0 6 58 Been 
+: 8 2 58 to 
+: 12 9 58 cry - 
+: 21 5 60 ing 
+- 26 28
+: 0 4 62 For 
+: 4 5 65 un - 
+: 10 5 65 born 
+: 16 8 65 chil - 
+: 24 6 67 dren 
+- 30 32
+: 0 4 69 That 
+: 6 7 70 might 
+: 13 4 70 have 
+- 17 19
+: 0 6 70 Made 
+: 6 6 69 me 
+: 12 4 67 com - 
+: 17 10 65 plete 
+- 31 36
+: 0 3 67 But 
+: 4 6 69 I, 
+: 16 3 70 I 
+: 20 3 70 took 
+: 24 3 70 the 
+: 28 4 70 sweet 
+: 32 5 69 life 
+- 38 40
+: 0 3 67 I 
+: 4 5 65 ne - 
+: 11 4 65 ver 
+: 16 5 65 knew 
+: 23 4 63 I'd 
+: 28 5 62 be 
+- 33 35
+: 0 4 60 Bit - 
+: 5 5 58 ter 
+: 12 9 60 from 
+: 21 8 62 the 
+: 30 5 60 sweet 
+- 37 40
+: 0 6 65 I 
+: 7 7 67 spent 
+: 15 6 65 my 
+- 21 23
+: 0 3 58 Life 
+: 5 5 58 ex - 
+: 13 6 58 plor - 
+: 19 4 60 ing 
+- 25 28
+: 0 4 62 The 
+: 4 4 65 sub - 
+: 10 5 65 tle 
+: 16 6 65 whor - 
+: 22 4 67 ing 
+- 26 27
+: 0 6 69 That 
+: 7 8 70 costs 
+: 16 5 70 too 
+: 22 4 70 much 
+- 26 28
+: 0 3 69 To 
+: 3 6 67 be 
+: 10 9 65 free 
+- 21 23
+: 0 8 65 Hey 
+: 8 4 67 la - 
+: 12 6 69 dy 
+: 20 10 74 I've 
+: 31 11 70 been 
+- 46 51
+: 0 7 67 To 
+: 8 8 65 pa - 
+: 16 6 70 ra - 
+: 23 39 70 dise 
+- 72 82
+: 0 5 55 But 
+: 5 8 58 I've 
+: 13 20 63 ne - 
+: 35 8 62 ver 
+: 44 15 58 been 
+- 69 118
+: 1 0 0  
+E
+
+Converted by JakobO, thanks to Mike Haggar
+and Chmurek for your excellent tools!
+
+This file was converted from XML using
+GOSU converter v1.0a ENG by Cloud aka Chmurek

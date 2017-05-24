@@ -1,0 +1,296 @@
+#TITLE:Ghost Rider In The Sky
+#ARTIST:Johnny Cash
+#LANGUAGE:English
+#MP3:Johnny Cash - Ghost Rider In The Sky.mp3
+#COVER:Johnny Cash - Ghost Rider In The Sky [CO].jpg
+#BACKGROUND:Johnny Cash - Ghost Rider In The Sky [BG].jpg
+#BPM:109
+#GAP:3500
+: 59 1 64 An
+: 60 3 69  old
+: 63 4 69  cowboy
+: 67 2 71  went
+: 69 3 72  riding
+: 72 3 72  out
+- 75
+: 75 2 69  one
+: 77 2 67  dark
+: 79 2 67  and
+: 81 3 64  windy
+: 84 8 67  day
+- 104
+: 108 3 68 Upon
+: 111 1 69  a
+: 112 3 69  ridge
+: 115 2 71  he
+: 117 3 72  rested
+: 120 3 72  as
+- 123
+: 123 2 74  he
+: 125 1 76  went
+: 126 1 76  a
+: 127 4 74 long
+: 131 2 72  his
+: 133 7 76  way
+- 152
+: 155 2 76 When
+: 157 2 76  all
+: 159 2 81  at
+: 161 2 81  once
+: 163 1 81  a
+: 164 4 81  mighty
+: 168 3 76  herd
+- 171
+: 171 1 76  of
+: 172 2 76  red
+: 174 3 76  eyed
+: 177 3 74  cows
+: 180 1 72  he
+: 181 4 69  saw
+- 186
+: 188 1 69 A
+: 189 5 67 plowing
+: 194 2 65  through
+: 196 1 65  the
+: 197 3 65  ragged
+: 200 7 72  sky
+- 216
+: 219 2 72  and
+: 221 2 72  up
+: 223 2 69  the
+: 225 2 69  cloud
+: 227 1 67 y
+: 228 10 69  draw
+- 255
+: 258 2 64 Their
+: 260 4 69  brands
+: 264 2 69  were
+: 266 1 69  still
+: 267 2 71  on
+: 269 3 72  fire
+- 272
+: 273 2 72  and
+: 275 2 69  their
+: 277 3 67  hooves
+: 280 1 67  were
+: 281 2 67  made
+: 283 1 64  of
+: 284 8 67  steel
+- 304
+: 307 2 68 Their
+: 309 4 68  horns
+: 313 1 69  were
+: 314 1 71  black
+: 315 1 71  and
+: 316 4 72  shiny
+- 320
+: 321 2 72  and
+: 323 2 74  their
+: 325 2 76  hot
+: 327 2 76  breath
+: 329 1 74  he
+: 330 2 72  could
+: 332 8 76  feel
+- 351
+: 355 1 76 A
+: 356 3 76  bolt
+: 359 1 81  of
+: 360 2 81  fear
+: 362 2 81  went
+: 364 2 81  through
+: 366 3 76  him
+- 369
+: 370 1 76  as
+: 371 2 76  they
+: 373 4 76  thundered
+: 377 2 74  through
+: 379 1 72  the
+: 380 4 69  sky
+- 385
+: 386 2 69 For
+: 388 1 67  he
+: 389 3 67  saw
+: 392 1 65  the
+: 393 4 65  Riders
+: 397 4 65  coming
+: 401 12 72  hard
+- 415
+: 418 1 72  and
+: 419 1 72  he
+: 420 3 69  heard
+: 423 2 69  their
+: 425 5 67  mournful
+: 430 11 69  cry
+- 450
+: 454 2 72 Yip
+: 456 2 74 pie
+: 458 4 76  yi
+: 462 16 79  Ohhhhh
+: 478 3 76 ~~
+- 483
+: 485 2 81 Yip
+: 487 2 79 pie
+: 489 5 81  yi
+: 494 4 79  yaaaaay
+: 498 2 69 ~~
+: 500 3 72 ~~
+: 503 8 76 ~~
+- 521
+: 526 8 69 Ghost 
+: 534 4 67 Rid
+: 538 5 65 ers
+: 543 11 72  in
+: 554 3 65  the
+: 557 17 69  sky
+- 776
+: 778 2 64 Their
+: 780 3 69  faces
+: 783 1 69  was
+: 784 3 69  gaunt,
+- 787
+: 787 1 71  their
+: 788 3 71  eyes
+: 791 1 72  were
+: 792 2 72  blurred,
+- 794
+: 794 2 69  their
+: 796 3 69  shirts
+: 799 2 67  all
+: 801 2 67  soaked
+: 803 2 64  with
+: 805 4 67  sweat
+- 823
+: 827 2 68 He's
+: 829 4 69  riding
+: 833 2 69  hard
+: 835 1 69  and
+: 836 2 71  hits
+: 838 2 72  that
+: 840 3 72  herd,
+- 843
+: 843 2 74  but
+: 845 1 76  he
+: 846 3 76  ain't
+: 849 1 74  caught
+: 850 2 72  'em
+: 852 5 76  yet
+- 869
+: 872 2 76 'Cause
+: 874 2 76  they've
+: 876 2 76  got
+: 878 1 81  to
+: 879 2 81  ride
+: 882 5 81  forever
+- 887
+: 887 4 76  on that
+: 891 3 76  range
+: 894 2 76  up
+: 896 1 74  in
+: 897 2 72  the
+: 899 5 69  sky
+- 904
+: 905 3 69 On
+: 908 2 67  hor
+: 910 3 65 ses
+: 913 1 65  snort
+: 914 2 65 ing
+: 916 16 72  fire
+- 933
+: 935 2 72 As
+: 937 2 72  they
+: 939 5 69  ride on
+: 944 1 69  hear
+: 945 3 67  their
+: 948 17 69  cry
+- 979
+: 983 2 64 As
+: 985 1 64  the
+: 986 4 69  riders
+: 990 2 69  loped
+: 992 3 71  on
+: 995 2 72  by
+: 997 3 72  him
+- 1000
+: 1000 2 72  he
+: 1002 3 69  heard
+: 1005 2 67  one
+: 1007 2 67  call
+: 1009 2 64  his
+: 1011 9 67  name
+- 1042
+: 1046 2 68 If
+: 1048 2 68  you
+: 1050 2 69  want
+: 1052 1 71  to
+: 1053 3 71  save
+: 1056 2 72  your
+: 1058 2 72  soul
+: 1060 2 72  from
+: 1062 2 74  Hell
+- 1064
+: 1064 1 76  a
+: 1065 4 76  riding
+: 1069 2 74  on
+: 1071 2 72  our
+: 1073 6 76  range
+- 1079
+: 1079 2 76 Then
+: 1081 4 76  cowboy
+: 1085 4 81  change
+: 1089 1 81  your
+: 1090 3 81  ways
+: 1093 2 76  today
+- 1095
+: 1095 2 76  or
+: 1097 1 76  with
+: 1098 2 76  us
+: 1100 3 74  you
+: 1103 2 72  will
+: 1105 6 69  ride
+- 1111
+: 1112 4 69 Trying
+: 1116 1 67  to
+: 1117 3 65  catch
+: 1120 1 65  the
+: 1121 4 65  Devil´s
+: 1125 9 72  herd,
+- 1140
+: 1143 4 72 across
+: 1147 2 72  these
+: 1149 2 69  end
+: 1151 2 69 less
+: 1153 8 67  skies
+- 1171
+: 1176 4 74 Yippie
+: 1180 4 76  yi
+: 1184 9 79  Ohhhhh
+: 1193 11 79 ~~~
+- 1206
+: 1208 2 81 Yip
+: 1210 2 79 pie
+: 1212 4 81  yi
+: 1216 3 79  yaaa
+: 1219 5 76 aay
+: 1224 14 69 ~~~
+- 1243
+: 1247 7 67 Ghost
+: 1254 5 65  Ri
+: 1259 5 65 ders
+: 1264 11 72  in
+: 1275 3 65  the
+: 1278 13 69  sky
+- 1306
+: 1310 9 67 Ghost
+: 1319 3 65  Ri
+: 1322 5 65 ders
+: 1327 9 72  in
+: 1337 3 72  the
+: 1340 15 79  sky
+- 1369
+: 1373 7 67 Ghost
+: 1380 4 65  Ri
+: 1384 5 65 ders
+: 1389 11 72  in
+: 1400 5 65  the
+: 1405 13 69  sky
+E

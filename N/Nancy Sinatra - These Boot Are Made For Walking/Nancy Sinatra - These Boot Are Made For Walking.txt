@@ -1,0 +1,263 @@
+#TITLE:These Boot Are Made For Walking
+#ARTIST:Nancy Sinatra
+#LANGUAGE:English
+#MP3:Nancy Sinatra - These Boot Are Made For Walking.mp3
+#COVER:Nancy Sinatra - These Boot Are Made For Walking [CO].jpg
+#BACKGROUND:Nancy Sinatra - These Boot Are Made For Walking [BG].jpg
+#BPM:140
+#GAP:11600
+: 0 4 67 You
+: 4 4 67  keep
+: 8 2 64  say
+: 10 2 64 ing
+: 14 4 64  you've
+: 18 3 64  got
+: 21 3 67  some
+: 24 4 64 thing
+: 28 3 64  for
+: 31 4 64  me
+- 36
+: 55 3 64 Some
+: 58 3 64 thing
+: 61 3 71  you
+: 64 4 71  call
+: 68 6 67  love
+: 75 4 72  but
+: 79 3 72  con
+: 82 6 67 fess
+- 90
+: 108 4 69 You've
+: 112 2 65  been
+: 114 2 67  a
+: 116 2 65  mess
+: 118 4 65 ing
+- 123
+: 123 3 60  where
+: 126 2 69  you
+: 128 4 65  shouldn't
+: 132 2 67  be
+: 134 2 60  a
+: 136 3 69  mess
+: 139 5 69 ing
+- 144
+: 158 5 67 Now
+: 163 3 69  some
+: 166 3 72 one
+: 169 4 72  else
+: 173 4 72  is
+: 177 2 72  gett
+: 179 3 72 ing
+: 182 5 74  all
+: 187 3 72  your
+: 190 6 67  best
+- 200
+: 214 4 67 These
+: 218 3 70  boots
+: 221 2 70  are
+: 223 5 70  made
+: 228 2 70  for
+: 230 3 72  walk
+: 233 4 67 ing
+- 238
+: 243 2 67 and
+: 245 3 70  that's
+: 248 3 70  just
+: 251 3 70  what
+: 254 4 70  they'll
+: 258 6 72  do
+- 265
+: 272 2 70 One
+: 274 2 70  of
+: 276 3 70  these
+: 279 3 70  days
+: 282 3 70  these
+: 285 4 72  boots
+- 290
+: 290 2 67  are
+: 292 3 67  gon
+: 295 3 67 na
+: 298 3 67  walk
+: 301 5 65  all
+: 306 2 63  o
+: 308 3 63 ver
+: 311 9 60  you
+- 322
+: 421 4 67 You
+: 425 3 67  keep
+: 428 3 64  ly
+: 431 3 67 ing
+- 434
+: 435 3 72  when
+: 438 3 72  you
+: 441 2 71  ought
+: 443 2 72  to
+: 445 3 72  be
+: 448 3 67  tru
+: 451 6 64 thing
+- 460
+: 474 2 64 And
+: 476 3 64  you
+: 479 3 67  keep
+: 482 3 67  los
+: 485 3 67 ing
+- 488
+: 489 3 67  when
+: 492 3 67  you
+: 495 2 67  ought
+: 497 2 67  to
+: 499 3 71  not
+: 502 3 67  bet
+- 510
+: 530 3 65 You
+: 533 4 65  keep
+: 537 2 65  sa
+: 539 4 65 ming
+- 543
+: 543 4 69  when
+: 547 2 60  you
+: 549 2 60  ought
+: 551 1 67  to
+: 552 2 69  be
+: 554 1 65  a
+: 555 5 65  chan
+: 560 6 65 ging
+- 567
+: 579 2 67 Now
+: 581 2 72  what
+: 583 1 64  is
+: 584 2 71  right
+: 586 3 64  is
+: 589 3 64  right
+- 593
+: 596 2 64  but
+: 598 2 72  you
+: 600 4 64  ain't
+: 604 3 67  been
+: 607 4 67  right
+: 611 5 67  yet
+- 620
+: 635 3 67 These
+: 638 3 70  boots
+: 641 2 70  are
+: 643 5 70  made
+: 648 3 70  for
+: 651 3 72  walk
+: 654 5 68 ing
+- 660
+: 663 2 67 and
+: 665 4 70  that's
+: 669 3 70  just
+: 672 2 70  what
+: 674 5 70  they'll
+: 679 5 72  do
+- 685
+: 692 2 70 One
+: 694 2 70  of
+: 696 3 70  these
+: 699 4 70  days
+: 703 3 70  these
+: 706 3 72  boots
+- 709
+: 710 3 67  are
+: 713 2 67  gon
+: 715 3 67 na
+: 718 4 67  walk
+: 722 4 65  all
+: 726 3 63  o
+: 729 3 63 ver
+: 732 12 60  you
+- 746
+: 841 3 72 You
+: 844 4 72  keep
+: 848 3 70  play
+: 851 4 71 ing
+- 855
+: 855 3 72  where
+: 858 3 72  you
+: 861 3 71  shouldn't
+: 864 3 72  be
+: 867 1 72  a
+: 868 3 72  play
+: 871 4 70 ing
+- 877
+: 895 2 72 And
+: 897 2 72  you
+: 899 4 72  keep
+: 903 2 71  think
+: 905 5 72 ing
+- 910
+: 910 3 72  that
+: 913 4 71  you'll
+: 917 2 72  ne
+: 919 2 72 ver
+: 921 3 71  get
+: 924 6 67  burnt
+- 932
+: 936 4 68 Hah
+- 941
+: 949 4 69 I've
+: 953 4 69  just
+: 957 4 67  found
+: 961 2 69  me
+: 963 2 69  a
+: 965 3 69  brand
+: 968 3 67 new
+: 971 4 69  box
+: 975 2 67  of
+: 977 4 67  match
+: 981 7 72 es
+- 988
+: 989 4 72  yeah
+- 995
+: 1003 2 72  And
+: 1005 4 69  what
+: 1009 2 72  he
+: 1011 5 72  knows
+- 1016
+: 1016 3 71  you
+: 1019 3 72  ain't
+: 1022 4 72  had
+: 1026 5 72  time
+: 1031 2 67  to
+: 1033 11 67  learn
+- 1050
+: 1056 3 67 These
+: 1059 4 70  boots
+: 1063 2 70  are
+: 1065 4 70  made
+: 1069 3 72  for
+: 1072 4 73  walk
+: 1076 5 67 ing
+- 1085
+: 1085 2 70 and
+: 1087 4 70  that's
+: 1091 3 70  just 
+: 1094 2 70  what
+: 1096 5 70  they'll
+: 1101 5 72  do
+- 1114
+: 1114 2 70 One
+: 1116 2 70  of
+: 1118 3 70  these
+: 1121 3 70  days
+: 1124 3 70  these
+: 1127 5 72  boots
+- 1132
+: 1132 3 67  are
+: 1135 2 67  gon
+: 1137 4 67 na
+: 1141 4 67  walk
+: 1145 4 65  all
+: 1149 3 63  o
+: 1152 3 63 ver
+: 1155 9 60  you
+- 1166
+: 1220 2 68 Are
+: 1222 2 67  you
+: 1224 2 67  ready,
+: 1226 6 68  boots?
+- 1240
+: 1255 4 70 start
+: 1259 3 70  wal
+: 1262 3 70 king
+E

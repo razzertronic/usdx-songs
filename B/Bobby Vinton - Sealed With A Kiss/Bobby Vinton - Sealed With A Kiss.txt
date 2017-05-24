@@ -1,0 +1,212 @@
+#TITLE:Sealed With A Kiss
+#ARTIST:Bobby Vinton
+#LANGUAGE:English
+#MP3:Bobby Vinton - Sealed With A Kiss.mp3
+#COVER:Bobby Vinton - Sealed With A Kiss [CO].jpg
+#BACKGROUND:Bobby Vinton - Sealed With A Kiss [BG].jpg
+#BPM:85
+#GAP:15000
+: 0 2 64 Though
+: 2 2 64  we've
+: 4 3 67  got
+: 7 1 67  to
+: 8 3 71  say
+: 11 2 71  good
+: 13 11 69 bye
+- 25
+: 25 2 67 for
+: 27 2 66  the
+: 29 3 67  sum
+: 32 9 64 mer
+- 43
+: 45 5 72 Ba
+: 50 2 72 by,
+: 52 1 69  I'll
+: 53 5 74  pro
+: 58 2 74 mise
+: 60 2 69  you
+: 62 4 71  this
+- 67
+: 68 1 71 I'll
+: 69 3 76  send
+: 72 2 74  you
+: 74 2 72  all
+: 76 2 71  my
+: 78 10 72  love
+- 89
+: 90 2 74 ev
+: 92 2 69 ery
+: 94 4 71  day
+: 98 2 71  in
+: 100 1 69  a
+: 101 2 71  le
+: 103 2 67 t
+: 105 9 64 ter
+- 115
+: 117 3 69 Sea
+: 120 2 69 led
+: 122 2 67  with
+: 124 2 66  a
+: 126 3 64  kiss.
+- 129
+: 129 3 64 Yes,
+: 132 2 64  it's
+: 134 2 67  go
+: 136 2 67 nna
+: 138 2 71  be
+: 140 2 71  a
+: 142 9 69  cold
+- 152
+: 153 3 67 lone
+: 156 1 66 ly
+: 157 3 67  sum
+: 160 9 64 mer
+- 170
+: 172 2 64 But
+: 174 3 72  I'll
+: 177 3 72  fill
+: 180 2 69  the
+: 182 5 74  em
+: 187 2 69 pti
+: 189 5 71 ness
+- 194
+: 195 2 71 I'll
+: 197 2 76  send
+: 199 2 74  you
+: 201 3 72  all
+: 204 1 71  my
+: 205 11 72  dreams
+- 217
+: 217 2 74 ev
+: 219 2 72 ery
+: 221 4 71  day
+: 225 2 69  in
+: 227 2 71  a
+: 229 4 67  let
+: 233 10 64 ter
+- 244
+: 244 3 69 Sea
+: 247 2 69 led
+: 249 2 67  with
+: 251 2 66  a
+: 253 12 64  kiss.
+- 266
+: 267 1 64 I'll
+: 268 5 73  see
+: 273 8 73  you
+: 281 2 71  in
+: 283 1 69  the
+: 284 4 71  sun
+: 288 11 71 light
+- 299
+: 299 2 64 I'll
+: 301 3 73  hear
+: 304 4 73  your
+: 308 5 73  voice
+: 313 1 71  ev
+: 314 2 69 ery
+: 316 11 71 where
+- 328
+: 329 2 64 I'll
+: 331 7 73  run
+: 338 5 73  to ten
+: 343 2 71 der
+: 345 3 69 ly
+: 348 4 71  hold
+: 352 7 71  you
+- 360
+: 361 2 64 But
+: 363 5 73  Ba
+: 368 3 73 by,
+: 371 3 73  you
+: 374 3 71  won't
+: 377 2 73  be
+: 379 3 75  there.
+- 383
+: 383 2 76 I
+: 385 2 76  don't
+: 387 2 76  want
+: 389 1 71  to
+: 390 3 69  say
+: 393 2 67  good
+: 395 12 69 bye
+- 407
+: 407 2 67 for
+: 409 1 66  the
+: 410 4 67  sum
+: 414 9 64 mer
+- 424
+: 426 7 72 Knowing
+: 433 1 69  the
+: 434 6 74  love
+: 440 2 69  from
+: 442 4 71  this
+- 447
+: 447 3 71 So
+: 450 2 76  let
+: 452 2 74  us
+: 454 3 72  make
+: 457 1 71  a
+: 458 6 72  pledge
+- 464
+: 464 2 69 to
+: 466 4 74  meet
+: 470 1 74  in
+: 471 2 72  Sep
+: 473 3 71 tem
+: 476 15 76 ber
+- 493
+: 495 1 64 And
+: 496 3 69  seal
+: 499 2 69  it
+: 501 2 67  with
+: 503 1 66  a
+: 504 14 64  kiss.
+- 592
+: 648 3 77 Yes,
+: 651 1 77  it's
+: 652 2 77  go
+: 654 2 72 nna
+: 656 2 70  be
+: 658 2 68  a
+: 660 10 70  cold
+- 671
+: 672 2 68 lone
+: 674 1 67 ly
+: 675 3 68  sum
+: 678 11 65 mer
+- 689
+: 689 2 65 But
+: 691 4 73  I'll
+: 695 2 73  fill
+: 697 2 70  the
+: 699 6 75  emp
+: 705 2 70 ti
+: 707 4 72 ness
+- 712
+: 713 1 72 I'll
+: 714 3 77  send
+: 717 2 75  you
+: 719 2 73  all
+: 721 1 72  my
+: 722 11 73  love
+- 734
+: 734 2 75 ev
+: 736 2 73 ery
+: 738 4 72 day
+: 742 2 72  in
+: 744 2 70  a
+: 746 5 72  let
+: 751 9 77 ter
+- 761
+: 761 3 70 Seal
+: 764 1 70 ed
+: 765 2 68  with
+: 767 2 67  a
+: 769 15 65  kiss...
+: 792 4 70  seal
+: 796 1 70 ed
+: 797 2 68  with
+: 799 1 67  a
+: 800 17 65  kiss...
+E

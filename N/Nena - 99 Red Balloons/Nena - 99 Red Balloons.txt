@@ -1,0 +1,387 @@
+#TITLE:99 Red Balloons
+#ARTIST:Nena
+#LANGUAGE:English
+#MP3:Nena - 99 Red Balloons.mp3
+#COVER:Nena - 99 Red Balloons [CO].jpg
+#BACKGROUND:Nena - 99 Red Balloons [BG].jpg
+#RELATIVE:YES
+#BPM:192,4
+#GAP:3500
+: 0 3 66 You 
+: 4 3 68 and 
+: 9 6 64 I 
+: 17 2 68 in 
+: 20 2 64 a 
+: 23 2 66 litt - 
+: 26 2 66 le 
+: 29 5 64 toy 
+: 35 5 61 shop 
+- 41 43
+: 0 2 61 Buy 
+: 3 2 61 a 
+: 6 2 69 bag 
+: 9 2 69 of 
+: 12 2 69 bal - 
+: 15 4 69 loons 
+- 19 20
+: 0 2 69 With 
+: 3 2 69 the 
+: 6 2 69 mo - 
+: 9 3 69 ney 
+: 12 4 68 we've 
+: 16 3 66 got 
+- 23 27
+: 0 3 66 Set 
+: 3 2 68 them 
+: 8 4 64 free 
+: 14 3 68 at 
+: 17 2 64 the 
+: 20 3 66 break 
+: 23 2 64 of 
+: 27 5 61 dawn 
+- 35 39
+: 0 2 61 Till 
+: 4 3 64 one 
+: 8 3 61 by 
+: 11 3 64 one 
+: 20 4 64 they 
+: 24 3 61 were 
+: 29 5 64 gone 
+- 38 43
+: 0 4 66 Back 
+: 4 3 68 at 
+: 8 5 64 base 
+- 15 17
+: 0 4 68 Sparks 
+: 5 2 64 in 
+: 7 2 64 the 
+: 9 4 64 soft - 
+: 14 7 61 ware 
+- 21 23
+: 0 5 64 Flash 
+: 6 2 61 the 
+: 9 3 64 mes - 
+: 13 6 61 sage 
+- 21 23
+: 0 3 64 Some - 
+: 4 3 61 thing's 
+: 8 3 66 out 
+: 12 6 66 there 
+- 21 25
+: 0 4 66 Float - 
+: 4 3 68 ing 
+: 8 5 64 in 
+: 14 3 68 the 
+: 18 3 66 sum - 
+: 21 4 64 mer 
+: 25 7 61 sky 
+- 36 40
+: 0 3 69 Nine - 
+: 4 2 69 ty 
+: 7 8 69 nine 
+: 19 4 69 red 
+: 23 3 68 bal - 
+: 27 4 68 loons 
+: 33 2 66 go - 
+: 35 2 64 - 
+: 38 9 64 by 
+- 57 564
+: 0 2 66 Nine - 
+: 4 2 68 ty 
+: 6 6 64 nine 
+: 16 3 66 red 
+: 20 2 64 bal - 
+: 22 5 61 loons 
+- 29 32
+: 0 3 69 Float - 
+: 4 2 69 ing 
+: 8 2 69 in 
+: 12 2 69 the 
+: 15 2 69 sum - 
+: 18 2 68 mer 
+: 21 2 66 sky - 
+: 23 4 64 - 
+- 29 32
+: 0 2 66 Pa - 
+: 3 2 68 nic 
+: 6 6 64 bells 
+- 12 13
+: 0 3 68 It's 
+: 3 3 66 red 
+: 6 2 64 a - 
+: 10 4 61 lert 
+- 14 15
+: 0 2 61 There's 
+: 4 2 69 some - 
+: 7 2 69 thing 
+: 10 2 69 here 
+- 12 14
+: 0 2 69 From 
+: 4 3 69 some - 
+: 8 2 68 where 
+: 11 2 66 else - 
+: 13 2 64 - 
+- 17 20
+: 0 2 64 The 
+: 2 3 66 war 
+: 6 2 68 ma - 
+: 8 4 64 chine 
+: 17 4 66 springs 
+: 22 2 64 to 
+: 25 4 61 life 
+- 31 33
+: 0 2 69 O - 
+: 4 2 69 pens 
+: 7 2 69 up 
+: 11 2 69 one 
+: 15 4 69 ea - 
+: 20 2 68 ger 
+: 22 5 68 eye 
+- 29 32
+: 0 2 66 Fo - 
+: 4 2 68 cus - 
+: 6 3 64 ing 
+: 12 2 68 it 
+: 16 3 66 on 
+: 20 2 64 the 
+: 22 4 61 sky 
+- 29 32
+: 0 3 69 Nine - 
+: 4 1 69 ty 
+: 7 7 69 nine 
+: 16 2 69 red 
+: 19 2 68 bal - 
+: 22 3 68 loons 
+: 26 2 66 go - 
+: 28 2 64 - 
+: 31 11 64 by 
+- 52 160
+: 0 2 66 Nine - 
+: 4 2 68 ty 
+: 6 4 64 nine 
+: 12 2 68 de - 
+: 16 2 66 ci - 
+: 19 3 64 sions 
+: 23 5 61 treat 
+- 30 32
+: 0 2 69 Nine - 
+: 4 2 69 ty 
+: 6 2 69 nine 
+: 10 2 69 mi - 
+: 14 2 69 nis - 
+: 18 3 68 ters 
+: 23 2 66 meet - 
+: 25 3 64 - 
+- 29 31
+: 0 2 64 To 
+: 2 2 66 wor - 
+: 4 2 68 ry, 
+: 8 4 64 wor - 
+: 13 2 68 ry, 
+: 17 2 66 su - 
+: 20 2 64 per 
+: 24 2 61 scur - 
+: 26 3 61 ry 
+- 31 33
+: 0 2 69 Call 
+: 3 2 69 the 
+: 6 2 69 troops 
+: 10 3 69 out 
+: 16 2 69 in 
+: 18 2 68 a 
+: 21 4 68 hur - 
+: 25 2 66 ry 
+- 29 32
+: 0 2 64 This 
+: 3 2 64 is 
+: 7 3 64 what 
+: 12 2 64 we've 
+: 16 2 64 wait - 
+: 18 2 61 ed 
+: 22 5 61 for 
+- 29 32
+: 0 2 64 This 
+: 2 2 64 is 
+: 6 2 64 it 
+: 10 3 64 boys, 
+: 16 2 64 this 
+: 18 2 64 is 
+: 23 5 66 war 
+- 28 30
+: 0 2 64 The 
+: 2 2 66 Pre - 
+: 5 2 68 si - 
+: 8 2 64 dent 
+: 13 3 68 is 
+: 17 4 66 on 
+: 22 2 64 the 
+: 24 3 61 line 
+- 29 32
+: 0 2 61 As 
+: 2 3 69 nine - 
+: 6 2 69 ty 
+: 8 6 69 nine 
+: 17 2 69 red 
+: 21 2 68 bal - 
+: 25 2 68 loons 
+: 28 2 66 go - 
+: 30 2 64 - 
+: 32 7 64 by 
+- 49 418
+: 0 2 66 Nine - 
+: 3 2 68 ty 
+: 6 3 64 nine 
+: 11 2 68 knights 
+: 15 3 66 of 
+: 19 2 64 the 
+: 21 4 61 air 
+- 25 27
+: 0 2 61 Ride 
+: 4 2 69 su - 
+: 6 2 69 per 
+: 11 3 69 high- - 
+: 15 3 69 tech 
+: 19 2 69 jet 
+: 22 2 68 fight - 
+: 26 4 66 ers 
+- 33 36
+: 0 3 66 Ev - 
+: 3 2 68 ery - 
+: 6 3 64 one's 
+: 12 2 68 a 
+: 15 4 66 su - 
+: 20 2 64 per 
+: 22 3 61 he - 
+: 26 3 61 ro 
+- 30 32
+: 0 2 69 Ev - 
+: 3 2 69 ery - 
+: 5 2 69 one's 
+: 10 2 69 a 
+: 15 2 69 Cap - 
+: 18 2 68 tain 
+: 22 4 66 Kirk 
+- 28 30
+: 0 2 64 With 
+: 2 2 66 or - 
+: 5 3 68 ders 
+: 10 2 64 to 
+: 13 2 68 i - 
+: 17 2 66 den - 
+: 21 2 64 ti - 
+: 24 4 61 fy 
+- 30 32
+: 0 2 61 To 
+: 2 2 69 cla - 
+: 5 2 69 ri - 
+: 9 2 69 fy 
+: 13 2 69 and 
+: 16 3 69 clas - 
+: 21 2 68 si - 
+: 24 5 66 fy 
+- 31 34
+: 0 3 66 Scramb - 
+: 3 2 68 le 
+: 6 3 64 in 
+: 11 2 68 the 
+: 15 2 66 sum - 
+: 18 2 64 mer 
+: 22 5 61 sky 
+- 29 32
+: 0 2 69 Nine - 
+: 4 2 69 ty 
+: 6 6 69 nine 
+: 15 2 71 red 
+: 19 2 68 bal - 
+: 22 3 68 loons 
+: 26 2 66 go - 
+: 28 2 64 - 
+: 30 13 64 by 
+- 53 126
+: 0 2 61 As 
+: 2 2 69 nine - 
+: 6 2 69 ty 
+: 8 7 69 nine 
+: 17 3 71 red 
+: 21 2 71 bal - 
+: 23 2 71 loons 
+: 28 4 71 go 
+: 34 77 71 by 
+- 121 203
+: 0 5 66 Nine - 
+: 5 3 68 ty 
+: 8 7 64 nine 
+: 15 5 68 dreams 
+: 21 4 66 I 
+: 26 2 64 have 
+: 29 4 61 had 
+- 38 44
+: 0 2 61 In 
+: 4 3 64 ev - 
+: 7 3 61 ery 
+: 11 2 64 one 
+: 20 4 61 a 
+: 24 2 64 red 
+: 28 2 61 bal - 
+: 31 5 64 loon 
+- 41 47
+: 0 3 64 It's 
+: 4 3 64 all 
+: 8 1 64 o - 
+: 11 4 64 ver 
+: 15 1 64 and 
+: 18 1 64 I'm 
+: 21 3 64 stand - 
+: 25 2 64 ing 
+: 29 1 64 pret - 
+: 32 1 64 ty 
+- 39 45
+: 0 2 69 In 
+: 4 3 69 this 
+: 8 4 69 dust 
+: 13 2 69 that 
+: 16 3 69 was 
+: 21 2 68 a 
+: 26 3 68 ci - 
+: 29 3 66 ty - 
+: 32 2 64 - 
+- 37 40
+: 0 1 64 If 
+: 2 3 66 I 
+: 5 3 68 could 
+: 8 4 64 find 
+: 15 4 68 a 
+: 20 3 66 sou - 
+: 23 3 64 ve - 
+: 26 4 61 nir 
+- 35 40
+: 0 2 64 Just 
+: 4 2 61 to 
+: 7 4 64 prove 
+: 16 2 61 the 
+: 19 4 64 world 
+: 24 3 61 was 
+: 27 7 64 here 
+- 42 50
+: 0 4 66 And 
+: 5 3 68 here 
+: 8 6 64 is 
+: 15 5 68 a 
+: 20 4 66 red 
+: 25 3 64 bal - 
+: 28 5 61 loon 
+- 39 45
+: 0 2 61 I 
+: 3 3 64 think 
+: 7 2 61 of 
+: 10 4 64 you 
+: 21 2 61 and 
+: 24 2 64 let 
+: 26 2 61 it 
+: 31 5 66 go 
+- 46 189
+: 1 0 0  
+E
+
+Konwersja z XMLa wykonana przy pomocy
+GOSU konwertera v1.0a by Cloud aka Chmurek

@@ -1,0 +1,401 @@
+#TITLE:Laura
+#ARTIST:Scissor Sisters
+#MP3:Scissor Sisters - Laura.mp3
+#COVER:Scissor Sisters - Laura [CO].jpg
+#BACKGROUND:Scissor Sisters - Laura [BG].jpg
+#BPM:181,6
+#GAP:32412
+#RELATIVE:YES
+: 0 4 58 Lau - 
+: 4 4 61 - 
+: 8 3 61 ra 
+- 15 20
+: 0 3 56 Can't 
+: 4 4 58 you 
+: 8 3 61 give 
+: 12 2 58 me 
+: 16 3 58 some 
+: 20 2 56 time? 
+- 25 28
+: 0 3 56 I 
+: 4 3 56 got 
+: 8 3 58 to 
+: 12 6 65 give 
+: 20 5 63 my - 
+: 28 6 61 self - 
+: 35 2 56 - 
+- 38 40
+: 0 6 58 One 
+: 6 3 58 more 
+: 11 2 56 chance 
+- 18 24
+: 0 2 56 To 
+: 4 4 58 be 
+: 8 3 56 the 
+: 12 4 61 man - 
+: 16 3 56 - 
+- 19 20
+: 0 4 58 That 
+: 4 4 56 I 
+: 8 4 58 know 
+: 12 2 58 I 
+: 16 2 56 am 
+- 28 44
+: 0 2 56 To 
+: 4 3 58 be 
+: 8 3 56 the 
+: 12 4 61 man - 
+: 16 3 56 - 
+- 19 20
+: 0 4 58 That 
+: 4 4 56 I 
+: 8 4 58 know 
+: 12 2 58 I 
+: 15 2 56 am 
+- 27 44
+: 0 3 56 Won't 
+: 4 4 56 you 
+: 8 2 58 just 
+: 12 4 65 tell - 
+: 16 2 58 - 
+- 18 20
+: 0 3 58 Cin - 
+: 4 2 56 cin - 
+: 6 4 61 na - 
+: 10 3 61 ti 
+- 20 28
+: 0 3 58 I'm 
+: 4 4 58 gon - 
+: 8 4 58 na 
+: 12 3 61 need 
+: 16 8 58 your 
+: 24 2 56 love 
+- 31 36
+: 0 3 58 Don't 
+: 4 3 58 you 
+: 8 3 61 give 
+: 12 3 58 me 
+: 16 4 58 your 
+: 20 2 56 love? 
+- 27 32
+: 0 3 58 Don't 
+: 4 3 58 you 
+: 8 3 61 give 
+: 12 4 58 me 
+: 16 2 58 your 
+- 18 20
+: 0 4 58 Sh' 
+: 4 4 61 mon 
+- 12 16
+: 0 4 58 Sh' 
+: 4 4 61 mon 
+- 17 27
+: 0 4 65 Where - 
+: 4 4 63 - 
+: 8 3 63 is 
+: 12 7 61 your 
+: 20 5 65 love? - 
+: 25 2 58 - 
+- 29 32
+: 0 3 58 Don't 
+: 4 3 58 you 
+: 8 3 61 give 
+: 12 4 58 me 
+: 16 4 58 your 
+: 20 2 56 love? 
+- 27 32
+: 0 3 58 Don't 
+: 4 3 58 you 
+: 8 4 61 give 
+: 12 4 58 me 
+: 16 2 58 your 
+- 18 20
+: 0 4 58 Sh' 
+: 4 4 61 mon 
+- 12 16
+: 0 4 58 Sh' 
+: 4 4 61 mon 
+- 18 28
+: 0 4 65 Where - 
+: 4 4 63 - 
+: 8 2 63 is 
+: 12 8 61 your 
+: 20 5 65 love? - 
+: 25 2 58 - 
+- 29 32
+: 0 3 58 Don't 
+: 4 3 58 you 
+: 8 3 61 give 
+: 12 4 58 me 
+: 16 4 58 your 
+: 20 2 56 love? 
+- 27 32
+: 0 3 58 Don't 
+: 4 3 58 you 
+: 7 4 61 give 
+: 11 4 58 me 
+: 15 3 58 your 
+- 28 415
+: 0 4 61 Frei - 
+: 4 3 61 da 
+- 11 16
+: 0 3 56 Can't 
+: 4 3 58 you 
+: 8 3 61 spare 
+: 12 2 58 me 
+: 16 3 58 a 
+: 20 2 56 dime? 
+- 25 28
+: 0 3 56 I 
+: 4 2 56 got 
+: 8 3 58 to 
+: 12 6 65 give 
+: 20 5 63 my - 
+: 28 6 61 self - 
+: 35 2 56 - 
+- 38 40
+: 0 6 58 One 
+: 6 3 58 more 
+: 10 3 56 chance 
+- 18 24
+: 0 2 56 To 
+: 4 4 58 ring 
+: 8 3 56 the 
+: 12 4 61 band - 
+: 16 3 56 - 
+- 19 20
+: 0 4 58 That 
+: 4 4 56 I 
+: 8 4 58 know 
+: 12 3 58 I'm 
+: 16 2 56 in 
+- 28 44
+: 0 2 56 To 
+: 4 4 58 ring 
+: 8 3 56 the 
+: 12 4 61 band - 
+: 16 3 56 - 
+- 19 20
+: 0 4 58 That 
+: 4 4 56 I 
+: 8 4 58 know 
+: 12 3 58 I'm 
+: 16 2 56 in 
+- 28 43
+: 0 3 56 Won't 
+: 4 3 56 you 
+: 8 2 58 just 
+: 12 5 65 tell - 
+: 17 2 58 - 
+- 19 20
+: 0 3 58 Ba - 
+: 4 2 56 by 
+: 6 4 61 Dad - 
+: 10 5 61 dy 
+- 21 28
+: 0 3 58 I'm 
+: 4 4 58 gon - 
+: 8 4 58 na 
+: 13 3 61 need 
+: 17 5 58 his 
+: 24 2 56 love 
+- 29 32
+: 0 3 58 Why 
+: 4 3 58 don't 
+: 8 3 58 he 
+: 12 3 61 give 
+: 16 3 58 me 
+: 20 4 58 he 
+: 24 2 56 love? 
+- 28 31
+: 0 3 58 Why 
+: 5 3 57 don't 
+: 9 3 58 he 
+: 13 3 61 give 
+: 17 4 58 me 
+: 21 2 58 he 
+- 23 25
+: 0 4 58 Sh' 
+: 4 4 61 mon 
+- 12 16
+: 0 4 58 Sh' 
+: 4 4 61 mon 
+- 18 28
+: 0 4 65 Where - 
+: 4 4 63 - 
+: 8 3 63 is 
+: 12 7 61 your 
+: 20 5 65 love? - 
+: 25 2 58 - 
+- 29 32
+: 0 3 58 Don't 
+: 4 3 58 you 
+: 8 3 61 give 
+: 12 4 58 me 
+: 16 4 58 your 
+: 20 2 56 love? 
+- 27 32
+: 0 3 58 Don't 
+: 4 3 58 you 
+: 8 4 61 give 
+: 12 4 58 me 
+: 16 2 58 your 
+- 18 20
+: 0 4 58 Sh' 
+: 4 4 61 mon 
+- 12 16
+: 0 4 58 Sh' 
+: 4 4 61 mon 
+- 18 28
+: 0 4 65 Where - 
+: 4 4 63 - 
+: 8 2 63 is 
+: 12 8 61 your 
+: 20 5 65 love? - 
+: 25 2 58 - 
+- 29 32
+: 0 3 58 Don't 
+: 4 3 58 you 
+: 8 3 61 give 
+: 12 4 58 me 
+: 16 4 58 your 
+: 20 2 56 love? 
+- 27 32
+: 0 3 58 Don't 
+: 4 3 58 you 
+: 7 4 61 give 
+: 11 4 58 me 
+: 15 3 58 your 
+- 28 39
+: 0 3 62 This - 
+: 4 3 60 'll 
+: 8 4 60 be 
+: 12 4 58 the 
+: 16 6 62 last 
+: 24 4 60 time - 
+: 28 5 58 - 
+- 35 37
+: 0 2 60 I 
+: 3 3 60 ev - 
+: 7 2 58 er 
+: 11 3 60 do 
+: 14 5 60 your - 
+: 19 3 58 - 
+: 23 8 62 hair 
+- 35 39
+: 0 2 46 Swear 
+: 2 2 46 I'm 
+: 4 4 46 gonna 
+: 8 2 46 quit 
+- 10 12
+: 0 3 46 Can't 
+: 3 2 46 seem 
+: 5 2 46 to 
+: 8 2 46 make 
+: 10 4 46 enough 
+: 16 3 46 dough 
+- 27 36
+: 0 3 55 One 
+: 4 3 62 face 
+: 8 4 60 a - 
+: 12 3 60 mong 
+: 16 1 58 the 
+: 18 4 62 ma - 
+: 22 2 60 ny - 
+: 24 7 58 - 
+- 35 40
+: 0 2 60 I 
+: 4 3 60 nev - 
+: 8 3 60 er 
+: 12 3 60 thought 
+: 16 7 60 you 
+: 24 7 62 cared 
+- 35 40
+: 0 2 46 Thought 
+: 2 2 46 I 
+: 4 2 46 got 
+: 8 2 46 rough 
+- 10 12
+: 0 2 46 Now 
+: 2 2 46 I 
+: 4 2 46 know 
+: 6 2 46 it 
+: 8 2 46 ain't 
+: 12 3 46 so 
+- 16 18
+: 0 2 46 I 
+: 2 4 46 gotta 
+: 6 2 46 live 
+: 10 2 46 my 
+: 12 4 46 own 
+- 19 22
+: 0 3 62 This - 
+: 4 3 60 'll 
+: 8 4 60 be 
+: 12 4 58 the 
+: 16 6 62 last 
+: 24 4 60 time - 
+: 28 5 58 - 
+- 35 37
+: 0 2 60 I 
+: 3 3 60 ev - 
+: 7 2 58 er 
+: 11 3 60 do 
+: 14 5 60 your - 
+: 19 3 58 - 
+: 23 8 62 hair 
+- 35 39
+: 0 2 46 Swear 
+: 2 2 46 I'm 
+: 4 4 46 gonna 
+: 8 2 46 quit 
+- 10 12
+: 0 3 46 Can't 
+: 3 2 46 seem 
+: 5 2 46 to 
+: 8 2 46 make 
+: 10 4 46 enough 
+: 16 3 46 dough 
+- 27 36
+: 0 3 55 One 
+: 4 3 62 face 
+: 8 4 60 a - 
+: 12 3 60 mong 
+: 16 1 58 the 
+: 18 4 62 ma - 
+: 22 2 60 ny - 
+: 24 7 58 - 
+- 35 40
+: 0 2 60 I 
+: 4 3 60 nev - 
+: 8 3 60 er 
+: 12 3 60 thought 
+: 16 7 60 you 
+: 24 7 62 cared 
+- 35 40
+: 0 2 46 Thought 
+: 2 2 46 I 
+: 4 2 46 got 
+: 8 2 46 rough 
+- 10 12
+: 0 2 46 Now 
+: 2 2 46 I 
+: 4 2 46 know 
+: 6 2 46 it 
+: 8 2 46 ain't 
+: 12 3 46 so 
+- 16 18
+: 0 2 46 I 
+: 2 4 46 gotta 
+: 6 2 46 live 
+: 10 2 46 my 
+: 12 4 46 own 
+- 26 66
+: 1 0 0  
+E
+
+Converted by JakobO, thanks to Mike Haggar
+and Chmurek for your excellent tools!
+
+This file was converted from XML using
+GOSU converter v1.0a ENG by Cloud aka Chmurek

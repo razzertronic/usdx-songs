@@ -1,0 +1,200 @@
+#TITLE:We are the Champions
+#ARTIST:Queen
+#MP3:Queen - We Are The Champions.mp3
+#BPM:95
+#GAP:260
+: 0 2 55 I've
+: 2 2 58  paid
+: 4 2 60  my
+: 6 10 60  dues
+- 16
+: 24 2 58 Time
+: 26 3 60  after
+: 29 9 60  time
+- 38
+: 48 2 55 I've
+: 50 2 58  done
+: 52 3 60  my
+: 55 5 60  sentence
+- 60
+: 70 1 55 But
+: 71 4 62  committed
+: 75 2 61  no
+: 77 8 60  crime
+- 85
+: 96 2 58 And
+: 98 2 62  bad
+: 100 3 63  mis
+: 103 6 63 takes
+- 109
+: 120 3 58 I've
+: 123 1 62  made
+: 124 1 63  a
+: 125 7 63  few
+- 132
+: 144 3 58 I've
+: 147 2 62  had
+: 149 2 63  my
+: 151 2 63  share
+- 153
+: 153 1 65  of
+: 154 3 65  sand
+: 157 2 67  kicked
+: 159 1 67  in
+: 160 2 68  my
+: 162 6 69  face
+- 168
+: 168 1 70 But
+: 169 4 68  I've
+: 173 4 67  come
+: 177 11 65  through
+- 188
+: 211 9 77 We
+: 220 2 76  are
+: 222 1 77  the
+: 223 4 76  cham
+: 227 6 72 pions
+: 233 2 69  my
+: 235 12 74  friends
+- 247
+: 258 1 77 And
+: 259 9 78  we'll
+: 268 2 79  keep
+: 270 2 81  on
+: 272 4 84  figh
+: 276 5 81 ting
+- 281
+: 281 2 74  till
+: 283 1 75  the
+: 284 9 76  end
+- 293
+: 307 7 74 We
+: 314 4 72  are
+: 318 1 74  the
+: 319 6 72  cham
+: 325 5 70 pions
+- 330
+: 330 7 82 We
+: 337 5 81  are
+: 342 1 82  the
+: 343 6 81  cham
+: 349 6 79 pions
+- 355
+: 355 6 81 No
+: 361 4 77  time
+: 365 2 82  for
+: 367 6 81  lo
+: 373 4 77 sers
+- 377
+: 378 2 82 'Cause
+: 380 6 80  we
+: 386 4 77  are
+: 390 1 82  the
+: 391 6 80  cham
+: 397 8 77 pions
+- 405
+: 411 2 77 of
+: 413 1 77  the
+: 414 38 77  world
+- 452
+: 480 1 55 I've
+: 481 4 58  taken
+: 485 2 60  my
+: 487 8 60  bows
+- 495
+: 504 3 55 And
+: 507 3 60  curtain
+: 510 9 60  calls
+- 519
+: 530 2 55 You
+: 532 2 58  brought
+: 534 1 60  me
+: 535 4 60  fame
+: 539 1 60  and
+: 540 5 60  fortune
+- 545
+: 545 1 60 and
+: 546 2 60  everything
+: 548 1 60  that 
+: 549 4 60  goes
+: 553 2 55  with
+: 555 1 55  it
+- 556
+: 556 3 62 I
+: 559 2 60  thank
+: 561 1 58  you
+: 562 5 60  all
+- 567
+: 574 1 58 But
+: 575 2 62  it's
+: 577 2 63  been
+: 579 1 63  no
+: 580 2 63  bed
+: 582 1 63  of
+: 583 10 63  roses
+- 593
+: 602 2 58 No
+: 604 4 62  pleasure
+: 608 11 63  cruise
+- 619
+: 622 1 58 I
+: 623 5 62  consider
+: 628 1 63  it
+: 629 2 63  a
+: 631 3 65  challenge
+- 634
+: 634 3 65 before
+: 637 3 67  the whole
+: 640 7 67  human race
+- 647
+: 648 1 69 And
+: 649 2 70  I
+: 651 2 70  ain't
+: 653 2 67  gonna
+: 655 12 65  lose
+- 667
+: 689 10 77 We
+: 699 2 76  are
+: 701 1 77  the
+: 702 4 76  cham
+: 706 6 72 pions
+: 713 1 69  my
+: 714 11 74  friends
+- 725
+: 737 9 77 And we'll
+: 746 3 79  keep
+: 749 1 81  on
+: 750 5 84  figh
+: 755 5 81 ting
+: 760 3 74  till
+: 763 11 76  the end
+- 774
+: 786 6 74 We
+: 793 3 72  are
+: 796 1 74  the
+: 797 7 72  cham
+: 804 5 70 pions
+- 809
+: 810 6 82 We
+: 817 3 81  are
+: 820 1 82  the
+: 821 7 81  cham
+: 828 6 79 pions
+- 834
+: 834 6 81 No
+: 840 4 77  time
+: 844 2 82  for
+: 846 5 81  lo
+: 851 4 77 sers
+- 855
+: 856 3 82 'Cause
+: 859 5 80  we
+: 864 4 77  are
+: 868 1 82  the
+: 869 7 80  cham
+: 876 14 77 pions
+- 890
+: 890 2 77 of
+: 892 1 77  the
+: 893 12 77  world
+E

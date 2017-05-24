@@ -1,0 +1,157 @@
+#TITLE:Mamor, Stein und Eisen bricht
+#ARTIST:Drafi Deutscher
+#MP3:Drafi Deutscher - Mamor, Stein und Eisen bricht.mp3
+#START:1
+#BPM:111,8
+#GAP:4860
+: 0 2 52 Wei
+: 2 3 52 ne 
+: 5 4 52 nicht, 
+: 9 4 51 wenn 
+: 13 4 52 der 
+: 17 2 52 Re
+: 19 4 52 gen 
+: 23 4 52 fällt 
+- 28
+: 28 5 52 Dam 
+: 33 7 54 Dam, 
+: 44 4 57 Dam 
+: 48 5 56 Dam
+- 52
+: 64 3 52 Es 
+: 67 4 52 gibt 
+: 72 3 52 ein
+: 75 2 51 en 
+: 77 4 52 der 
+: 81 3 52 zu 
+: 84 3 52 Dir 
+: 87 6 52 hält 
+- 92
+: 92 5 52 Dam 
+: 97 7 54 Dam, 
+: 108 4 57 Dam 
+: 112 5 56 Dam
+- 115
+: 127 3 64 Mar
+: 130 4 64 mor, 
+: 134 6 64 Stein 
+: 140 4 64 und 
+: 144 2 63 Ei
+: 146 4 61 sen 
+: 150 8 61 bricht
+- 159
+: 159 3 63 ab
+: 162 4 63 er 
+: 166 3 63 un
+: 169 2 61 se
+: 171 4 63 re 
+: 175 4 64 Lie
+: 179 2 59 be 
+: 181 10 61 nicht
+- 191
+: 191 2 64 al
+: 193 5 64 les, 
+: 198 3 64 al
+: 201 6 64 les 
+: 207 2 63 geht 
+: 209 2 61 vor
+: 211 11 61 bei
+- 222
+: 222 2 63 doch 
+: 224 5 63 wir 
+: 229 3 61 sind 
+: 232 4 63 uns 
+: 236 7 64 treu
+- 243
+: 270 2 52 Kann 
+: 272 4 52 ich 
+: 276 3 52 ein
+: 279 2 51 mal 
+: 281 4 52 nicht 
+: 285 3 52 bei 
+: 288 3 52 dir 
+: 291 5 52 sein 
+- 296
+: 296 5 52 Dam 
+: 301 7 54 Dam, 
+: 312 5 57 Dam 
+: 317 5 56 Dam
+- 323
+: 333 3 52 Denk 
+: 336 3 52 da
+: 339 4 52 ran, 
+: 343 2 51 du 
+: 345 3 52 bist 
+: 348 3 56 nicht 
+: 351 4 52 al
+: 355 5 52 lein 
+- 360
+: 360 5 52 Dam 
+: 365 7 54 Dam, 
+: 376 5 57 Dam 
+: 381 5 56 Dam
+- 386
+: 396 2 64 Mar
+: 398 3 64 mor, 
+: 401 7 64 Stein 
+: 408 3 64 und 
+: 411 3 63 Ei
+: 414 3 61 sen 
+: 417 7 61 bricht
+- 428
+: 428 2 63 ab
+: 430 3 63 er 
+: 433 2 63 un
+: 435 3 61 se
+: 438 4 63 re 
+: 442 4 64 Lie
+: 446 3 59 be 
+: 449 7 61 nicht
+- 450
+: 459 2 64 al
+: 461 4 64 les, 
+: 465 4 64 al
+: 469 4 64 les 
+: 473 2 63 geht 
+: 475 3 61 vor
+: 478 8 61 bei
+- 489
+: 489 2 63 doch 
+: 491 5 63 wir 
+: 496 3 61 sind 
+: 499 3 63 uns 
+: 502 8 64 treu
+- 516
+: 520 2 65 Mar
+: 522 3 65 mor, 
+: 525 6 65 Stein 
+: 531 4 65 und 
+: 535 5 64 Ei
+: 540 2 62 sen 
+: 542 7 62 bricht
+- 550
+: 551 4 64 ab
+: 555 2 64 er 
+: 557 3 64 un
+: 560 2 62 se
+: 562 3 64 re
+: 568 3 65  Lie
+: 571 2 60 be 
+: 573 8 62 nicht
+- 579
+: 582 2 68 al
+: 584 3 69 les, 
+: 587 3 68 al
+: 590 2 69 les, 
+: 592 2 68 al
+: 594 4 69 les 
+: 598 4 69 geht 
+: 602 3 67 vor
+: 605 7 65 bei
+- 611
+: 611 3 64 doch 
+: 614 4 60 wir 
+: 618 3 62 sind 
+: 621 4 64 uns 
+: 625 11 65 treu
+E

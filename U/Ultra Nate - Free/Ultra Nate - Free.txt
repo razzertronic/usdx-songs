@@ -1,0 +1,489 @@
+#TITLE:Free
+#ARTIST:Ultra Nate
+#MP3:Ultra Nate - Free.mp3
+#COVER:Ultra Nate - Free [CO].jpg
+#BACKGROUND:Ultra Nate - Free [BG].jpg
+#BPM:250
+#GAP:17050
+#RELATIVE:YES
+: 0 3 56 Where 
+: 4 3 58 did 
+: 8 2 56 we 
+: 12 7 65 go 
+: 20 12 63 wrong? 
+- 42 64
+: 0 3 56 Where 
+: 4 3 58 did 
+: 8 2 56 we 
+: 12 5 67 lose 
+: 20 5 65 our 
+: 28 12 63 faith? 
+- 50 60
+: 0 3 56 My 
+: 4 3 58 bro - 
+: 8 3 56 ther 
+: 12 2 58 is 
+: 16 6 65 in 
+: 24 9 63 need 
+- 36 40
+: 0 3 63 But 
+: 8 5 67 can 
+: 16 3 68 he 
+: 20 3 67 de - 
+: 24 4 63 pend 
+: 32 4 60 on 
+: 40 6 65 me? 
+- 49 52
+: 0 2 53 Do 
+: 4 5 65 you 
+: 12 4 63 think 
+- 18 20
+: 0 7 65 If 
+: 8 3 63 one 
+: 12 3 63 of 
+: 16 3 61 you 
+: 20 4 61 tried 
+- 28 32
+: 0 6 65 May - 
+: 8 3 63 be 
+: 12 3 63 you 
+: 16 3 61 could 
+: 20 5 61 find 
+- 28 32
+: 0 3 61 A 
+: 4 3 68 bet - 
+: 8 3 68 ter 
+: 12 3 67 friend 
+- 15 16
+: 0 3 67 Than 
+: 4 4 63 a - 
+: 8 5 60 ny 
+: 15 6 65 o - 
+: 24 10 65 ther? 
+- 37 40
+: 0 2 53 If 
+: 4 2 53 you 
+: 8 6 65 gave 
+: 16 3 63 more 
+: 20 3 63 than 
+: 24 3 61 you 
+: 28 5 61 took 
+- 36 40
+: 0 6 68 Life 
+: 8 3 67 could 
+: 12 3 68 be 
+: 16 3 63 so 
+: 20 6 63 good 
+- 33 40
+: 0 3 65 Come 
+: 4 3 65 on 
+: 8 3 67 and 
+: 12 7 68 try 
+- 23 28
+: 0 6 70 Now's 
+: 8 3 68 the 
+: 12 5 68 time 
+- 18 20
+: 0 2 63 'Cause 
+: 4 5 70 you're 
+: 12 36 68 free 
+- 52 56
+: 0 2 70 To 
+: 4 3 70 do 
+: 8 3 68 what 
+: 12 3 70 you 
+: 16 3 72 want 
+: 24 2 68 to 
+: 28 8 68 do 
+- 46 56
+: 0 2 68 You've 
+: 4 3 68 got 
+: 8 2 65 to 
+: 12 3 68 live - 
+: 16 2 65 - 
+: 20 5 70 your 
+: 28 8 70 life - 
+: 36 28 68 - 
+- 70 76
+: 0 3 70 Do 
+: 4 3 68 what 
+: 8 3 70 you 
+: 12 3 72 want 
+: 20 2 68 to 
+: 24 8 68 do 
+- 42 96
+: 0 3 56 Are 
+: 4 3 58 we 
+: 8 2 56 all 
+: 13 9 65 stran - 
+: 22 6 60 - 
+: 28 15 63 gers? 
+- 51 60
+: 0 2 56 Does 
+: 4 3 56 a - 
+: 8 3 58 ny - 
+: 12 2 56 one 
+: 16 5 67 real - 
+: 24 5 63 ly 
+: 32 6 63 care? - 
+: 40 5 60 - 
+- 54 64
+: 0 3 56 Deep 
+: 4 3 56 down 
+: 8 3 58 we're 
+: 16 5 65 all 
+: 22 4 65 the 
+: 28 8 63 same 
+- 42 48
+: 0 7 67 Try - 
+: 8 3 68 ing 
+: 12 2 67 to 
+: 16 3 63 hide 
+: 24 3 60 our 
+: 32 6 65 pain 
+- 41 44
+: 0 2 53 You 
+: 4 5 65 think 
+: 12 3 63 you 
+: 16 2 60 could 
+- 18 20
+: 0 7 65 Ne - 
+: 8 3 63 ver 
+: 12 3 63 trust 
+: 16 3 61 an - 
+: 20 3 61 o - 
+: 24 3 60 ther 
+- 29 32
+: 0 2 53 'Cause 
+: 4 3 65 they're 
+: 8 3 63 all 
+: 12 3 63 out 
+: 16 3 61 to 
+: 20 3 61 get 
+: 24 3 60 ya 
+- 29 32
+: 0 3 61 We 
+: 4 3 68 have 
+: 8 3 68 to 
+: 12 3 67 live 
+- 15 16
+: 0 3 67 In 
+: 4 3 63 this 
+: 8 3 63 world 
+: 12 2 60 to - 
+: 16 4 65 ge - 
+: 20 3 68 - 
+: 24 7 65 ther 
+- 35 40
+: 0 2 53 If 
+: 4 2 53 we 
+: 8 6 65 o - 
+: 16 3 63 pen 
+: 20 3 63 up 
+: 24 3 61 our 
+: 28 5 61 hearts 
+- 36 40
+: 0 6 65 Love 
+: 8 3 63 can 
+: 12 3 65 fin - 
+: 16 3 68 'lly 
+: 20 8 70 start - 
+: 28 6 68 - 
+- 37 40
+: 0 3 65 Come 
+: 4 3 65 on 
+: 8 3 67 and 
+: 12 7 68 try 
+- 23 28
+: 0 6 70 Now's 
+: 8 3 68 the 
+: 12 5 68 time 
+- 18 20
+: 0 2 63 'Cause 
+: 4 5 70 you're 
+: 12 36 68 free 
+- 52 56
+: 0 2 70 To 
+: 4 3 70 do 
+: 8 3 68 what 
+: 12 3 70 you 
+: 16 3 72 want 
+: 24 2 68 to 
+: 28 8 68 do 
+- 46 56
+: 0 2 68 You've 
+: 4 3 68 got 
+: 8 2 65 to 
+: 12 3 68 live - 
+: 16 2 65 - 
+: 20 5 70 your 
+: 28 8 70 life - 
+: 36 28 68 - 
+- 70 76
+: 0 3 70 Do 
+: 4 3 68 what 
+: 8 3 70 you 
+: 12 3 72 want 
+: 20 2 68 to 
+: 24 8 68 do 
+- 42 68
+: 0 2 65 'Cause 
+: 4 5 70 you're 
+: 12 36 68 free 
+- 52 56
+: 0 2 70 To 
+: 4 3 70 do 
+: 8 3 68 what 
+: 12 3 70 you 
+: 16 3 72 want 
+: 24 2 72 to 
+: 28 8 72 do 
+- 46 56
+: 0 2 68 You've 
+: 4 3 68 got 
+: 8 2 65 to 
+: 12 3 68 live - 
+: 16 2 65 - 
+: 20 5 70 your 
+: 28 8 70 life - 
+: 36 28 68 - 
+- 70 76
+: 0 3 70 Do 
+: 4 3 68 what 
+: 8 3 70 you 
+: 12 3 72 want 
+: 20 2 68 to 
+: 24 8 68 do 
+- 42 84
+: 0 2 68 Do 
+: 4 2 68 what 
+: 8 2 68 you 
+: 12 2 68 want 
+- 19 24
+: 0 2 68 Do 
+: 6 2 68 what 
+: 10 2 68 you 
+: 12 2 68 want 
+: 16 2 68 to 
+: 20 2 68 do 
+- 31 40
+: 0 2 68 Do 
+: 4 2 68 what 
+: 8 2 68 you 
+: 12 2 68 want 
+- 19 24
+: 0 2 68 Do 
+: 6 2 68 what 
+: 10 2 68 you 
+: 12 2 68 want 
+: 16 2 68 to 
+: 20 2 68 do 
+- 31 40
+: 0 2 68 Do 
+: 4 2 68 what 
+: 8 2 68 you 
+: 12 2 68 want 
+- 19 24
+: 0 2 68 Do 
+: 6 2 68 what 
+: 10 2 68 you 
+: 12 2 68 want 
+: 16 2 68 to 
+: 20 2 68 do 
+- 31 40
+: 0 2 68 Do 
+: 4 2 68 what 
+: 8 2 68 you 
+: 12 2 68 want 
+- 19 24
+: 0 2 68 Do 
+: 6 2 68 what 
+: 10 2 68 you 
+: 12 2 68 want 
+: 16 2 68 to 
+: 20 2 68 do 
+- 31 40
+: 0 4 65 When 
+: 6 4 65 you're 
+: 12 5 65 down 
+- 18 20
+: 0 4 65 And 
+: 6 2 63 you're 
+: 8 4 65 feel - 
+: 13 3 68 ing 
+: 16 12 68 bad 
+- 36 44
+: 0 3 71 Ev - 
+: 6 3 70 ery - 
+: 12 3 70 bo - 
+: 18 3 72 dy 
+- 22 24
+: 0 2 65 Has 
+: 4 3 72 left 
+: 9 2 70 you 
+: 12 6 70 sad - 
+: 18 2 68 - 
+: 20 8 65 - 
+- 34 40
+: 0 4 65 Feels 
+: 6 3 65 like 
+: 12 5 65 no 
+: 18 3 65 one 
+- 21 22
+: 0 4 65 Will 
+: 6 4 65 pull 
+: 12 2 70 you 
+: 14 14 68 through 
+- 35 42
+: 0 4 75 It's 
+: 6 3 72 your 
+: 12 4 70 life 
+- 18 20
+: 0 3 68 What - 
+: 6 2 65 cha 
+: 8 5 72 gon - 
+: 13 2 70 na 
+: 16 2 68 do? - 
+: 18 2 70 - 
+: 20 3 72 - 
+- 33 44
+: 0 4 65 Make 
+: 6 3 65 that 
+: 12 5 65 change 
+- 18 20
+: 0 3 65 Let's 
+: 8 4 65 start 
+: 14 2 70 to - 
+: 16 9 68 day 
+- 35 46
+: 0 2 65 Get 
+: 2 4 72 out - 
+: 8 2 70 ta 
+: 10 6 70 bed 
+- 16 18
+: 0 3 65 Get 
+: 8 5 72 on 
+: 14 2 70 your 
+: 16 5 70 way - 
+: 21 3 68 - 
+: 24 9 65 - 
+- 38 44
+: 0 3 71 Don't 
+: 6 3 70 be 
+: 12 6 70 scared - 
+: 18 4 72 - 
+- 22 24
+: 0 2 65 Your 
+: 8 4 72 dream's 
+: 14 3 70 right 
+: 20 4 70 there - 
+: 24 4 68 - 
+- 30 32
+: 0 2 65 You 
+: 4 6 71 want 
+: 10 3 70 it 
+- 15 17
+: 0 2 65 You 
+: 3 6 71 want 
+: 9 3 70 it 
+- 13 15
+: 0 3 72 Reach 
+: 4 5 77 for 
+: 10 15 77 it 
+- 26 28
+: 0 5 70 You're 
+: 8 36 68 free 
+- 48 52
+: 0 2 70 To 
+: 4 3 70 do 
+: 8 3 68 what 
+: 12 3 70 you 
+: 16 3 72 want 
+: 24 2 68 to 
+: 28 8 68 do 
+- 46 56
+: 0 2 68 You've 
+: 4 3 68 got 
+: 8 2 65 to 
+: 12 3 68 live - 
+: 16 2 65 - 
+: 20 5 70 your 
+: 28 8 70 life - 
+: 36 28 68 - 
+- 70 76
+: 0 3 70 Do 
+: 4 3 68 what 
+: 8 3 70 you 
+: 12 3 72 want 
+: 20 2 68 to 
+: 24 8 68 do 
+- 42 88
+: 0 3 68 Come 
+: 4 5 68 on 
+- 14 20
+: 0 2 65 You 
+: 3 2 68 got 
+: 8 2 67 to 
+: 11 3 68 live 
+: 16 2 65 your 
+: 19 5 68 life 
+: 27 6 70 now 
+- 38 43
+: 0 3 68 Come 
+: 5 4 68 on 
+- 14 20
+: 0 2 66 You've 
+: 5 2 66 on - 
+: 9 2 66 ly 
+: 13 2 66 got 
+: 17 2 66 one 
+: 21 3 66 live 
+: 24 2 68 it 
+: 28 3 68 oh 
+- 36 41
+: 0 3 66 You 
+: 4 2 66 got 
+: 7 3 66 to 
+: 11 7 68 learn 
+: 20 3 66 to 
+: 24 6 68 live 
+- 35 40
+: 0 2 66 And 
+: 3 3 68 love 
+: 7 4 68 your - 
+: 11 3 65 - 
+: 15 6 70 bro - 
+: 23 6 70 ther 
+- 38 48
+: 0 8 68 Yeah - 
+: 8 2 65 - 
+: 10 2 63 - 
+: 12 5 65 - 
+- 27 39
+: 0 2 66 What 
+: 4 2 66 you 
+: 8 3 66 gon - 
+: 12 3 66 na 
+: 16 4 68 do 
+- 26 32
+: 0 2 66 When 
+: 4 3 66 it's 
+: 8 6 68 all, 
+: 16 4 66 all, 
+: 24 5 68 all, 
+: 32 4 66 all - 
+: 37 2 63 - 
+- 39 41
+: 0 4 68 Ov - 
+: 7 3 66 er 
+: 11 3 66 for 
+: 16 6 71 you? 
+- 32 206
+: 1 0 0  
+E
+
+Converted by JakobO, thanks to Mike Haggar
+and Chmurek for your excellent tools!
+
+This file was converted from XML using
+GOSU converter v1.0a ENG by Cloud aka Chmurek

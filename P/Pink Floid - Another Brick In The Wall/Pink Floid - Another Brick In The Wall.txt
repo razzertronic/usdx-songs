@@ -1,0 +1,141 @@
+#TITLE:Another Brick In The Wall
+#ARTIST:Pink Floid 
+#MP3:Pink Floid - Another Brick In The Wall.mp3
+#BPM:103
+#GAP:800
+: 3 3 50 We
+: 6 3 52  don't
+: 9 5 53  need
+: 14 6 52  no
+: 20 3 50  ed
+: 23 2 52 u
+: 25 3 53 cat
+: 28 8 52 ion.
+- 62
+: 66 3 50 We
+: 69 3 52  don't
+: 72 5 53  need
+: 77 6 52  no
+: 83 3 50  thought
+: 86 2 52  con
+: 88 10 53 trol.
+- 119
+: 127 6 50 No dark
+: 133 3 52  sar
+: 136 4 53 ca
+: 140 4 52 sm
+: 144 6 50  in
+: 150 1 52  the
+: 151 5 53  class
+: 156 6 52 room.
+- 181
+: 193 4 50 Teach
+: 197 2 52 er,
+: 199 4 53  leave
+: 203 5 52  those
+: 208 5 50  kids
+: 213 1 52  a
+: 214 9 53 lone.
+- 260
+: 264 5 55 Hey,
+: 271 3 50 Teach
+: 274 2 52 er,
+: 279 4 53  leave
+: 283 1 52  those
+: 284 3 50  kids
+: 287 1 52  a
+: 288 5 53 lone.
+- 304
+: 324 2 41 All
+: 326 2 43  in
+: 328 4 43  all 
+- 332
+: 332 2 48 just
+: 340 1 50  an
+: 341 2 52 other
+: 343 3 53  brick
+: 346 3 52  in
+: 349 2 51  the
+: 351 5 50  wall.
+- 370
+: 387 3 41 All
+: 390 1 43  in
+: 391 2 43  all
+: 393 2 46  it's
+- 395
+: 395 3 48 just
+: 404 1 50  an
+: 405 2 52 other
+: 407 3 53  brick
+: 410 3 52  in
+: 413 3 51  the
+: 416 7 50  wall.
+- 429
+: 447 3 50 We
+: 450 4 52  don't
+: 454 4 53  need
+: 458 5 52  no
+: 463 3 50  ed
+: 466 3 52 u
+: 469 4 53 cat
+: 473 6 52 ion.
+- 508
+: 510 3 50 We
+: 513 4 52  don't
+: 517 4 53  need
+: 521 5 52  no
+: 526 4 50  thought
+: 530 2 52  con
+: 532 7 53 trol.
+- 565
+: 571 6 50 No dark
+: 577 3 52  sar
+: 580 4 53 ca
+: 584 6 52 sm
+: 590 3 50  in
+: 593 3 52  the
+: 596 4 53  class
+: 600 6 52 room.
+- 635
+: 637 3 50 Teach
+: 640 3 52 er,
+: 643 5 53  leave
+: 648 5 52  those
+: 653 4 50  kids
+: 657 2 52  a
+: 659 6 53 lone.
+- 706
+: 708 6 55 Hey,
+: 715 4 50 Teach
+: 719 3 52 er,
+: 722 4 53  leave
+: 726 2 52  those
+: 728 2 50  kids
+: 730 2 52  a
+: 732 5 53 lone.
+- 750
+: 768 2 41 All
+: 770 2 43  in
+: 772 2 43  all 
+- 775
+: 776 2 48  just
+: 784 2 50  an
+: 786 2 52 other
+: 788 3 53  brick
+: 791 2 52  in
+: 793 2 51  the
+: 795 6 50  wall.
+- 825
+: 832 2 41 All
+: 834 2 43  in
+: 836 2 43  all
+: 838 2 46  it's
+- 840
+: 840 2 48  just
+: 848 1 50  an
+: 849 3 52 other
+: 852 2 53  brick
+: 854 4 52  in
+: 858 1 51  the
+: 859 7 50  wall.
+E

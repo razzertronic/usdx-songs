@@ -1,0 +1,150 @@
+#TITLE:Only You
+#ARTIST:The Platters
+#LANGUAGE:English
+#MP3:The Platters - Only You.mp3
+#COVER:The Platters - Only You [CO].jpg
+#BACKGROUND:The Platters - Only You [BG].jpg
+#BPM:121
+#GAP:4500
+: 0 7 56 On
+: 7 6 57 ly
+: 13 31 66  you
+: 44 5 57  can
+: 49 8 62  make
+: 57 5 66  this
+: 62 9 64  world
+: 71 4 61  seem
+: 75 18 58  right
+- 95
+: 99 8 64 On
+: 107 3 64 ly
+: 110 30 66  you
+: 140 6 54  can
+: 146 5 59  make
+: 154 5 62  the
+: 159 9 60  dark
+: 168 3 57 ness
+: 171 17 54  bright
+- 190
+: 194 7 55 On
+: 201 6 57 ly
+: 207 9 59  you
+: 216 4 55  and
+: 220 6 59  you
+: 226 4 62  a
+: 230 14 61 lone
+- 245
+: 245 12 66  can
+: 257 7 69  thrill
+: 264 6 66  me
+: 270 7 66  like
+: 277 2 66  you
+: 279 13 62  do
+- 295
+: 299 4 62 And
+: 303 9 64  fill
+: 312 4 62  my
+: 316 9 62  heart
+: 325 10 59  with love
+- 336
+: 336 4 58  for
+: 340 6 59  on
+: 346 6 66 ly
+: 352 28 66  you
+: 382 13 66 On
+: 395 3 66 ly
+: 398 26 66  you
+- 426
+: 429 6 57  can
+: 435 6 62  make
+: 442 4 66  this
+: 446 11 64  change
+: 457 2 61  in
+: 459 13 58  me
+- 476
+: 482 10 64 For
+: 492 2 64  it's
+: 494 26 66  true
+: 524 7 54  you
+: 531 6 59  are
+: 537 7 62  my
+: 544 8 60  des
+: 552 1 57 ti
+: 553 20 54 ny
+- 575
+: 578 6 55 When
+: 584 6 57  you
+: 590 9 59  hold
+: 599 4 55  my
+: 603 7 59  hand
+: 610 4 62  I
+: 614 21 61  understand
+- 635
+: 635 2 66 The
+: 637 8 69  ma
+: 645 6 66 gic
+: 651 5 66  that
+: 658 5 66  you
+: 663 9 62  do
+- 673
+: 674 6 62 You're
+: 680 15 64  my dream
+: 695 3 62  come
+: 698 6 62  true,
+: 706 10 59  my one
+- 717
+: 719 3 58  and
+: 722 5 59  on
+: 727 7 66 ly
+: 734 26 64  you
+: 766 14 66 On
+: 780 2 66 ly
+: 782 26 66  you
+- 810
+: 811 6 57  can
+: 817 9 62  make
+: 826 3 66  this
+: 829 11 64  change
+: 840 2 61  in
+: 842 17 58  me
+- 862
+: 866 9 64 For
+: 875 2 64  it's
+: 877 27 66  true
+: 908 7 54  you
+: 915 5 59  are
+: 920 6 62  my
+: 926 10 60  des
+: 936 1 57 ti
+: 937 19 54 ny
+- 958
+: 962 5 55 When
+: 967 6 57  you
+: 973 9 59  hold
+: 982 5 64  my
+: 987 7 64  hand
+: 994 3 62  I
+: 997 10 62  under
+: 1007 12 66 stand
+- 1019
+: 1019 2 59 The
+: 1021 7 57  ma
+: 1028 6 59 gic
+: 1034 7 61  that
+: 1041 5 62  you
+: 1046 9 66  do
+- 1055
+: 1055 11 64 You're
+: 1066 4 62  my
+: 1070 9 64  dream
+: 1079 3 66  come
+: 1082 7 59  true,
+- 1090
+: 1090 5 60  my
+: 1095 10 61  one
+: 1105 4 59  and
+: 1109 8 61  on
+: 1117 12 66 ly
+: 1129 68 69  you
+E
+made by andreasmike

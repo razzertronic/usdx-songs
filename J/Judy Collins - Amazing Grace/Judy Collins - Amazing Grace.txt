@@ -1,0 +1,136 @@
+#TITLE:Amazing Grace
+#ARTIST:Judy Collins
+#LANGUAGE:English
+#MP3:Judy Collins - Amazing Grace.mp3
+#COVER:Judy Collins - Amazing Grace [CO].jpg
+#BACKGROUND:Judy Collins - Amazing Grace [BG].jpg
+#BPM:61
+#GAP:500
+: 0 4 58 A
+: 4 8 63 ma
+: 12 4 67 zing 
+: 16 8 67 Grace 
+: 24 4 65 how 
+: 28 8 63 sweet 
+: 36 4 60 the 
+: 40 7 58 sound
+- 48
+: 48 5 58 that 
+: 53 7 63 saved 
+: 60 4 67 a 
+: 64 8 67 wretch 
+: 72 4 65 like 
+: 76 18 70 me. 
+- 95
+: 95 4 67 I 
+: 99 7 70 once 
+: 106 5 67 was 
+: 111 8 63 lost 
+: 119 6 58 but 
+: 125 7 60 now
+- 133
+: 133 4 63 I'm 
+: 137 8 58 found 
+: 145 6 58 was 
+: 151 9 63 blind 
+: 160 4 67 but 
+: 164 9 67 now 
+: 173 5 65 I 
+: 178 18 63 see. 
+- 196
+: 196 6 70 T'was 
+: 202 6 63 Grace 
+: 208 4 67 that 
+: 212 7 67 taught 
+: 219 4 65 my 
+: 223 6 63 heart
+- 230
+: 230 4 60 to 
+: 234 7 58 fear 
+: 241 5 58 and 
+: 246 8 63 Grace 
+: 254 4 67 my 
+: 258 8 67 fears 
+: 266 4 65 re
+: 270 18 70 leived. 
+- 289
+: 289 5 67 How 
+: 294 7 70 pre
+: 301 4 67 cious 
+: 305 8 63 did 
+: 313 4 58 that 
+: 317 8 60 Grace 
+: 325 5 63 ap
+: 330 7 58 pear
+- 337
+: 337 6 58 the 
+: 343 8 63 hour 
+: 351 4 67 I 
+: 355 8 67 first 
+: 363 6 65 be
+: 369 15 63 leived. 
+- 385
+: 385 6 59 Through 
+: 391 7 64 ma
+: 398 4 68 ny 
+: 402 8 68 dan
+: 410 4 66 gers 
+: 414 7 64 toils 
+: 421 4 61 and 
+: 425 7 59 snares
+- 433
+: 433 4 59 We 
+: 437 7 64 have 
+: 444 4 68 al
+: 448 8 68 rea
+: 456 4 66 dy 
+: 460 14 71 come. 
+- 475
+: 475 5 68 T'was 
+: 480 8 71 Grace 
+: 488 4 68 that 
+: 492 8 64 lead 
+: 500 3 59 me
+- 504
+: 504 8 61 safe 
+: 512 4 64 thus 
+: 516 8 59 far 
+: 524 5 59 and 
+: 529 8 64 Grace 
+: 537 4 68 will 
+: 541 9 68 lead 
+: 550 4 66 as 
+: 554 18 64 home. 
+- 573
+: 573 5 60 When 
+: 578 7 65 we've 
+: 585 3 69 been 
+: 588 7 69 there 
+: 595 5 67 ten 
+: 600 7 65 thou
+: 607 4 62 sand 
+: 611 7 60 years
+- 618
+: 618 4 60 bright 
+: 622 8 65 shin
+: 630 4 69 ing 
+: 634 7 69 as 
+: 641 4 67 the 
+: 645 17 72 sun 
+- 663
+: 664 4 69 we've 
+: 668 8 72 no 
+: 676 4 69 less 
+: 680 8 65 days 
+: 688 4 60 to 
+: 692 8 62 sing 
+: 700 4 65 God's 
+: 704 8 60 praise
+- 713
+: 713 5 60 then 
+: 718 7 65 when 
+: 725 5 69 we 
+: 730 8 69 first 
+: 738 5 67 be
+: 743 19 65 gun. 
+E

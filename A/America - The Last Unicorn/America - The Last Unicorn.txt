@@ -1,0 +1,213 @@
+#TITLE:The last unicorn
+#ARTIST:America
+#MP3:America - The Last Unicorn.mp3
+#BACKGROUND:America - The last Unicorn.jpg
+#COVER:America - The Last Unicorn
+#BPM:90
+#START:135
+#GAP:17069
+: 0 2 70  When
+: 2 2 72  the
+: 4 6 73  last
+: 10 4 72  eagle
+: 17 2 70  flies
+-25
+: 26 2 70  Over
+: 29 2 70  the
+: 32 6 68  last
+: 40 2 72  crum 
+: 44 2 70  -bling 
+: 46 4 70  moun 
+: 51 6 68  -tain 
+-58
+: 60 2 72  And
+: 62 2 68  the
+: 64 6 70  last
+: 70 4 72   li 
+: 74 2 73 -on
+: 77 8 72  roars
+-88
+: 90 2 70  At
+: 92 2 70  the
+: 94 4 68  last
+: 100 3 72  dus 
+: 104 3 70  -ty 
+: 107 3 70  foun 
+: 110 6 68  -tain 
+-115
+: 119 2 72  In
+: 122 2 68  the
+: 124 4 70  shadow
+: 128 2 72  of
+: 133 3 73  the
+: 138 3 70  fo  
+: 141 8 68  -rest
+-146
+: 149 3 72  Though
+: 152 2 68  she
+: 154 2 68  may
+: 157 2 65  be
+: 159 2 68  old
+: 164 2 70  and
+: 169 4 70  worm
+-172
+: 179 2 70  They
+: 181 2 68  will
+: 183 4 61  stare
+: 189 3 65  un 
+: 192 2 66 -be 
+: 194 4 68 -lie 
+: 198 6 65 -ving
+-204
+: 206 2 66  At
+: 208 2 68  the
+: 210 5 61  last
+: 215 2 65  u 
+: 219 2 66  -ni 
+: 221 6 68  -corn
+-230
+: 250 2 66  When
+: 252 2 65  the
+: 254 6 63  first
+: 260 6 70  breath
+: 266 2 72  of
+: 270 2 73  win-
+: 272 4 72  ter
+-276
+: 280 2 70  though
+: 282 2 70  the
+: 284 3 70  flo-
+: 290 3 68  wers
+: 294 3 72  is
+: 298 4 70  i-
+: 302 6 70  cing
+-306
+: 310 2 68  And
+: 312 2 72  you
+: 315 4 68  look
+: 320 2 70  to
+: 324 2 72  the
+: 328 8 73  north
+-334
+: 340 2 72  And
+: 342 2 70  a
+: 344 6 70  pale
+: 350 2 68  moon
+: 354 2 72  is
+: 357 4 70  ri-
+: 361 4 70  sing
+-364
+: 370 2 68  And
+: 372 2 72  it
+: 374 4 68  seems
+: 378 2 70  like
+: 380 2 72  all
+: 384 2 73  is
+: 388 3 73  dy-
+: 392 4 73  ing
+-396
+: 400 2 72  And
+: 402 1 68  would
+: 403 3 68  leave
+: 408 2 65  the
+: 410 2 68  world
+: 414 2 70  to
+: 418 4 70  mourn
+-424
+: 430 2 70  In
+: 432 2 68  the
+: 434 2 61  dis-
+: 436 2 65  tance
+: 439 2 66  hear
+: 442 2 68  her
+: 444 3 61  laugh-
+: 448 4 65  ter
+-450
+: 456 2 66  Of
+: 458 2 68  the
+: 460 4 61  last
+: 464 2 65  u-
+: 468 2 66  ni-
+: 470 8 68  corn
+-480
+: 485 1 73  I´m
+: 486 2 75  a-
+: 490 8 75  live
+-510
+: 515 2 70  I´m
+: 517 2 73  a-
+: 519 8 73  live
+-555
+: 588 2 68  When
+: 590 2 77  the
+: 592 6 75  last
+: 598 4 73  moon
+: 602 2 72  is
+: 605 6 73  cast
+-610
+: 614 2 70  Over
+: 618 2 72  the
+: 620 6 73  last
+: 630 2 72  star
+: 632 2 70  of
+: 634 3 70  mor-
+: 638 8 70  ning
+-646
+: 648 2 68  And
+: 650 2 72  the
+: 652 4 70  fu-
+: 656 4 70  ture
+: 661 2 68  is
+: 664 4 72  past
+-668
+: 670 2 68  With-
+: 672 2 70  out
+: 674 2 72  e-
+: 676 2 73  ven
+: 678 1 72  a
+: 679 8 70  last
+: 688 2 70  des-
+: 692 2 68  parate
+: 694 3 70  war-
+: 698 4 70  ning
+-702
+: 707 3 68  Then
+: 711 3 72  look
+: 714 2 68  in-
+: 717 3 70  to
+: 722 3 72  the
+: 726 3 73  sky
+: 730 2 73  were
+: 733 4 73  through
+-736
+: 738 2 72  The
+: 740 3 68  clouds
+: 743 2 68  a
+: 745 2 65  path
+: 750 3 68 -is
+: 754 6 70  formed
+-764
+: 766 2 70  Look
+: 768 2 70  and
+: 770 2 68  see
+: 772 2 61  her
+: 775 3 65  how
+: 778 3 66  she
+: 782 2 68  spark-
+: 784 4 61  les
+-790
+: 792 2 65  It's
+: 794 2 66  the
+: 796 4 68  last
+: 800 10 61  unicorn
+-815
+: 820 2 65  I´m 
+: 822 2 66  a-
+: 824 8 68  live
+-840
+: 850 2 73  I´m
+: 852 2 75  a-
+: 854 10 75  live
+-870
+: 875 12 72 -by Elli (peacekeeper) & Andy 2006
+E

@@ -1,0 +1,335 @@
+#TITLE:I just called to say I love you
+#ARTIST:Stevie Wonder
+#MP3:Stevie Wonder - I just called to say I love you.mp3
+#RELATIVE:yes
+#BPM:112
+#GAP:7300
+: 0 2 68 No 
+: 2 5 72 New 
+: 8 2 73 Year's 
+: 10 8 73 Day
+- 20 32 
+: 0 2 68 to 
+: 2 5 72 ce
+: 8 2 73 le
+: 10 8 73 brate 
+- 20 32
+: 0 2 68 No 
+: 2 5 72 choco
+: 8 2 73 late 
+: 10 4 73 co
+: 14 2 72 vered
+- 16 16 
+: 0 4 73 can
+: 4 4 75 dy 
+: 8 4 77 hearts 
+: 12 2 75 to 
+: 14 4 73 give 
+: 18 4 72 a
+: 22 8 70 way 
+- 36 46
+: 0 2 70 No 
+: 2 5 74 first 
+: 8 2 75 of 
+: 10 14 73 spri-
+: 24 8 74 ing 
+- 32 32
+: 0 2 70 No 
+: 2 3 74 song 
+: 5 8 74 to 
+: 13 5 70 sing
+- 24 32 
+: 0 2 70 In 
+: 2 5 74 fact 
+: 8 2 75 here's 
+: 10 4 75 just 
+: 14 4 73 a
+: 18 4 73 no
+: 22 2 75 ther 
+: 24 5 77 or
+: 29 2 75 di
+: 31 5 73 na
+: 36 2 72 ry 
+: 38 8 68 day
+- 54 62
+: 0 2 68 No 
+: 2 5 72 a
+: 8 2 73 pril 
+: 10 10 73 rain 
+- 24 32
+: 0 2 68 No 
+: 2 5 72 flow
+: 7 3 73 ers 
+: 10 10 73 bloom
+- 24 32
+: 0 2 68 No 
+: 2 5 72 we
+: 8 2 73 dding 
+: 10 4 73 sa
+: 14 4 72 tur
+: 18 4 73 day
+- 22 22 
+: 0 2 75 with
+: 2 7 77 in 
+: 9 2 75 the 
+: 11 4 73 month 
+: 15 8 72 of 
+: 23 7 70 june
+- 34 42
+: 0 2 70 But 
+: 2 5 74 what 
+: 8 2 75 it 
+: 10 14 75 i-
+: 24 8 74 is
+- 32 32
+: 0 2 70 Is 
+: 2 2 74 some
+: 4 9 74 thing 
+: 13 5 70 true
+- 24 32
+: 0 2 70 Made 
+: 2 5 74 up 
+: 8 2 75 of 
+: 10 5 75 these 
+: 15 2 73 three 
+: 17 4 73 words
+- 21 21 
+: 0 2 75 that 
+: 2 6 77 I 
+: 8 2 75 must 
+: 10 4 73 say 
+: 14 4 72 to 
+: 18 8 73 you 
+- 32 42
+: 0 2 73 I 
+: 2 3 73 just 
+: 5 8 70 called, 
+: 20 2 73 to 
+: 22 6 72 say, 
+: 36 2 68 I 
+: 38 4 72 love 
+: 42 8 73 you 
+- 54 64
+: 0 2 73 I 
+: 2 3 73 just 
+: 5 8 70 called, 
+: 20 2 68 to 
+: 22 4 72 say, 
+: 26 3 70 how 
+: 29 5 68 much 
+: 34 4 70 I 
+: 38 6 65 care 
+- 50 62
+: 0 2 73 I 
+: 2 3 73 just 
+: 5 8 70 called, 
+: 20 2 73 to 
+: 22 6 72 say,
+: 36 2 68 I 
+: 38 6 75 lo-
+: 42 6 77 ove 
+: 48 8 73 you 
+- 60 64
+: 0 2 73 And 
+: 2 4 73 I 
+: 6 6 70 mean 
+: 12 2 68 it 
+: 16 4 66 from 
+: 20 2 63 the 
+: 22 4 65 bot
+: 26 5 63 tom 
+: 32 2 65 of 
+: 34 8 63 my 
+: 42 8 61 heart
+- 52 62
+: 0 2 68 No 
+: 2 5 72 sum
+: 8 2 73 mer's 
+: 10 8 73 high 
+- 20 30
+: 0 2 68 No 
+: 2 5 72 warm 
+: 8 2 73 ju
+: 10 8 73 ly  
+- 20 32
+: 0 2 68 No 
+: 2 5 72 har
+: 8 2 73 vest 
+: 10 6 73 moon 
+: 16 2 72 to 
+- 18 18 
+: 0 2 73 light 
+: 4 2 75 one 
+: 6 6 77 gen
+: 12 3 75 der 
+: 15 5 73 au
+: 20 4 72 gust 
+: 24 8 70 night
+- 36 46
+: 0 2 70 No 
+: 2 5 74 au
+: 8 2 75 tumn 
+: 10 14 73 bree-
+: 24 8 74 ze 
+- 32 32
+: 0 2 70 No 
+: 2 3 74 fa
+: 5 8 74 lling 
+: 13 5 70 leaves
+- 24 32 
+: 0 2 70 Not 
+: 2 3 74 e
+: 5 2 75 ven 
+: 7 5 75 time 
+: 12 3 73 for 
+: 15 6 73 birds 
+: 21 2 75 to 
+: 23 6 77 fly 
+: 29 2 75 to 
+: 31 3 73 sou
+: 34 4 72 thern 
+: 38 8 68 skies 
+- 54 62
+: 0 2 68 No 
+: 2 5 72 li
+: 8 2 73 bra 
+: 10 10 73 sun 
+- 24 32
+: 0 2 68 No 
+: 2 4 72 ha
+: 6 2 73 llo
+: 8 10 73 ween 
+- 24 32
+: 0 2 68 No 
+: 2 4 72 gi
+: 6 2 73 ving 
+: 8 6 73 thanks 
+: 14 4 72 to 
+: 18 6 73 all
+- 24 24 
+: 0 2 75 the 
+: 2 6 77 christ
+: 8 2 75 mas 
+: 10 4 73 joy 
+: 14 6 72 you 
+: 20 7 70 bring 
+- 34 38
+: 0 2 70 But 
+: 2 5 74 what 
+: 8 2 75 it 
+: 10 14 75 i-
+: 24 8 74 is
+- 32 32
+: 0 2 70 Though 
+: 2 4 74 old 
+: 6 7 74 so 
+: 13 5 70 new 
+- 24 32
+: 0 2 70 To 
+: 2 4 74 fill 
+: 8 2 75 your 
+: 10 5 75 heart 
+: 15 2 73 like 
+: 17 4 73 no 
+- 21 21 
+: 0 2 75 three 
+: 2 6 77 words 
+: 8 2 75 could 
+: 10 4 73 e
+: 14 4 72 ver 
+: 18 8 73 do 
+- 32 42
+: 0 2 73 I 
+: 2 3 73 just 
+: 4 8 70 called, 
+: 20 2 73 to 
+: 22 6 72 say, 
+: 36 2 68 I 
+: 38 4 72 love 
+: 42 8 73 you 
+- 54 64
+: 0 2 73 I 
+: 2 3 73 just 
+: 4 8 70 called, 
+: 20 2 68 to 
+: 22 4 72 say, 
+: 26 3 70 how 
+: 29 5 68 much 
+: 34 4 70 I 
+: 38 4 65 care,
+: 42 10 65 I 
+: 52 6 65 do 
+- 60 62
+: 0 2 73 I 
+: 2 3 73 just 
+: 5 8 70 called, 
+: 20 2 73 to 
+: 22 6 72 say,
+: 36 2 68 I 
+: 38 6 75 lo-
+: 42 6 77 ove 
+: 48 8 73 you 
+- 60 64
+: 0 2 73 And 
+: 2 4 73 I 
+: 6 6 70 mean 
+: 12 2 68 it 
+: 16 4 66 from 
+: 20 2 63 the 
+: 22 4 65 bot
+: 26 5 63 tom 
+: 32 2 65 of 
+: 34 8 63 my 
+: 42 8 61 heart
+- 52 62
+: 0 2 73 I 
+: 2 3 73 just 
+: 4 8 70 called, 
+: 20 2 73 to 
+: 22 6 72 say, 
+: 36 2 68 I 
+: 38 4 72 love 
+: 42 8 73 you 
+- 54 64
+: 0 2 73 I 
+: 2 3 73 just 
+: 4 8 70 called, 
+: 20 2 68 to 
+: 22 4 72 say, 
+: 26 3 70 how 
+: 29 5 68 much 
+: 34 4 70 I 
+: 38 10 65 ca
+: 48 4 65 re, 
+: 52 4 65 I 
+: 56 6 65 do 
+- 62 64
+: 0 2 73 I 
+: 2 3 73 just 
+: 4 8 70 called, 
+: 20 2 73 to 
+: 22 6 72 say, 
+: 36 2 68 I 
+: 38 4 72 love 
+: 42 8 73 you 
+- 60 64
+: 0 2 73 And 
+: 2 4 73 I 
+: 6 6 70 mean 
+: 12 2 68 it 
+: 16 4 66 from 
+: 20 2 63 the 
+: 22 4 65 bot
+: 26 5 63 tom 
+: 32 2 65 of 
+: 34 8 63 my 
+: 42 8 61 heart
+- 52 56 
+: 0 6 73 of 
+: 6 6 75 my 
+: 12 8 70 heart 
+- 22 30
+: 0 6 77 of 
+: 6 6 74 my 
+: 12 26 74 heart
+E

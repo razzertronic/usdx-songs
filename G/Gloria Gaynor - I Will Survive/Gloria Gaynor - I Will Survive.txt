@@ -1,0 +1,596 @@
+#TITLE:I Will Survive
+#ARTIST:Gloria Gaynor
+#MP3:Gloria Gaynor - I Will Survive.mp3
+#COVER:Gloria Gaynor - I Will Survive [CO].jpg
+#BACKGROUND:Gloria Gaynor - I Will Survive [BG].jpg
+#BPM:350
+#GAP:1946
+#RELATIVE:YES
+: 0 4 69 First 
+: 6 4 69 I 
+: 10 3 69 was 
+: 13 4 69 af - 
+: 17 9 69 raid 
+- 30 35
+: 0 5 71 I 
+: 5 4 72 was 
+: 9 6 71 pet - 
+: 15 3 69 ri - 
+: 19 9 69 fied 
+- 34 41
+: 0 4 69 Kept 
+: 6 3 69 think - 
+: 10 3 69 ing 
+: 14 5 69 I 
+: 19 3 67 could 
+: 24 4 67 nev - 
+: 29 3 67 er 
+: 34 5 69 live 
+- 39 41
+: 0 4 67 With - 
+: 6 5 67 out 
+: 11 3 65 you 
+: 17 4 65 by 
+: 22 4 64 my 
+: 28 10 64 side 
+- 45 52
+: 0 4 64 But 
+: 4 4 64 then 
+: 8 4 64 I 
+: 15 4 65 spent 
+: 22 4 64 so 
+: 28 3 64 ma - 
+: 32 3 64 ny 
+: 36 8 64 nights 
+- 46 49
+: 0 4 64 Think - 
+: 4 4 64 ing 
+: 12 5 64 how 
+: 18 4 62 you 
+: 23 3 62 did 
+: 27 4 62 me 
+: 32 8 64 wrong 
+- 43 46
+: 0 3 57 And 
+: 4 4 64 I 
+: 9 3 64 grew 
+: 14 10 64 strong 
+- 33 43
+: 0 3 57 And 
+: 4 3 64 I 
+: 8 6 64 learned 
+: 17 7 68 how 
+: 24 3 68 to 
+: 28 3 68 get 
+: 31 5 69 a - 
+: 36 7 71 long 
+- 45 47
+: 0 4 68 And 
+: 5 4 68 so 
+: 10 5 68 you're 
+: 16 8 69 back 
+- 34 46
+: 0 4 69 From 
+: 5 4 69 out - 
+: 9 3 69 er 
+: 13 6 69 space 
+- 29 45
+: 0 3 69 I 
+: 6 4 69 just 
+: 11 6 69 walked 
+: 18 4 69 in 
+: 24 3 67 to 
+: 27 5 67 find 
+: 33 4 67 you 
+: 38 6 69 here 
+- 44 45
+: 0 5 67 With 
+: 5 3 67 that 
+: 11 5 67 sad 
+: 19 3 69 look 
+: 23 3 67 up - 
+: 27 4 67 on 
+: 32 4 67 your 
+: 38 6 69 face 
+- 46 48
+: 0 4 64 I 
+: 6 2 64 should 
+: 8 3 64 have 
+: 13 4 64 changed - 
+: 17 3 65 - 
+- 20 21
+: 0 4 64 That 
+: 7 3 64 stu - 
+: 11 3 64 pid 
+: 15 5 64 lock 
+- 23 26
+: 0 3 64 I 
+: 5 3 64 should 
+: 8 3 64 have 
+: 13 4 64 made - 
+: 17 3 62 - 
+: 21 2 62 you 
+- 23 24
+: 0 4 62 Leave 
+: 6 3 62 your 
+: 11 2 62 key - 
+: 13 3 64 - 
+- 19 23
+: 0 3 57 If 
+: 5 5 64 I 
+: 10 3 64 had 
+: 14 5 64 known 
+: 21 3 64 for 
+: 24 5 64 just 
+: 31 4 64 one 
+: 38 5 64 sec - 
+: 43 4 64 ond 
+- 47 49
+: 0 4 64 You'd 
+: 7 4 64 be 
+: 14 4 68 back 
+: 19 3 68 to 
+: 22 4 68 both - 
+: 28 3 69 er 
+: 32 4 71 me 
+- 39 42
+: 0 3 68 Go 
+: 4 5 68 on 
+: 10 5 68 now 
+: 18 7 69 go 
+- 35 47
+: 0 4 69 Walk 
+: 6 5 69 out 
+: 12 3 69 the 
+: 15 9 69 door 
+- 34 46
+: 0 3 69 Just 
+: 6 4 69 turn 
+: 10 3 69 a - 
+: 13 4 69 round - 
+: 17 4 67 - 
+: 21 4 67 now - 
+: 25 5 69 - 
+- 38 46
+: 0 3 67 'Cause 
+: 5 3 69 you're 
+: 10 5 67 not 
+- 16 18
+: 0 4 69 Wel - 
+: 6 5 67 come 
+: 13 2 67 a - 
+: 15 3 67 ny - 
+: 19 6 69 more 
+- 35 52
+: 0 4 64 Weren't 
+: 6 3 64 you 
+: 10 3 64 the 
+: 14 6 64 one 
+: 20 3 64 who 
+- 24 26
+: 0 6 64 Tried 
+: 6 4 64 to 
+: 12 5 64 hurt 
+: 18 6 62 me 
+: 26 3 62 with 
+: 30 4 62 good - 
+: 34 4 64 bye 
+- 42 46
+: 0 2 62 D'you 
+: 3 3 64 think 
+: 6 5 64 I'd 
+: 15 4 64 crum - 
+: 21 9 64 ble 
+- 38 47
+: 0 2 62 D'you 
+: 3 3 64 think 
+: 6 5 64 I'd 
+: 15 7 68 lay 
+: 22 6 68 down 
+: 29 3 69 and 
+: 33 8 71 die 
+- 41 43
+: 0 6 68 Oh 
+: 7 4 68 no 
+: 12 5 68 not 
+: 18 9 69 I 
+- 37 47
+: 0 4 69 I 
+: 5 4 71 will 
+: 11 3 72 sur - 
+: 14 5 71 vive - 
+: 19 8 69 - 
+- 37 47
+: 0 9 69 Oh 
+: 10 4 69 as 
+: 17 4 69 long 
+: 23 5 67 as 
+: 29 4 67 I 
+: 34 5 67 know 
+: 40 4 69 how 
+: 45 2 67 to 
+: 49 5 67 love 
+- 54 55
+: 0 7 67 I 
+: 8 4 69 know 
+: 13 4 67 I'll 
+: 19 4 67 stay 
+: 23 4 67 a - 
+: 27 7 69 live 
+- 38 43
+: 0 4 64 I've 
+: 6 6 64 got 
+: 12 4 64 all 
+: 17 3 64 my 
+: 23 3 64 life 
+: 29 2 64 to 
+: 32 6 64 live 
+- 42 46
+: 0 6 64 I've 
+: 6 4 64 got 
+: 12 4 64 all 
+: 18 3 64 my 
+: 23 3 65 love 
+: 29 3 64 to 
+: 32 7 64 give 
+- 41 44
+: 0 2 64 And 
+: 2 4 65 I'll 
+: 8 2 64 sur - 
+: 11 10 64 vive 
+- 31 42
+: 0 4 69 I 
+: 7 5 69 will 
+: 12 4 66 sur - 
+: 16 12 68 vive 
+- 38 48
+: 0 9 68 Hey, 
+: 10 13 69 hey 
+- 33 374
+: 0 5 68 It 
+: 7 5 68 took 
+: 14 5 69 all 
+: 20 2 69 the 
+: 23 4 69 strength 
+: 28 5 69 I 
+: 33 5 69 had 
+- 43 49
+: 0 4 71 Not 
+: 6 4 72 to 
+: 10 4 71 fall 
+: 14 4 69 a - 
+: 18 8 69 part 
+- 33 41
+: 0 3 69 Kept 
+: 5 5 69 try - 
+: 11 3 72 ing 
+: 16 4 69 hard 
+: 22 4 67 to 
+: 26 4 67 mend 
+- 30 31
+: 0 4 67 The 
+: 6 4 69 pie - 
+: 12 7 67 ces 
+: 20 3 67 of 
+: 24 4 65 my 
+: 29 4 65 bro - 
+: 34 5 64 ken 
+: 39 6 64 heart 
+- 52 59
+: 0 4 62 And 
+: 5 4 64 I 
+: 10 5 64 spent 
+: 16 5 65 oh 
+: 24 4 64 so 
+: 30 3 64 ma - 
+: 34 3 64 ny 
+: 38 8 64 nights 
+- 46 47
+: 0 6 64 Just 
+: 8 3 64 feel - 
+: 12 3 64 ing 
+: 17 4 64 sor - 
+: 22 4 62 ry 
+: 28 3 62 for 
+: 32 4 62 my - 
+: 39 7 64 self 
+- 46 47
+: 0 4 64 I 
+: 5 3 64 used 
+: 10 3 64 to 
+: 13 7 64 cry 
+- 30 45
+: 0 4 62 But 
+: 6 4 64 now 
+: 11 4 64 I 
+: 17 5 68 hold 
+: 24 5 68 my 
+: 29 4 68 head 
+: 34 3 69 up 
+: 39 9 71 high 
+- 48 49
+: 0 3 68 And 
+: 5 4 68 you 
+: 11 4 68 see 
+: 17 9 69 me 
+- 36 46
+: 0 3 69 Some - 
+: 5 6 69 bo - 
+: 11 3 69 dy 
+: 14 10 69 new 
+- 34 45
+: 0 4 69 I'm 
+: 6 4 69 not 
+: 11 5 69 that 
+: 18 4 69 chained 
+: 23 4 67 up 
+- 27 29
+: 0 3 67 Lit - 
+: 3 3 67 tle 
+: 9 4 69 per - 
+: 15 4 67 son 
+- 21 23
+: 0 4 67 Still 
+: 4 3 65 in 
+: 9 4 65 love 
+: 14 3 64 with 
+: 18 9 64 you 
+- 34 41
+: 0 4 64 And 
+: 6 6 64 so 
+: 12 4 64 you 
+: 18 4 65 felt 
+: 24 3 64 like 
+: 30 5 64 drop - 
+: 35 3 64 ping 
+: 38 7 64 in 
+- 45 46
+: 0 3 64 And 
+: 7 3 64 just 
+: 12 4 64 ex - 
+: 18 4 64 pect 
+: 23 3 62 me 
+: 28 2 62 to 
+: 32 3 62 be 
+: 37 7 64 free 
+- 48 52
+: 0 5 64 Now 
+: 6 3 64 I'm 
+: 12 7 64 sav - 
+: 19 3 64 ing 
+: 22 3 64 all 
+: 26 5 64 my 
+: 34 6 64 lov - 
+: 40 4 64 ing 
+- 45 47
+: 0 3 64 For 
+: 6 4 64 some - 
+: 12 5 68 one 
+: 17 5 68 who's 
+: 22 4 68 lov - 
+: 27 4 69 ing 
+: 32 5 71 me 
+- 39 41
+: 0 5 68 Go 
+: 5 3 68 on 
+: 10 5 68 now 
+: 17 9 69 go 
+- 35 45
+: 0 4 69 Walk 
+: 7 4 69 out 
+: 13 3 69 the 
+: 16 10 69 door 
+- 36 47
+: 0 3 69 Just 
+: 6 4 69 turn 
+: 11 4 69 a - 
+: 15 4 69 round 
+: 22 4 67 now - 
+: 26 7 69 - 
+- 39 46
+: 0 3 67 'Cause 
+: 5 3 69 you're 
+: 10 6 67 not 
+- 17 19
+: 0 4 69 Wel - 
+: 6 5 67 come 
+: 11 3 67 a - 
+: 15 3 67 ny - 
+: 19 7 69 more 
+- 36 51
+: 0 4 64 Weren't 
+: 6 5 64 you 
+: 11 4 64 the 
+: 15 5 64 one 
+: 22 4 64 who 
+- 26 28
+: 0 5 64 Tried 
+: 7 3 64 to 
+: 11 4 64 break 
+: 17 4 62 me 
+: 24 5 62 with 
+: 30 3 62 good - 
+: 33 7 64 bye 
+- 42 45
+: 0 3 62 D'you 
+: 3 3 64 think 
+: 6 5 64 I'd 
+: 13 7 64 crum - 
+: 21 8 64 ble 
+- 37 45
+: 0 2 64 D'you 
+: 3 4 64 think 
+: 7 5 64 I'd 
+: 15 4 68 lay 
+: 22 7 68 down 
+: 29 4 69 and 
+: 34 8 71 die 
+- 42 43
+: 0 4 68 Oh 
+: 6 4 68 no 
+: 12 4 68 not 
+: 17 10 69 I 
+- 37 48
+: 0 4 69 I 
+: 5 5 71 will 
+: 12 3 72 sur - 
+: 15 4 71 vive - 
+: 20 9 69 - 
+- 38 47
+: 0 9 69 Oh 
+: 11 4 69 as 
+: 17 5 69 long 
+: 23 4 67 as 
+: 29 4 67 I 
+: 35 4 67 know 
+: 41 3 69 how 
+: 44 3 67 to 
+: 49 6 67 love 
+- 55 57
+: 0 4 67 I 
+: 6 4 69 know 
+: 10 4 67 I'll 
+: 17 3 67 stay 
+: 21 3 67 a - 
+: 25 7 69 live 
+- 37 42
+: 0 4 64 I've 
+: 6 4 64 got 
+: 12 4 64 all 
+: 18 4 64 my 
+: 24 4 64 life 
+: 29 3 64 to 
+: 32 6 64 live 
+- 42 47
+: 0 3 64 I've 
+: 5 3 64 got 
+: 11 4 64 all 
+: 17 4 64 my 
+: 23 4 65 love 
+: 29 2 64 to 
+: 31 6 64 give 
+- 39 41
+: 0 2 59 And 
+: 3 5 64 I'll 
+: 9 4 64 sur - 
+: 13 10 64 vive 
+- 33 46
+: 0 5 69 I 
+: 6 4 69 will 
+: 11 3 66 sur - 
+: 15 18 68 vive 
+- 43 60
+: 0 18 68 Oh 
+- 28 80
+: 0 3 68 Go 
+: 3 4 68 on 
+: 8 6 68 now 
+: 15 8 69 go 
+- 33 43
+: 0 5 69 Walk 
+: 6 5 69 out 
+: 12 2 69 the 
+: 15 7 69 door 
+- 32 47
+: 0 4 69 Just 
+: 6 4 69 turn 
+: 10 4 69 a - 
+: 14 5 69 round 
+: 21 4 67 now - 
+: 25 8 69 - 
+- 39 46
+: 0 4 67 'Cause 
+: 6 4 69 you're 
+: 10 6 67 not 
+- 16 18
+: 0 4 69 Wel - 
+: 6 4 67 come 
+: 12 3 67 a - 
+: 15 3 67 ny - 
+: 19 7 69 more 
+- 36 52
+: 0 4 64 Weren't 
+: 5 5 64 you 
+: 11 3 64 the 
+: 14 5 64 one 
+: 21 4 64 who 
+- 25 27
+: 0 4 64 Tried 
+: 6 3 64 to 
+: 10 4 65 break 
+: 17 4 64 me 
+: 25 3 64 with 
+: 30 3 64 good - 
+: 33 8 64 bye 
+- 41 43
+: 0 4 62 D'you 
+: 4 3 64 think 
+: 7 4 64 I'd 
+: 17 5 64 crum - 
+: 22 9 64 ble 
+- 39 48
+: 0 3 62 D'you 
+: 3 4 64 think 
+: 8 5 64 I'd 
+: 16 5 68 lay 
+: 23 5 68 down 
+: 30 4 69 and 
+: 36 6 71 die 
+- 42 44
+: 0 5 68 Oh 
+: 6 4 68 no 
+: 11 5 68 not 
+: 17 10 69 I 
+- 37 48
+: 0 4 69 I 
+: 6 5 71 will 
+: 12 3 72 sur - 
+: 15 5 71 vive - 
+: 20 7 69 - 
+- 36 46
+: 0 9 69 Oh 
+: 11 5 69 as 
+: 18 5 69 long 
+: 23 6 67 as 
+: 29 4 67 I 
+: 34 4 67 know 
+: 41 3 69 how 
+: 45 3 67 to 
+: 49 6 67 love 
+- 55 56
+: 0 5 67 I 
+: 8 4 69 know 
+: 12 4 67 I'll 
+: 19 3 67 stay 
+: 23 4 67 a - 
+: 27 5 69 live 
+- 36 41
+: 0 4 64 I've 
+: 6 4 64 got 
+: 12 4 64 all 
+: 18 4 64 my 
+: 24 4 64 life 
+: 29 3 64 to 
+: 32 6 64 live 
+- 43 48
+: 0 3 64 I've 
+: 5 3 64 got 
+: 11 4 64 all 
+: 17 4 64 my 
+: 23 4 65 love 
+: 29 3 64 to 
+: 32 5 64 give 
+- 39 41
+: 0 2 59 And 
+: 4 4 64 I'll 
+: 10 4 64 sur - 
+: 14 9 64 vive 
+- 33 91
+: 1 0 0  
+E
+
+Converted by JakobO, thanks to Mike Haggar
+and Chmurek for your excellent tools!
+
+This file was converted from XML using
+GOSU converter v1.0a ENG by Cloud aka Chmurek
